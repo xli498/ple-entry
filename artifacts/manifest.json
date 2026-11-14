@@ -1,0 +1,488 @@
+{
+  "format": 1,
+  "dev_set": "85ad6d96fbf76ee64d9fb6339b3bf342b07128a2ebadc0a10f008c95dac01a48",
+  "created": "2026-11-14T10:11:35Z",
+  "harness": {
+    "name": "ple-entry",
+    "model_api": "google-cloud/claude-opus-5-5",
+    "tree": null,
+    "files": null,
+    "commit": null,
+    "dirty": true
+  },
+  "tasks": {
+    "heat-rejection-life-cycle-cost": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 1.0,
+      "tree": null,
+      "final_message": "3bc713f2fb201bf3d0b18e0d0d8e1ab966e61b48",
+      "files": {
+        "filesystem/final_batch4__mechanical_task3_ct_heat_lcc__blind/output/submission.zip": "e83f26f5e61a85922579db16a2146f6d184c5146"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/heatreject/submission.zip",
+        "source_archive_sha256": "2214d2541f341529c7704386ce4f1493e746bd4edcccffb60d568a32b8e3b9e2",
+        "version": "v1",
+        "recorded_confirmation": "InstaBox replay; local splits",
+        "source_archive_members": [
+          {
+            "path": "CT_SCHEDULE_CUP.dxf",
+            "bytes": 44836,
+            "sha256": "187fcd4beb5bbcec26e7ce90a046930e1a9f5b8d8686b470b98ae4836366d252"
+          },
+          {
+            "path": "CT_SCHEDULE_ANNEX.dxf",
+            "bytes": 44854,
+            "sha256": "1d82ad67037445aa55759ddbfef50fe6139c712ed80a6d880111fd1849514d43"
+          },
+          {
+            "path": "CT_SCHEDULE_LAB.dxf",
+            "bytes": 43181,
+            "sha256": "8f6595f32dc31fc2fcd97e3713d17d84b8326ffdb2e57dfd33253b1e20296027"
+          },
+          {
+            "path": "CT_CALC_CUP.xlsx",
+            "bytes": 31229,
+            "sha256": "91c38a367461b6b96e58de536139bfa55b241e42c1b60672c129ebc5a1f58163"
+          },
+          {
+            "path": "CT_CALC_ANNEX.xlsx",
+            "bytes": 29919,
+            "sha256": "2b74d7222333133c09d58ea13d03a12678ccfe1b88932ae19d08f89f06f17b90"
+          },
+          {
+            "path": "CT_CALC_LAB.xlsx",
+            "bytes": 31166,
+            "sha256": "66b841caf7355fa44781ec1e196c9838fb3c6baf452d640742f695128b0bb8ac"
+          },
+          {
+            "path": "constraint_register.csv",
+            "bytes": 7575,
+            "sha256": "df8eab5954d28850cef6bab68fef27eac2024f123ec6fb67fbc8a7ef38e7adfc"
+          },
+          {
+            "path": "design_basis.md",
+            "bytes": 7101,
+            "sha256": "da6534fbef418363bd9e270026be382e3cfc8b884b7263a32b157c5e9f8c843b"
+          }
+        ]
+      }
+    },
+    "emergency-spillway-check": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 1.0,
+      "tree": null,
+      "final_message": "eef84a5ddc56008571f207f0e533a8279f5321bd",
+      "files": {
+        "filesystem/Memo_to_Callaway_Spillway_2026-10-31.docx": "ed88a9de5ef87b521446267bb92963199f813580"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/spillway/submission.zip",
+        "source_archive_sha256": "90cbcb27f9764a48638e2c642d9fcba40dd448151b256e06df56d6ede6b67d12",
+        "version": "v1",
+        "recorded_confirmation": "Direct VM execution of official grade.py, 37/37; not official-kit replay",
+        "source_archive_members": [
+          {
+            "path": "Memo_to_Callaway_Spillway_2026-10-31.docx",
+            "bytes": 39980,
+            "sha256": "6d086a144d21a0f5f252b87d361366ae85ac8d1b28e1f0bbbd4635c41e4b27f9"
+          }
+        ]
+      }
+    },
+    "footing-settlement-verification": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 1.0,
+      "tree": null,
+      "final_message": "ae6786515ed94c4526c95fa0a25262a8d94bb872",
+      "files": {
+        "filesystem/Thelbridge_Verification_Memo_Item051_BlockC.docx": "07299718623f78b44e422a70c52509416249c329"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/footing/submission.zip",
+        "source_archive_sha256": "6a69507f4d9a61b84e0e1c9aede6e12c237a6791959e448cf5907f1b82786667",
+        "version": "v1",
+        "recorded_confirmation": "Direct VM execution of official grade.py, 62/62; not official-kit replay",
+        "source_archive_members": [
+          {
+            "path": "Thelbridge_Verification_Memo_Item051_BlockC.docx",
+            "bytes": 13586,
+            "sha256": "323d9332aeaaa48e4264b293af230961081c8526b139081424b1a796a701dd04"
+          }
+        ]
+      }
+    },
+    "engineers-estimate-check": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 1.0,
+      "tree": null,
+      "final_message": "c29c7b9b45e2b46171e6f2f9877d59b061ecb4d3",
+      "files": {
+        "filesystem/Correspondence/Client/Memo_to_Callaway_2026-10-31.docx": "e9c42e652dd7cf94afa18fae408179f4c0e32a06"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/estimate/submission.zip",
+        "source_archive_sha256": "024e5bdb9b02e56aa3b677595847c3f863480f1ef8c38843eb55055e16ffba89",
+        "version": "v1",
+        "recorded_confirmation": "AWS official-kit offline replay, measured=true",
+        "source_archive_members": [
+          {
+            "path": "Correspondence/Client/Memo_to_Callaway_2026-10-31.docx",
+            "bytes": 40140,
+            "sha256": "099ee6ef7f20bc2716d362026f55d72add9f972cb843c47d4062cde5a0e484af"
+          }
+        ]
+      }
+    },
+    "shoring-design-verification": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 1.0,
+      "tree": null,
+      "final_message": "41dd8ed11357a4cf1ad25f7ef30ac19f3564ea5b",
+      "files": {
+        "filesystem/Thelbridge_Verification_Memo_Item048_BlockB.docx": "15d8da73b2ea2f78f87e845da2e02d0fccdb051b"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/shoring/submission.zip",
+        "source_archive_sha256": "8230324df6b87db7f19a5825566e8055a1578dc3cc8c9ca9b4db985d81cd9c47",
+        "version": "v1",
+        "recorded_confirmation": "AWS official-kit offline replay, measured=true",
+        "source_archive_members": [
+          {
+            "path": "Thelbridge_Verification_Memo_Item048_BlockB.docx",
+            "bytes": 17194,
+            "sha256": "30f74be5123e6a6a6273f7345d8a35e1ad5338d16190962f406afc74605c4acf"
+          }
+        ]
+      }
+    },
+    "cooling-water-flush-plan": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 0.937262,
+      "tree": null,
+      "final_message": "91a1db2c963fd61609154a87a2c28e6b0c82b436",
+      "files": {
+        "filesystem/final_batch4__mechanical_task5_pcw_flush_mop__blind/output/submission.zip": "cc2298b9dafe32ce30a467e9aa2411e7bed984fc"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/coolflush/submission_v5.zip",
+        "source_archive_sha256": "f5f72f77a906297fe8b21f4371538fc1b64d341c68909073e7efc86ddf4a7080",
+        "version": "v5",
+        "recorded_confirmation": "InstaBox official-kit offline replay; reproduced on Actions",
+        "source_archive_members": [
+          {
+            "path": "flush_plan.csv",
+            "bytes": 9366,
+            "sha256": "2fc7867907bbd4b55e1699dc08c28f8d0b7e1b56b16ad19c1d77d47556dda840"
+          },
+          {
+            "path": "chemistry_plan.csv",
+            "bytes": 4170,
+            "sha256": "7fc781d26e325c327003f4e47a3db4af5bddd9dcb0cd108b0092b0a3f70ae3d4"
+          },
+          {
+            "path": "acceptance_matrix.csv",
+            "bytes": 9809,
+            "sha256": "50ed6ac3a2f856371231ccf000d702aecd2470da250f45cf9b08cd0917d26063"
+          },
+          {
+            "path": "schedule.csv",
+            "bytes": 3343,
+            "sha256": "410b7bfe797a66f7135fc80aafc5d2cc7be8a3001a593455732bd68040e6d6c4"
+          },
+          {
+            "path": "resources.json",
+            "bytes": 3602,
+            "sha256": "5d8ab75a2e3c786f3f419ddd875c94835609805de933e9f98c04c1494246a31f"
+          },
+          {
+            "path": "constraint_register.csv",
+            "bytes": 5600,
+            "sha256": "49ac6641a720b8969e363c41ad143dea00cadbfba73bff29b94fab135dd8eafe"
+          },
+          {
+            "path": "MOP.md",
+            "bytes": 8698,
+            "sha256": "3d4eb3b6153641127cb528bc25cb893441213ad9beb38ce909c30fca63991e7c"
+          }
+        ]
+      }
+    },
+    "lv-cable-sizing": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 0.926935,
+      "tree": null,
+      "final_message": "00328a4a2ad8369bcca98755a23c32e7c7264ac0",
+      "files": {
+        "filesystem/electrical__lv_cable_sizing__blind/output/submission.zip": "f4fc2b6ac43318a14edef1736f65ffdc0d11b737"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/lvcable/submission_v3.zip",
+        "source_archive_sha256": "8c25999db9f50d8f28e11c3a8d9bf42ec82069f44058439d7a9abdcd23d5bbb7",
+        "version": "v3",
+        "recorded_confirmation": "InstaBox official-kit offline replay; DeepSeek judge",
+        "source_archive_members": [
+          {
+            "path": "wire_schedule.csv",
+            "bytes": 7024,
+            "sha256": "6156b487ff11b9dca64582a5ac9d27fe85c18a923dc0326fd0d18d2d93faae4c"
+          },
+          {
+            "path": "E-621_wire_schedule.dxf",
+            "bytes": 11023,
+            "sha256": "336648175968e3a750a3118104a0a6c3023b53773855767022129a81f5f28d91"
+          },
+          {
+            "path": "calc_book.xlsx",
+            "bytes": 7668,
+            "sha256": "60ee5479d9e53cfc5bfb0f328771024147a90e1fce80532bab2a8abe69e5e401"
+          },
+          {
+            "path": "design_basis.md",
+            "bytes": 6781,
+            "sha256": "d891d8493bc18df7a1e92482b0f1980e91add0dec7f8e0083db29c11147fc2a4"
+          },
+          {
+            "path": "constraint_register.xlsx",
+            "bytes": 9147,
+            "sha256": "813b205297ec23794a5b750295413640f9570ab8d480168ddde5c93ce08bf2eb"
+          }
+        ]
+      }
+    },
+    "seismic-diaphragm-shear": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 0.919263,
+      "tree": null,
+      "final_message": "920f2df2db3d41384e2692499e8c7e4034e30a03",
+      "files": {
+        "filesystem/final_batch4__structural_task6_seismic_diaphragm_shear__blind/output/submission.zip": "b860dd90148493d83f467854d2a127a082961e30"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/seismic/submission_v12.zip",
+        "source_archive_sha256": "43438d43882849e1e2345bc2e1156389b92ace507be254584a0a24d21edc1379",
+        "version": "v12",
+        "recorded_confirmation": "Local development/heldout splits for v12; official-kit v11 replay was 0.910299",
+        "source_archive_members": [
+          {
+            "path": "design_record.json",
+            "bytes": 8620,
+            "sha256": "2987f1dea457dca6279dc85ef18c8eacdf61efac6e535b9acf28e16d791815f1"
+          },
+          {
+            "path": "constraint_register.xlsx",
+            "bytes": 7618,
+            "sha256": "2f3c8c879a866f3a79cc7d0df36a6e6a9c05df6e262fa5733c49313eb3809274"
+          },
+          {
+            "path": "seismic_calculations.xlsx",
+            "bytes": 16734,
+            "sha256": "d9cdc71277fe7585324f828b84233e6859bfbde948bbc6f040c42e306d72e425"
+          },
+          {
+            "path": "diaphragm_plan.dxf",
+            "bytes": 17341,
+            "sha256": "c9bdbe44328941d31db0c69057db1c69f9816e358f45fd20a5fcc99bd6fcb306"
+          },
+          {
+            "path": "design_basis.md",
+            "bytes": 3636,
+            "sha256": "78b59c4e6475c3c0295f468139aec5798fc0cf239ef5a4e70a2359bf75cd0457"
+          }
+        ]
+      }
+    },
+    "wind-diaphragm-shear": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 0.874728,
+      "tree": null,
+      "final_message": "1412d4cc34e51e2edd66e0a552242193d641c359",
+      "files": {
+        "filesystem/final_batch4__structural_task5_wind_diaphragm_shear__blind/output/submission.zip": "026ae37a6dae247079d79049676470baad41c79d"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/submission_v11.zip",
+        "source_archive_sha256": "3be7f2d1b2ddf0db8e3890ac0d72b1c74312006dc6ca68076f9159c75d8c672e",
+        "version": "v11",
+        "recorded_confirmation": "InstaBox official-kit offline replay, second optimization round",
+        "source_archive_members": [
+          {
+            "path": "lateral_schedule.xlsx",
+            "bytes": 41534,
+            "sha256": "00b045e794d7e24cf74d0e235eaecc12d717a0dbedc209aebecad6a5b42a13f8"
+          },
+          {
+            "path": "diaphragm_plan.dxf",
+            "bytes": 4479225,
+            "sha256": "3c11187b85f65b430180d40a8837d16122e441260ebf671edd4cec399a63cb65"
+          },
+          {
+            "path": "constraint_register.xlsx",
+            "bytes": 10807,
+            "sha256": "a8c8d53848f6db81333f86eff08e46f64d88be52f6251080e3862118cf3270aa"
+          },
+          {
+            "path": "calculations.pdf",
+            "bytes": 221948,
+            "sha256": "3c5d8c10095c675c8529db1aab15b8303208e7820714615e4f929873d7552098"
+          },
+          {
+            "path": "design_basis.md",
+            "bytes": 5947,
+            "sha256": "ce6aa2aefc7fe9757a3e6f6bf281b7394bbde8971d8885e21fc762aabe86e503"
+          }
+        ]
+      }
+    },
+    "roof-deck-design": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 0.862792,
+      "tree": null,
+      "final_message": "322fd17f20fb60a43d73267d6223af9bcd400dd8",
+      "files": {
+        "filesystem/final_batch4__structural_task7_roof_deck_design__blind/output/submission.zip": "f69e6462fc1c33dafcf83e72caafce1fac48baed"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/roofdeck/submission_v8.zip",
+        "source_archive_sha256": "9f3f9d4139d746853296a44c6e736c585537861d5d1583029f41007d8c21db09",
+        "version": "v8",
+        "recorded_confirmation": "InstaBox official-kit offline replay",
+        "source_archive_members": [
+          {
+            "path": "deck_design.xlsx",
+            "bytes": 10374,
+            "sha256": "3f73610e2a04401d9c50386083f536f63c943b86d6d5a10159d3f839560acadb"
+          },
+          {
+            "path": "roof_deck_plan.dxf",
+            "bytes": 24668,
+            "sha256": "e97c155837489945716ebc5a259dc221b7013a4cd728cf972cded89540c5c7af"
+          },
+          {
+            "path": "constraint_register.xlsx",
+            "bytes": 11002,
+            "sha256": "48325ff1902f8beac86afdacd4ccc96a5d54d08d09cf28f1e565609847b0c9a4"
+          },
+          {
+            "path": "design_basis.md",
+            "bytes": 7749,
+            "sha256": "c98d572a0dc6938859f6f220a2ad182dcaf68beb21ece71eb6e5f5c3a71c6170"
+          }
+        ]
+      }
+    },
+    "mv-conveyance-study": {
+      "run": null,
+      "trial": null,
+      "ended": "manually-staged-unreplayed",
+      "reward": 0.754841,
+      "tree": null,
+      "final_message": "f6df5a2b8b21fa40689c917ec43e7af19906df9e",
+      "files": {
+        "filesystem/final_batch4__electrical_task12_conveyance_study__blind/output/submission.zip": "1282aaef8f8fe942fa85731763cfb6eebf00ccdc"
+      },
+      "deleted": [],
+      "skipped": [],
+      "_assembly": {
+        "source_archive": "ds-handoff-staging/mvconvey/submission_v9.zip",
+        "source_archive_sha256": "f6693ae3e63216357ad32b90d3347b93d478c2ee275164265c4c93014a69d7ec",
+        "version": "v9",
+        "recorded_confirmation": "InstaBox official-kit offline replay",
+        "source_archive_members": [
+          {
+            "path": "conveyance_study.xlsx",
+            "bytes": 52357,
+            "sha256": "a2ec9871c389c8f039a405308bc9fc6156062a95e914f52d065dc393f16b2afb"
+          },
+          {
+            "path": "conveyance_study_report.md",
+            "bytes": 10063,
+            "sha256": "7837ea48e85b26688186a841a8f73ad40f78295f2df6beacc5259e15f7d45bb9"
+          }
+        ]
+      }
+    }
+  },
+  "_assembly": {
+    "kind": "manual-stage1-solution-study",
+    "notice": "Manually assembled using documented kit format 1; not written by a kit run or export. No producing harness or original run provenance is asserted.",
+    "format_source": "ple-probe/docs/artifacts.md, manifest.json and Layout sections; ple-probe/kit/artifacts.py FORMAT=1 and blob_id",
+    "dataset_revision_reference": "b3857a3fea39a695e18f845d4a88f29442e96e75",
+    "score_source": "WRITEUP_DRAFT_v3_6sol.md, Table 1; recorded values, not measurements made during packaging",
+    "task_final_messages": "Reconstructed handoff summaries; not original model responses",
+    "harness_provenance": "The accompanying minimal harness did not produce the historical artifacts; harness.tree/files/commit and task run/trial/tree are null.",
+    "kit_check": "Not run; deferred to Phase 3",
+    "assembly_harness_files": {
+      "submission.yaml": {
+        "git_blob": "79b2e615e04c49e4c019a03fa1c75789f9111635",
+        "sha256": "16e9b3694a88cb7bbf68938d5c9d0b93052619970279e65abd983f1a48f2034d",
+        "bytes": 969
+      },
+      "serve.py": {
+        "git_blob": "6ff3a26363ece6ed6d7a8ed1b3f2113440e27263",
+        "sha256": "64b6c1f55da3361e7eec72e8719f68ee6d440075e696e6c928b6eb51c310d27f",
+        "bytes": 12939
+      },
+      "taskbridge.py": {
+        "git_blob": "26cc3d6cf8dbcaed859731ce9a6881f4ca8bfe40",
+        "sha256": "2f15766091ff1be44d58128d690177c7756c75e06650a46f706533e6b31b12a6",
+        "bytes": 49778
+      },
+      "requirements.txt": {
+        "git_blob": "13ba6dbe5a230d71da63dd42ee49e86f580056dc",
+        "sha256": "5a63360a7b600e3b182bceeee8f0f9b24f17fe45dd6768a2733d60a273642ff6",
+        "bytes": 34
+      },
+      "LICENSE": {
+        "git_blob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "bytes": 11357
+      },
+      "final_message.md": {
+        "git_blob": "10cc8bcf941121b578d5d33102cb69ee7745984e",
+        "sha256": "13c2dc362913de73823681bab220297118f685f291705aebdc548e3207cdd750",
+        "bytes": 2213
+      }
+    }
+  }
+}

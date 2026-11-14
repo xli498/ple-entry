@@ -1,0 +1,2 @@
+# Manually copied kit byte-preserving settings for Stage 1 assembly.
+* -text -filter -ident -working-tree-encoding
