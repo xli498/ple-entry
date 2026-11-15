@@ -27,6 +27,8 @@ jobs:
       - name: Write LiteLLM config
         run: |
           cat > /tmp/litellm_config.yaml <<'EOF'
+          litellm_settings:
+            drop_params: true
           model_list:
             - model_name: claude-opus-5-5
               litellm_params:
