@@ -1,0 +1,74 @@
+name: kit-check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  kitcheck:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - name: Checkout ple-entry
+        uses: actions/checkout@v4
+        with:
+          path: ple-entry
+
+      - name: Clone official PLE kit
+        run: git clone --depth 1 https://github.com/google-research/ple ple-kit
+
+      - name: Install uv
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+
+      - name: Install LiteLLM proxy
+        run: |
+          export PATH="$HOME/.local/bin:$PATH"
+          uv pip install --system --break-system-packages 'litellm[proxy]==1.90.0' 2>/dev/null || pip install --break-system-packages 'litellm[proxy]==1.90.0'
+
+      - name: Write LiteLLM config
+        run: |
+          cat > /tmp/litellm_config.yaml <<'EOF'
+          model_list:
+            - model_name: claude-opus-5-5
+              litellm_params:
+                model: openai/gpt-6.1-sol
+                api_base: https://vps3794585.tailb3ce68.ts.net/v1
+                api_key: os.environ/SIXSOL_KEY
+          EOF
+          echo "config written"
+
+      - name: Start LiteLLM proxy
+        env:
+          SIXSOL_KEY: ${{ secrets.PLE_6SOL_KEY }}
+        run: |
+          export PATH="$HOME/.local/bin:$PATH"
+          nohup litellm --config /tmp/litellm_config.yaml --host 0.0.0.0 --port 4000 > /tmp/litellm.log 2>&1 &
+          echo $! > /tmp/litellm.pid
+          sleep 15
+          echo "--- litellm log (first 30 lines) ---"
+          head -30 /tmp/litellm.log || true
+          echo "--- probe /v1/models ---"
+          curl -s -m 10 http://localhost:4000/v1/models -H "Authorization: Bearer ${{ secrets.PLE_6SOL_KEY }}" | head -c 400 || echo "PROBE_FAILED"
+          echo ""
+
+      - name: Run kit check
+        env:
+          MODEL_PROXY_URL: http://localhost:4000
+          MODEL_PROXY_KEY: ${{ secrets.PLE_6SOL_KEY }}
+        run: |
+          export PATH="$HOME/.local/bin:$PATH"
+          cd ple-kit
+          uv run python -m kit check ../ple-entry --work ../kit-work 2>&1 | tee /tmp/kitcheck.log
+          KITCHECK_EXIT=${PIPESTATUS[0]}
+          echo "KITCHECK_EXIT=${KITCHECK_EXIT}" | tee -a /tmp/kitcheck.log
+          exit ${KITCHECK_EXIT}
+
+      - name: Upload kit check logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: kitcheck-log
+          path: |
+            /tmp/kitcheck.log
+            /tmp/litellm.log
+            kit-work/check.json
+          if-no-files-found: warn
