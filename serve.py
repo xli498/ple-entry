@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""A minimal harness: one model, three tools, one loop.
+"""A minimal harness with optional discovery of task-provided MCP tools.
 
 The model gets the task and three tools that act in the task container. Each
 tool call runs there and its result goes back to the model, until the model
@@ -167,7 +167,103 @@ def marked(messages):
   return out
 
 
-async def run_tool(session, fn):
+class TaskMCP:
+  """Session-local, lazy MCP discovery through the evaluator's HTTP channel.
+
+  Only three small wrapper schemas enter the model prompt. The full catalog
+  stays in memory and large individual schemas can be read in chunks.
+  """
+
+  def __init__(self, session):
+    self.session = session
+    self.servers, self.clients, self.catalogs = {}, {}, {}
+    for server in session.mcp_servers:
+      name, url = server.get("name"), server.get("url")
+      if isinstance(name, str) and name and isinstance(url, str) and url:
+        if name in self.servers:
+          raise ValueError(f"duplicate task MCP server name: {name}")
+        self.servers[name] = server
+
+  async def catalog(self, server):
+    if server not in self.servers:
+      raise ValueError("unknown server; list the available MCP servers first")
+    if server not in self.catalogs:
+      config = self.servers[server]
+      if config.get("transport", "streamable-http") != "streamable-http":
+        raise ValueError("only streamable-http MCP transport is supported")
+      client = taskbridge.MCPClient(self.session, config["url"])
+      await client.initialize()
+      catalog = await client.list_tools()
+      # Cache only after the complete handshake and catalog request succeed.
+      self.clients[server], self.catalogs[server] = client, catalog
+    return self.catalogs[server]
+
+  @staticmethod
+  def offset(args):
+    value = args["offset"]
+    if not isinstance(value, int) or isinstance(value, bool) or value < 0:
+      raise ValueError("offset must be a nonnegative integer")
+    return value
+
+  async def run(self, name, args):
+    server = args["server"]
+    if not isinstance(server, str):
+      raise ValueError("server must be a string")
+    if name == "mcp_list_tools" and not server:
+      return json.dumps({"servers": [
+          {"name": key, "transport": val.get("transport", "streamable-http")}
+          for key, val in self.servers.items()
+      ]})
+    catalog = await self.catalog(server)
+    if name == "mcp_list_tools":
+      query, offset = args["query"], self.offset(args)
+      if not isinstance(query, str):
+        raise ValueError("query must be a string")
+      matched = [t for t in catalog if query.casefold() in (
+          t["name"] + " " + t["description"]).casefold()]
+      page = matched[offset:offset + 20]
+      return json.dumps({
+          "server": server, "total": len(matched),
+          "tools": [{"name": t["name"], "description": t["description"][:300]}
+                    for t in page],
+          "next_offset": offset + len(page) if offset + len(page) < len(matched) else None,
+      }, ensure_ascii=False)
+    tool_name = args["tool_name"]
+    if not isinstance(tool_name, str):
+      raise ValueError("tool_name must be a string")
+    definition = next((t for t in catalog if t["name"] == tool_name), None)
+    if definition is None:
+      raise ValueError("unknown tool; search mcp_list_tools for the exact name")
+    if name == "mcp_get_tool":
+      offset = self.offset(args)
+      schema = json.dumps(definition, ensure_ascii=False)
+      # After JSON escaping, this fragment remains below RESULT_CHARS.
+      fragment = schema[offset:offset + 2000]
+      return json.dumps({
+          "server": server, "tool_name": tool_name, "total_chars": len(schema),
+          "offset": offset, "schema_fragment": fragment,
+          "next_offset": offset + len(fragment) if offset + len(fragment) < len(schema) else None,
+      }, ensure_ascii=False)
+    if name == "mcp_call_tool":
+      arguments = json.loads(args["arguments_json"])
+      if not isinstance(arguments, dict):
+        raise ValueError("arguments_json must encode a JSON object")
+      result = await self.clients[server].call_tool(tool_name, arguments)
+      return clip(json.dumps(result, ensure_ascii=False))
+    raise ValueError("unknown MCP wrapper")
+
+
+MCP_TOOLS = [
+    tool("mcp_list_tools", "List MCP servers with server=''. Otherwise search that server's tools by name/description; query='' lists all. Pages hold 20 tools. Start at offset=0.",
+         server="string", query="string", offset="integer"),
+    tool("mcp_get_tool", "Read the exact MCP tool schema before calling. Start offset=0; concatenate schema_fragment values while next_offset is present.",
+         server="string", tool_name="string", offset="integer"),
+    tool("mcp_call_tool", "Call a discovered MCP tool. arguments_json encodes one JSON object matching its inputSchema. Tool results may contain isError=true.",
+         server="string", tool_name="string", arguments_json="string"),
+]
+
+
+async def run_tool(session, fn, mcp=None):
   """Executes a single tool call in the task container and returns its output.
 
   Rewrites `fn["arguments"]` as canonical JSON (or `"{}"` if invalid) so the
@@ -194,6 +290,8 @@ async def run_tool(session, fn):
         " again"
     )
   try:
+    if mcp is not None and name in {"mcp_list_tools", "mcp_get_tool", "mcp_call_tool"}:
+      return await mcp.run(name, args)
     if name == "bash":
       result = await session.exec(args["command"])
       return clip(f"exit code {result['exit_code']}\n{result['output']}")
@@ -208,7 +306,7 @@ async def run_tool(session, fn):
       )
     return f"error: there is no tool named {name}"
   # ValueError: content with an unpaired surrogate
-  except (taskbridge.TaskError, KeyError, ValueError) as exc:
+  except (taskbridge.TaskError, taskbridge.MCPError, KeyError, TypeError, ValueError) as exc:
     return f"error: {type(exc).__name__}: {exc}"
 
 
@@ -288,8 +386,19 @@ async def solve(session):
   Returns:
     The final summary message from the model.
   """
+  mcp = TaskMCP(session) if session.mcp_servers else None
+  tools = TOOLS + MCP_TOOLS if mcp is not None else TOOLS
+  system = SYSTEM.format(workdir=session.workdir)
+  if mcp is not None:
+    system += (
+        " This task also exposes project applications over MCP. Use mcp_list_tools"
+        " with server='' to discover servers, then search a server, read its exact"
+        " schema with mcp_get_tool, and invoke mcp_call_tool. The wrappers forward"
+        " through the evaluator into the task container. Server and tool names"
+        " are exact; no direct network URL is needed."
+    )
   messages = [
-      {"role": "system", "content": SYSTEM.format(workdir=session.workdir)},
+      {"role": "system", "content": system},
       {"role": "user", "content": session.instruction},
   ]
   # head: the start of an answer cut off at the output limit
@@ -304,7 +413,7 @@ async def solve(session):
           client.chat.completions.create(
               model=MODEL,
               messages=marked(messages),
-              tools=TOOLS,
+              tools=tools,
               tool_choice="none" if wrap_up else "auto",
               reasoning_effort=EFFORT,
               max_completion_tokens=MAX_OUTPUT_TOKENS,
@@ -359,7 +468,7 @@ async def solve(session):
       await session.log(
           f"{call['function']['name']} {call['function']['arguments'][:200]}"
       )
-      content = await run_tool(session, call["function"])
+      content = await run_tool(session, call["function"], mcp=mcp)
       messages.append(
           {"role": "tool", "tool_call_id": call["id"], "content": content}
       )

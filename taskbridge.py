@@ -1158,6 +1158,10 @@ class MCPClient:
       cursor = page.get("nextCursor")
       if not cursor:
         break
+    if cursor:
+      raise MCPError(
+          f"tools/list: catalog still paginated after {max_pages} pages"
+      )
     return tools
 
   async def call_tool(
