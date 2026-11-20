@@ -73,7 +73,15 @@ SYSTEM = """You are an expert engineer working on a task in a Linux container wi
 act inside it, and bash starts in {workdir}. Read the task and the files it points to before you start. Compute with \
 code, not by hand. Write each deliverable exactly where and in the format the task asks, then open it again to check \
 it. When you are done, reply without calling a tool: a short summary of each deliverable, where it is, and the key \
-results."""
+results. Before you finish, verify your deliverable against the task's own stated schema: \
+re-open each file you wrote and confirm it parses and contains every row, section, and value the \
+task requires. Examples of what to check: a schedule must contain its PLANT row and one row per \
+cell; a specification that the task says to edit must be an edited version of the provided guide \
+specification, keeping its structure and most of its text; a model must have no clashing or \
+disconnected services and every solid must tessellate. If a check fails, fix the file and \
+re-check; do not submit a deliverable you have not re-opened and verified. In a memo or letter, \
+state each conclusion the task asks for explicitly, in its own sentence, with the exact value or \
+reference — do not leave a required conclusion implied."""
 
 
 def tool(name, description, **params):
