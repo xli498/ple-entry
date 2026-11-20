@@ -1,20 +1,10 @@
-# heat-rejection-life-cycle-cost
+Created and verified [submission.zip](/filesystem/final_batch4__mechanical_task3_ct_heat_lcc__blind/output/submission.zip).
 
-This handoff summary was reconstructed during Stage 1 packaging; it is not an original harness response.
+The package contains:
 
-Staged version: v1. Deliverables in the task container:
+- Three DXF schedules/layouts for CUP, ANNEX, and LAB with required layers, schedule tags, title-block revisions, and closed cell-frame outlines.
+- Three five-sheet calculation workbooks with 60 annual scenario bins totaling 8,760 hours.
+- `constraint_register.csv` with governing document/clause citations.
+- `design_basis.md` with conflict resolutions, methods, freeze determination, and governing-constraint lines.
 
-- `/filesystem/final_batch4__mechanical_task3_ct_heat_lcc__blind/output/submission.zip`
-
-The submission archive contains:
-
-- `CT_SCHEDULE_CUP.dxf`
-- `CT_SCHEDULE_ANNEX.dxf`
-- `CT_SCHEDULE_LAB.dxf`
-- `CT_CALC_CUP.xlsx`
-- `CT_CALC_ANNEX.xlsx`
-- `CT_CALC_LAB.xlsx`
-- `constraint_register.csv`
-- `design_basis.md`
-
-No solve or grading was performed during packaging. See the repository-root final_message.md for study scope and confirmation limits.
+Final checks passed: ZIP integrity, required file count, workbook sheet names, scenario-hour totals, and cell-count consistency between schedules and workbooks.

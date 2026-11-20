@@ -1,0 +1,5 @@
+Saved and checked the [Word technical note](/filesystem/CFDME-2025-041_transient_solve_disposition_revA.docx), dated 10/10/2025. It includes the reviewer and stamp blocks and the firm’s stamp boundary language. It remains unsigned and unstamped for the named engineers.
+
+The disposition rejects a fourth steady attempt. The plateau is consistent with plume puffing: the predicted and reported values both round to **0.87 Hz** and **1.15 s**, about **0.41%** apart before rounding. Mulshi’s value comes from pseudo-time, not a physical-time measurement. The note specifies a clean-start transient LES to **31.10 s** with a **0.0461 s** write interval.
+
+The fluid-only study projects **4 h 28 min per case** and **26 h 49 min for the six-case matrix**. Those are planning comparators, not production estimates: the study did not time the production mesh and coupled solver setup. Attempt 3 consumed **6 h 41 min** and produced no usable restart state or production results.

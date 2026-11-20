@@ -1,0 +1,234 @@
+                                                    KESTERLINE ENGINEERING, PC
+                                                   Consulting Structural and Geotechnical Engineers
+                             215 South Third Street, Suite 402, Columbus, Ohio 43215 | (614) 555-0231 | kesterlineeng.com
+
+                                                   ENGINEERING SUBMITTAL SUPPLEMENT
+Date:                 07/13/2026 (July 13, 2026)                                Letter Reference:              KE-L-2026-0713
+                      Mr. Adrian Vance, Project Engineer
+                      (Structural/Geotechnical)                                                                Birchwood Village Expansion Program,
+To:                                                                             Project:
+                      Thelbridge Project Management Services, Owner's                                          Package A
+                      Representative
+                      Mr. Steven Kendrow, Project Executive, Rowan Bay
+                      Constructors, Inc.
+cc:                                                                             Package / Facility:            Package A / Block B Substructure
+                      Mr. Gregory Nash, PE, Calloway Braddock Structural
+                      Engineers, LLC
+Subject:              Submittal 31-SH-B Rev.1 — Revision 2 Engineering Supplement, Block B Plant-Room Support of Excavation
+
+1. PURPOSE, RECORD REFERENCES & SUPERSESSION SCOPE
+Kesterline Engineering, PC submits this Revision 2 Engineering Supplement (Letter Reference KE-L-2026-0713, dated 07/13/2026) to supplement
+Submittal 31-SH-B Rev.1 for the Block B plant-room support of excavation (SOE). This supplement has been prepared in accordance with the
+project record documents, specifically:
+ • Geotechnical Investigation Report KGI-2024-0417 Rev.2 (the GIR);
+ • Design Basis Memorandum CB-DBM-001 Rev.2 (the DBM);
+ • Specification Section 31 20 00 Rev.3 (Earthwork and Support of Excavation);
+ • Submittal 31-SH-B Rev.1 (Block B Plant-Room Support of Excavation Design Package); and
+ • The Package A register.
+The Contractor has confirmed that its Dewatering and Groundwater Control Plan, Submittal 31-DW-A Rev.1, is limited to the Block A basement
+and does not extend to the Block B plant-room excavation. Rev.1 of these calculations assumed a dry excavation on the basis of that plan. This
+Revision 2 supplement withdraws that assumption and establishes updated design calculations for active aquifer depressurization, excavation base
+heave, layered effective-stress plus hydrostatic lateral loading, sheet-pile toe embedment, tieback ground anchors, sheet-pile flexural adequacy,
+and wall deflection instrumentation triggers.
+Supersession Statement: This Revision 2 supplement supersedes Submittal 31-SH-B Rev.1 Sections 3.4, 4.3, 5, 6, 7, 9, 10. Submittal 31-SH-B
+Rev.1 Sections 1, 2, 3.1 to 3.3, 4.1, 4.2, 8, 11.3, 11.4, 12, 13 remain in force without modification.
+Table 1 — Submittal 31-SH-B Rev.1 Section Supersession Matrix
+Rev.1 Section               Rev.1 Section Title                                            Rev.2 Status             Governing Provision
+Sections 1, 2               Project Scope, Codes & Site Reference Documents                Remains in Force         Submittal 31-SH-B Rev.1
+Sections 3.1 to 3.3         Subsurface Stratigraphy & Soil Design Parameters               Remains in Force         Submittal 31-SH-B Rev.1
+Section 3.4                 Groundwater & Dry-Excavation Assumption                        Superseded               Supplement Section R2.1
+Sections 4.1, 4.2           Surface Surcharge & Construction Equipment Loads               Remains in Force         Submittal 31-SH-B Rev.1
+Section 4.3                 Lateral Earth Pressure Diagram Above Subgrade                  Superseded               Supplement Section R2.3
+Section 5                   Excavation Base Stability Verification                         Superseded               Supplement Section R2.2
+Section 6                   Sheet-Pile Toe Embedment Analysis                              Superseded               Supplement Section R2.4
+Section 7                   Tieback Ground Anchor Design                                   Superseded               Supplement Section R2.5
+Section 8                   Global Overturning & Sliding Stability Checks                  Remains in Force         Submittal 31-SH-B Rev.1
+Section 9                   Sheet-Pile Structural Bending & Shear Design                   Superseded               Supplement Section R2.6
+Section 10                  Wall Deflection & Instrumentation Triggers                     Superseded               Supplement Sections R2.1 & R2.7
+Sections 11.3, 11.4         Waler, Bearing Plate & Anchor Head Details                     Remains in Force         Submittal 31-SH-B Rev.1
+Sections 12, 13             Construction Sequence Notes & Submittal Drawings               Remains in Force         Submittal 31-SH-B Rev.1
+
+2. REVISION 2 ENGINEERING CALCULATIONS & SPECIFICATIONS (SECTIONS R2.1 – R2.8)
+R2.1 — Groundwater Conditions, Relief Wells & Excavation Staging (Supersedes Rev.1 Section 3.4 & Part of Section 10)
+The Rev.1 dry-excavation assumption is hereby formally withdrawn. For the Block B plant-room excavation (ground surface at El. 750.0, final
+excavation subgrade at El. 726.0, exposed wall height H = 24.0 ft), the revised design groundwater and stratigraphy profile is established from
+KGI-2024-0417 Rev.2 and CB-DBM-001 Rev.2 as follows:
+ • Design Phreatic Water Table Behind Wall: El. 742.0 (shallow phreatic surface behind the sheet-pile wall, Geotechnical Report KGI-2024-0417
+   Rev.2, Section 7). The excavation side is drained to subgrade El. 726.0 by sumps within the sheeted pit.
+ • Confining Clay Aquitard: Stiff cohesive clay stratum extending from El. 738.0 to El. 720.0 (18.0 ft total thickness, leaving a 6.0 ft clay plug
+   below final excavation subgrade El. 726.0).
+ • Confined Aquifer Top & Initial Piezometric Head: The top of the underlying confined dense sand and gravel (SW-GW) aquifer is located at El.
+   720.0, with an initial unpumped confined piezometric head at El. 738.0 (18.0 ft of artesian head above the aquifer top).
+To depressurize the confined SW-GW aquifer prior to deep excavation, four 8-in diameter pressure-relief wells (designated RW-B1, RW-B2,
+RW-B3, and RW-B4) shall be installed outside the sheet line at the four corners of the Block B pit. Each relief well shall be screened from El. 718.0
+
+
+
+                           KE-L-2026-0713 | Submittal 31-SH-B Rev.2 | Birchwood Village Expansion Program, Package A | Page 1 of 5
+to 705.0 within the dense sand and gravel aquifer and constructed with a continuous annular bentonite-cement grout seal from El. 721.0 to 738.0
+across the clay aquitard interval. The four relief wells shall be actively pumped to hold the confined piezometric head at or below El. 726.5
+throughout excavation and substructure construction, and pumping is maintained until the plant-room slab is cast. The planned drawdown of the
+confined head is 738.0 − 726.5 = 11.5 ft.
+Three vibrating-wire piezometers (designated VW-B1, VW-B2, and VW-B3, with sensor tips installed at El. 719.0 inside the upper confined aquifer)
+shall be installed inside the Block B excavation footprint to verify depressurization. The Contractor shall enforce a mandatory 72-hour confirmation
+hold before excavating below El. 732.0, during which continuous piezometer readings from VW-B1 through VW-B3 must confirm that the
+confined aquifer head is maintained at or below El. 726.5.
+
+
+
+
+                        KE-L-2026-0713 | Submittal 31-SH-B Rev.2 | Birchwood Village Expansion Program, Package A | Page 2 of 5
+R2.2 — Excavation Base Heave Verification (Supersedes Rev.1 Section 5)
+With final excavation subgrade at El. 726.0 and the top of the confined dense sand and gravel aquifer at El. 720.0, a 6.0 ft clay plug remains below
+the excavation base. Base heave stability against artesian uplift is verified in accordance with DBM §6.2 at the controlled piezometric head of El.
+726.5 (representing a piezometric head hw = 726.5 − 720.0 = 6.5 ft above the aquifer top at El. 720.0):
+  • Unfactored Clay Plug Weight (W): For the 6.0 ft clay plug at saturated unit weight γclay = 120 pcf:
+     W = 6.0 ft × 120 pcf ⇒ W = 720 psf
+  • Factored Resisting Plug Weight (0.9W): Per DBM §6.2, applying the 0.90 resistance factor to total soil plug weight:
+      0.9W = 648 psf
+  • Controlled Upward Water Pressure (u): At the controlled confined head of El. 726.5 (γw = 62.4 pcf):
+     u = (726.5 − 720.0) ft × 62.4 pcf = 6.5 ft × 62.4 pcf ⇒ u = 405.6 psf
+  • Base Heave Factor of Safety:
+     FSheave = 0.9W / u = 648 psf / 405.6 psf = 1.60 (FS 1.60 ≥ 1.50 required per DBM §6.2 — OK)
+
+R2.3 — Layered Effective-Stress Lateral Loading Above Subgrade (Supersedes Rev.1 Section 4.3)
+Active lateral earth pressures and hydrostatic water pressures acting on the exposed wall height (H = 24.0 ft, from ground surface El. 750.0 to final
+subgrade El. 726.0) are computed using a layered effective-stress analysis behind the wall combined with full hydrostatic water pressure below the
+design water table at El. 742.0. Soil unit weights carried from Submittal 31-SH-B Rev.1 are 118 / 120 / 130 pcf (118 pcf for the upper granular fill
+from El. 750.0 to El. 738.0; 120 pcf for the stiff clay aquitard from El. 738.0 to El. 720.0; and 130 pcf for the dense sand and gravel stratum below El.
+720.0), with a uniform surface surcharge of 250 psf per Rev.1 Section 4.1.
+Table 2 — Layered Active Earth & Hydrostatic Loading Summary (El. 750.0 to El. 726.0)
+                                                             Horizontal Line Load       Moment Arm About Anchor at           Driving Moment About El.
+Load Component (El. 750.0 to El. 726.0)
+                                                                    (lb/ft)                    El. 745.5 (ft)                      745.5 (ft-lb/ft)
+Layered Effective-Stress Soil + 250 psf Surcharge (Psoil)         11,622.8 lb/ft          10.681 ft (effective resultant)           124,141 ft-lb/ft
+Hydrostatic Water Pressure, El. 742.0 to El. 726.0 (Pw =
+                                                                  7,987.2 lb/ft             14.167 ft (at El. 731.33)               113,152 ft-lb/ft
+½γwhw2)
+Total Horizontal Driving Load & Moment Above
+                                                                  19,610 lb/ft                          —                           237,293 ft-lb/ft
+Subgrade
+
+Total vertical overburden stress behind the wall at subgrade El. 726.0 is:
+     σv0 = 250 psf + (12.0 ft × 118 pcf) + (12.0 ft × 120 pcf) = 250 + 1,416 + 1,440 = 3,106 psf
+
+R2.4 — Sheet-Pile Toe Embedment Check (Supersedes Rev.1 Section 6)
+The steel sheet-pile wall is embedded a depth of D = 6.5 ft below final excavation subgrade (El. 726.0) to a sheet-pile tip elevation of El. 719.5 (total
+sheet-pile length = 30.5 ft from El. 750.0 to El. 719.5; the toe is lowered from the Rev.1 tip elevation of El. 722.0, and Rev.1 Section 13.1, item 3 is
+amended to the revised tip elevation). Below subgrade the wall is embedded in the CL clay aquitard, whose permeability is of the order of 10−8
+cm/s, and the embedment is checked in the undrained condition using the total-stress net passive pressure formulation (U.S. Steel Sheet Piling
+Design Manual, anchored bulkhead in clay). The retained side above subgrade is carried drained, with full water pressure, as the conservative
+envelope. The revised 30.5 ft sheets are driven with the equipment of Rev.1 Section 11.3 (ICE 44B vibratory hammer with Delmag D19 finish),
+which is adequate for the revised tip elevation.
+Using the undrained shear strength su = 1,400 psf carried from Rev.1 Section 3.2 and the total overburden pressure σv0 = 3,106 psf at subgrade
+El. 726.0 from Section R2.3, the uniform net passive resistance below subgrade is:
+     pn = 4su − σv0 = 4(1,400 psf) − 3,106 psf = 5,600 psf − 3,106 psf = 2,494.0 psf
+Over the embedment depth D = 6.5 ft, the unfactored passive toe force and stabilizing moment about the ground anchor elevation at El. 745.5 are:
+  • Unfactored Passive Toe Resistance (Pp): Pp = 2,494.0 psf × 6.5 ft = 16,211 lb/ft acting at mid-embedment El. 722.75.
+  • Moment Arm About Anchor (El. 745.5): zp = 745.5 − 722.75 = 22.75 ft.
+  • Resisting Passive Moment (MR): MR = 16,211 lb/ft × 22.75 ft = 368,800 ft-lb/ft.
+  • Rotational Toe Factor of Safety: Against the driving moment of 237,293 ft-lb/ft from Section R2.3:
+     FStoe = MR / MD = 368,800 ft-lb/ft / 237,293 ft-lb/ft = 1.55 (FS 1.55 ≥ 1.50 required — OK)
+The free-earth support formulation adopted presumes full mobilisation of the net passive resistance over the embedded length, consistent with the
+anchored-bulkhead analysis of the U.S. Steel manual, and the factor of safety of 1.50 applied to the resisting moment covers the mobilisation
+required.
+At tip elevation El. 719.5, the sheet-pile toe extends 0.5 ft into the SW-GW stratum below El. 720.0 so that the tips bear below the base of the clay,
+as contemplated in Geotechnical Report Section 9.4. The penetration is nominal and the sheet-pile wall is not credited as a cutoff against
+confined aquifer flow; the aquifer is continuous beneath the pit and is controlled by the relief wells of R2.1, and the sheet interlocks are sealed over
+the aquitard interval in accordance with Geotechnical Report Section 9.6.
+
+R2.5 — Tieback Ground Anchor Design (Supersedes Rev.1 Section 7)
+Lateral support near the top of the sheet-pile wall is provided by a single row of multi-strand tieback ground anchors installed at waler elevation El.
+745.5 at an inclination of 20° below horizontal and spaced horizontally at 6 ft centres. Each ground anchor is detailed with a 25 ft free length and
+a 24 ft bond length (49 ft total anchor length).
+
+
+
+
+                          KE-L-2026-0713 | Submittal 31-SH-B Rev.2 | Birchwood Village Expansion Program, Package A | Page 3 of 5
+R2.5 — Tieback Ground Anchor Design (Continued)
+ • Design Anchor Load at 6 ft Centres: Crediting the allowable passive toe resistance (Pp,allow = 16,211 / 1.50 = 10,807 lb/ft) against the total
+   horizontal driving load of 19,610 lb/ft (Section R2.3), the required horizontal anchor reaction is Th = 19,610 − 10,807 = 8,803 lb/ft. For anchors
+   spaced at 6 ft centres and inclined at 20° below horizontal, the design anchor working load is:
+    Tdesign = (8,803 lb/ft × 6.0 ft) / cos 20° = 52,818 lb / 0.93969 = 56,208 lb = 56.2 kips
+ • Anchor Bond Capacity: The 24 ft bond length is formed by pressure-grouted tieback installation through a 6.0-in nominal diameter drill hole
+   (dh = 6.0 in) at the design bond stress of 20 psi adopted in Rev.1 Section 10.4 (FHWA-IF-99-015, Table 4). Temporary drill casing is advanced
+   and grouted over the aquitard interval to seal against artesian seepage during anchor installation. Ultimate bond capacity is:
+     Qult = π × dh × Lb × τbond = π × 6.0 in × (24 ft × 12 in/ft) × 20 psi = 108,573 lb = 108.6 kips
+ • Anchor Capacity Check: Comparing ultimate bond capacity of 108.6 kips against the design load of 56.2 kips at 6 ft centres yields a factor of
+   safety of FSanchor = 108.6 / 56.2 = 1.93 (adequate on the adopted design bond stress of FHWA-IF-99-015, Table 4). The anchor tendon is
+   unchanged from Rev.1 Section 10.1: (4) 0.6-in Grade 270 strand, design strength 140 kips against the 56.2 kip design load. Each anchor is
+   proof tested to 1.33 × 56.2 = 74.8 kips and locked off at 0.75 × 56.2 = 42.2 kips. The proof load exceeds the design load by 33 per cent and is
+   taken as the demonstration of anchor performance for the period the wall is in service.
+
+R2.6 — Sheet-Pile Structural Bending Check (Supersedes Rev.1 Section 9)
+The PZ-35 Grade 50 section adopted in Rev.1 Section 11.2 is retained and re-checked against the revised effective-stress plus hydrostatic lateral
+loading (Fy = 50 ksi, elastic section modulus Sx = 48.5 in3/ft of wall).
+ • Allowable Flexural Capacity (Mallow): At an allowable bending stress of Fb = 0.60 Fy = 30.0 ksi per AISC 360-16 Chapter F, as adopted in
+   Rev.1 Section 11.2:
+     Mallow = (Fb × Sx) / (12 in/ft) = (30.0 ksi × 48.5 in3/ft) / 12 = 121 kip-ft/ft
+ • Maximum Span Bending Moment (Mmax): Under the Section R2.3 loading and El. 745.5 anchor reaction, the point of zero shear occurs at El.
+   733.1, producing a maximum flexural demand of 62.4 kip-ft/ft.
+ • Flexural Factor of Safety: FSflex = 121 kip-ft/ft / 62.4 kip-ft/ft = 1.94 ≥ 1.50 required (Rev.1 §11.2) (PZ-35 Grade 50 section is structurally
+   adequate).
+
+R2.7 — Wall Deflection & Piezometer Trigger (Supersedes Rev.1 Section 10)
+Wall deflection is re-estimated by the method of Rev.1 Section 12.1 for the PZ-35 Grade 50 sheet-pile wall tied back at El. 745.5 under the revised
+Section R2.3 loading, giving a predicted maximum lateral wall deflection of 1.3 in at El. 738.0.
+ • Allowable Deflection Criterion: For exposed excavation height H = 24.0 ft = 288 in, the criterion adopted in Rev.1 Section 12.3 is H/200 = 1.44
+    in (δmax = 1.3 in < H/200 = 1.44 in — OK).
+ • Instrumentation & Construction Action Limit: Active construction monitoring of piezometers VW-B1 through VW-B3 shall enforce a
+    mandatory stop-work trigger if the piezometers read above El. 727.0 during excavation below El. 732.0 (in addition to the Section R2.1
+    72-hour confirmation hold). If any piezometer reading exceeds El. 727.0, excavation operations shall cease immediately until relief-well pumping
+    restores piezometric head to or below El. 726.5.
+
+R2.8 — Summary of Revised Design Checks & Statement of Adequacy
+Table 3 — Summary of Submittal 31-SH-B Revision 2 Supplement Design Verifications
+Supplement
+                 Design Element / Verification Check         Governing Demand / Condition                Capacity / Allowable Criterion             Status
+Section
+                 Active Relief-Well Depressurization (4 ×    Initial Head El. 738.0; Water Table El.     Hold ≤ El. 726.5; 72-hr hold above El.
+R2.1                                                                                                                                                 OK
+                 8-in Wells)                                 742.0                                       732.0
+                 Excavation Base Heave (6.0 ft clay
+R2.2                                                         Uplift u = 405.6 psf at El. 726.5           W = 720 psf; 0.9W = 648 psf (FS 1.60)       OK
+                 plug, DBM §6.2)
+                 Layered Effective-Stress + Hydrostatic
+R2.3                                                         19,610 lb/ft; MD = 237,293 ft-lb/ft         Applied to R2.4, R2.5, and R2.6             OK
+                 Loading
+                 Sheet-Pile Toe Embedment (D = 6.5 ft to     M = 237,293 ft-lb/ft (σ = 3,106             Undrained s = 1,400 psf; M = 368,800
+R2.4                                                          D                     v0                              u              R                 OK
+                 El. 719.5)                                  psf)                                        (FS 1.55)
+                 Tieback Anchors (El. 745.5, 20° below                                                   108.6 kips at 20 psi pressure-grouted
+R2.5                                                         56.2 kips at 6 ft centres (25 ft / 24 ft)                                               OK
+                 horizontal)                                                                             bond (FS = 1.93)
+R2.6             Sheet-Pile Flexure (PZ-35 Grade 50)         Mmax = 62.4 kip-ft/ft at El. 733.1          Mallow = 121 kip-ft/ft (FS = 1.94)          OK
+                 Lateral Wall Deflection & Piezometer                                                    Allowable H/200 = 1.44 in; Trigger > El.
+R2.7                                                         Predicted Deflection = 1.3 in                                                           OK
+                 Trigger                                                                                 727.0
+
+Conclusion of Adequacy: Based on the revised engineering analyses presented in Sections R2.1 through R2.7 above, Kesterline Engineering,
+PC concludes that the Block B plant-room support of excavation design in Submittal 31-SH-B Rev.1, as modified by this Revision 2 supplement
+(KE-L-2026-0713), conforms to KGI-2024-0417 Rev.2, CB-DBM-001 Rev.2, Section 31 20 00 Rev.3, and the Package A register, and is
+geotechnically and structurally adequate for construction. Relief-well installation, the 72-hour piezometer confirmation and the anchor proof tests
+are hold points in the Contractor’s sequence under Rev.1 Section 13.1. We request verification of Submittal 31-SH-B on the basis of Rev.1 as
+supplemented by Rev.2, so that excavation can proceed on the Contractor’s planned date.
+
+CERTIFICATION & PROFESSIONAL ENGINEER SEAL
+Respectfully submitted,
+Kesterline Engineering, PC
+/s/ Byron A. Halvard
+
+
+                          KE-L-2026-0713 | Submittal 31-SH-B Rev.2 | Birchwood Village Expansion Program, Package A | Page 4 of 5
+Byron A. Halvard, PE — Principal Engineer, Kesterline Engineering, PC
+Ohio Professional Engineer License No. E-58730 — sealed 07/13/2026
+Prepared by: R. T. Karcher, EIT Checked by: S. M. Ovrud, PE
+
+         [ PROFESSIONAL ENGINEER SEAL — B. A. HALVARD, PE — STATE OF OHIO LICENSE NO. E-58730 — 07/13/2026 ]
+
+
+
+
+                      KE-L-2026-0713 | Submittal 31-SH-B Rev.2 | Birchwood Village Expansion Program, Package A | Page 5 of 5
+

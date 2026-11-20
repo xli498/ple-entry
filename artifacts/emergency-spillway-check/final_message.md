@@ -1,9 +1,3 @@
-# emergency-spillway-check
+The memo is saved at [Memo_to_Callaway_Spillway_2026-10-31.docx](/filesystem/Memo_to_Callaway_Spillway_2026-10-31.docx).
 
-This handoff summary was reconstructed during Stage 1 packaging; it is not an original harness response.
-
-Staged version: v1. Deliverables in the task container:
-
-- `/filesystem/Memo_to_Callaway_Spillway_2026-10-31.docx`
-
-No solve or grading was performed during packaging. See the repository-root final_message.md for study scope and confirmation limits.
+It concludes that C-9 cannot answer G-4 as drawn: the stated crest head is inconsistent, and the reported spillway flow is not supported by the shown weir dimensions. It directs a C-9 revision while retaining the accepted master-study basis, so no amendment is required. It identifies the overflow route as the east berm to the open swale in Common-Area Parcel E, then to the Windmill Lane gutter line. The DOCX was reopened and checked for the key findings and calculations.

@@ -1,0 +1,3 @@
+**Hold Permission to Operate for August 4, 2025.** The July 14 record does not show that Corwyn can sustain valid SCADA telemetry with the point-of-interconnection recloser open. The July 8 witness test passed, but it did not establish that pre-PTO condition. The record does not support completing and verifying the fixes by August 4.
+
+The [Word memo for Lena Kovalchuk](/filesystem/Corwyn_PTO_Memo.docx) is ready for the reviewing P.E.’s signature. OpenProject work package **#47** in **DER Program Backlog Review** is assigned to **S. Rennick** and records the hold, Corwyn Realty Partners’ corrective actions, and the utility approvals and verification required before release.

@@ -1,0 +1,157 @@
+PRE-POUR REINFORCEMENT AND COVER INSPECTION SHEET
+Thelbridge Project Management Services
+500 South High Street, Suite 720, Columbus, OH 43215
+Materials / QA — Field Inspection Record
+Form No.:                                               TPM-PP-2026-07                          Date of Inspection:                            07/13/2026
+Project:                                                Birchwood Village Expansion —           Owner:                                         Thornbury State University
+                                                        Package A
+Site:                                                   1802 Larchwood Avenue, Columbus,        Contractor of Record:                          Rowan Bay Constructors, Inc.
+                                                        OH 43210
+Inspector:                      Karen Tarbray, Materials / QA Reviewer, Thelbridge Project Management Services
+Area(s) Inspected:              Multiple elements — see item table below (Level-3 slab cage Part 1; Block B pile caps and footings; Exterior basement wall; Blocks A/B basement mat;
+                                Basement mat exterior column drops; Block C spread footings)
+
+
+1. Applicable Reference Documents
+Document                                                                                                          Rev.                     Issue Date
+Drawing S-201 — Foundation Sections and Details                                                                   Rev.4                    05/29/2026
+Drawing S-101 — Foundation Plan                                                                                   Rev.4                    05/29/2026
+Specification Section 03 20 00 — Concrete Reinforcing                                                             Rev.3                    03/06/2026
+
+Governing cover note: S-201 General Note — "CLEAR COVER 1½ IN TYPICAL U.N.O."
+Measurement method: Direct tape measurement from face of reinforcement to inside face of form / face of blinding, taken at not fewer than five
+(5) locations per element. Where a spread of readings was recorded, the reported measured cover is the minimum controlling value across the
+readings, with the observed range reported alongside.
+
+2. Inspection Item Table
+ #      Element                 Inspection Date Exposure              Bar    Measure     Range           Govn.   Source of Requirement             Result     Cast?         Cast
+                                                Condition             Size   d Cover     Observed        Req.                                                               Date
+ 1      Level-3 slab cage (Part 07/13/2026       Interior, unexposed #8      1½ in       —               1½ in   S-201 general note ("CLEAR        COMPLI     NO —          —
+        1)                                                                                                       COVER 1½ IN TYPICAL               ES         pre-pour
+                                                                                                                 U.N.O.")
+ 2      Block B pile caps and   12/08/2025       Cast against earth   #8     2 in        1¾ in to 2¼     1½ in   S-201 general note ("CLEAR        COMPLI     YES           12/2025
+        footings                (retro-entry)                                            in                      COVER 1½ IN TYPICAL               ES
+                                                                                                                 U.N.O.")
+ 3      Exterior basement wall 02/24/2026        Formed,              #8     1½ in       1½ in to 1¾     1½ in   S-201 general note ("CLEAR        COMPLI     YES           03/2026
+                                                 permanently                             in                      COVER 1½ IN TYPICAL               ES
+                                                 earth-exposed                                                   U.N.O.")
+ 4      Blocks A/B basement     01/09/2026       Below grade, mat     #8     2 in        1¾ in to 2¼     1½ in   S-201 general note ("CLEAR        COMPLI     YES           01/2026
+        mat                     (retro-entry)    on blinding                             in                      COVER 1½ IN TYPICAL               ES
+                                                                                                                 U.N.O.")
+ 5      Basement mat —          01/09/2026       Below grade          #8     3 in        2¾ in to 3¼     1½ in   S-201 general note ("CLEAR        COMPLI     YES           01/2026
+        exterior column drop    (retro-entry)    thickening                              in                      COVER 1½ IN TYPICAL               ES
+        (Detail 5/S-201)                                                                                         U.N.O.")
+ 6      Block C spread          12/03/2025       Below grade footing #8      2 in        1¾ in to 2 in   1½ in   S-201 general note ("CLEAR        COMPLI     YES           12/2025
+        footings                (retro-entry)                                                                    COVER 1½ IN TYPICAL               ES
+                                                                                                                 U.N.O.")
+
+
+3. Item Narratives
+Item 1 — Level-3 Slab Cage (Part 1)
+• Location: Level-3 floor slab, Part 1 sequence area, over the podium framing plan grid area shown on S-310 Rev.4.
+• Cage inspected in place on falsework prior to concrete placement scheduled for 07/22/2026.
+• Bar size confirmed as #8 per Submittal 03-SD-L3, reviewed 06/18/2026.
+• Measured cover 1½ in taken at five stations along the perimeter and at three interior stations.
+• Governing requirement per S-201 general cover note: 1½ in.
+• Result: COMPLIES.
+• Cast status: NO — pre-pour.
+
+
+
+
+Thelbridge Project Management Services                                                                                          Page 1 | Form TPM-PP-2026-07 | 07/13/2026
+Item 2 — Block B Pile Caps and Footings
+• Retro-entry on this inspection sheet consolidating the field record originally captured 12/08/2025 immediately prior to placement of the
+Block B pile caps.
+• Elements are cast against earth (no forms on the underside; sides poured neat against excavation cut faces with mud-mat blinding
+beneath the cage).
+• Bar size #8 confirmed by tag and by direct diameter measurement at three stations.
+• Measured cover 2 in nominal; range 1¾ in to 2¼ in observed across ten stations at the underside of the cage above the mud-mat
+blinding.
+• Governing requirement per S-201 general cover note: 1½ in.
+• Result: COMPLIES.
+• Cast status: YES — 12/2025.
+
+Item 3 — Exterior Basement Wall
+• Retro-entry on this inspection sheet consolidating the field record captured 02/24/2026 during the pre-pour walk of the exterior
+basement wall panels of Blocks A/B.
+• Wall panels are formed on both faces; outer face of the completed wall is permanently in contact with backfill and, on the
+below-water-table portion, with earth-exposed conditions.
+• Bar size #8 confirmed by tag and by direct diameter measurement at three stations.
+• Measured cover 1½ in nominal on the outer (earth-facing) face; range 1½ in to 1¾ in observed across eight stations.
+• Governing requirement per S-201 general cover note: 1½ in.
+• Result: COMPLIES.
+• Cast status: YES — 03/2026.
+
+Item 4 — Blocks A/B Basement Mat
+• Retro-entry on this inspection sheet consolidating the field record captured 01/09/2026 during the pre-pour walk of the Blocks A/B
+basement mat, grids B–L / 1–5, placed 01/12/2026.
+• Mat bears on 3 in minimum of lean-mix blinding concrete at underside El. 731.5; perimeter edges formed and subsequently backfilled;
+top of mat at El. 734.5 beneath the floor topping.
+• Bar size #8 confirmed by tag and by direct diameter measurement at three stations; top and bottom mats per Detail 1/S-201.
+• Measured cover 2 in nominal; range 1¾ in to 2¼ in observed across twelve stations taken at the underside of the bottom mat above
+the blinding.
+• Governing requirement per S-201 general cover note: 1½ in.
+• Result: COMPLIES.
+• Cast status: YES — 01/2026.
+
+Item 5 — Basement Mat, Exterior Column Drop (Detail 5/S-201)
+• Retro-entry on this inspection sheet consolidating the field record captured 01/09/2026 at the exterior column drops within the Blocks
+A/B basement mat, Detail 5/S-201, placed monolithically with the mat on 01/12/2026.
+• Thickened zone extends 1'-6" below the standard mat underside to thickened underside El. 730.0, 6'-0" × 6'-0" in plan centred on the
+column, with a 1:2 transition slope at the edge of the thickened zone.
+• Additional bottom bars in the thickened zone are (6) #8 each way; bar size confirmed by tag and by direct diameter measurement at
+three stations.
+• Measured cover 3 in nominal; range 2¾ in to 3¼ in observed across ten stations taken at the underside of the thickened zone.
+• Governing requirement per S-201 general cover note: 1½ in.
+• Result: COMPLIES.
+• Cast status: YES — 01/2026.
+
+Item 6 — Block C Spread Footings
+• Retro-entry on this inspection sheet consolidating the field record captured 12/03/2025 during the pre-pour walk of the Block C spread
+footings, columns C-1 through C-12, Detail 3/S-201.
+• Footings bear on lean-mix blinding over the upper sand; the four sides of each footing were poured neat against the excavation cut
+faces without forms; column pedestals cast subsequently.
+• Bar size #8 confirmed by tag and by direct diameter measurement at three stations; bottom mat per Detail 3/S-201.
+• Measured cover 2 in nominal; range 1¾ in to 2 in observed across ten stations taken at the side faces of the cage, three at the north
+face, three at the east face, two at the south face and two at the west face.
+• Governing requirement per S-201 general cover note: 1½ in.
+• Result: COMPLIES.
+• Cast status: YES — 12/2025.
+
+4. General Observations
+• Bar identification tags legible on all bundles inspected in the Level-3 cage. Heat traceability against Lot 2026-0710 receiving log
+deferred to the separate rebar acceptance record.
+
+
+Thelbridge Project Management Services                                                            Page 2 | Form TPM-PP-2026-07 | 07/13/2026
+• Chair type: precast concrete chairs at underside of Level-3 slab cage; wire bar supports elsewhere at slab interior. All chairs contacted
+the intended bearing surface.
+• No visible deleterious coatings, mud, or ice on any inspected bars.
+• Tie wire ends turned into the section on all faces adjacent to the measured cover reading locations.
+• Splices in the Level-3 cage lap-configured per Submittal 03-SD-L3; no mechanical couplers in inspected areas.
+
+5. Inspection Result Summary
+• Items inspected: 6
+• Items COMPLIES against S-201 general cover note: 6
+• Items withheld pending further information: 0
+• Items marked otherwise: 0
+Ready for concrete placement — Level-3 slab (Item 1) — subject to concurrent verifications listed on the pour-readiness checklist
+(rebar heat acceptance, mix design, hold-point release).
+
+6. Signature
+Inspected by:
+Karen Tarbray
+Materials / QA Reviewer
+Thelbridge Project Management Services
+ktarbray@thelbridgepm.com | (614) 555-0125 x235
+Signature: Karen Tarbray
+Date: 07/13/2026
+
+Form TPM-PP-2026-07 — Pre-Pour Reinforcement and Cover Inspection — Package A field record.
+
+
+
+
+Thelbridge Project Management Services                                                           Page 3 | Form TPM-PP-2026-07 | 07/13/2026
+

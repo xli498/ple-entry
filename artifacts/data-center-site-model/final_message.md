@@ -1,0 +1,3 @@
+Created the IFC4 BIM deliverable at [submission/model.ifc](/app/files/frontier__DCBim__p6_002/submission/model.ifc).
+
+The model contains seven required `IfcBuilding` solids, four storeys for the two data halls, `DCD_Layout` identity/GFA properties, and the `DCD_Networks` payload with phased road, MV, and graph data. I also verified the IFC schema/header, metre units, entity counts, STEP references, JSON payload extraction, and final-file termination.

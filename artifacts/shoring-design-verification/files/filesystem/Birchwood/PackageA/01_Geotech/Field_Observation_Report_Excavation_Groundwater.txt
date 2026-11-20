@@ -1,0 +1,290 @@
+Kelbrook Geotechnical, Inc.                                                              Report No. KGI-FO-2026-0528
+
+
+
+
+                        KELBROOK GEOTECHNICAL, INC.
+                                           Consulting Geotechnical Engineers
+                                        1120 Kinnear Road • Columbus, Ohio 43212
+                                            (614) 555-0204 • kelbrookgeo.com
+
+
+
+                                    FIELD OBSERVATION REPORT
+            Excavation and Groundwater — Block A Basement and Block B Fill Placement
+
+Project:                  Birchwood Village Expansion Program — Package A
+Site:                     1802 Larchwood Avenue, Columbus, Ohio 43210
+Owner:                    Thornbury State University
+Report No.:               KGI-FO-2026-0528
+Kelbrook Project No.:     KGI-2024-0417 (Package A Groundwater Monitoring — construction phase)
+Reference Report:         Geotechnical Investigation Report Rev.2, Report No. KGI-2024-0417, dated
+                          02/14/2025
+Field Observation Period: 07/2025 through 05/2026
+Report Date:              05/28/2026
+
+Prepared by:         Thomas Kilbray, Geotechnical Field Technician
+                     Kelbrook Geotechnical, Inc.
+Prepared for:        Ms. Rachel Marlbeck, University Program Director — Thornbury State University
+cc:                  Mr. Adrian Vance        — Thelbridge Project Management Services (Owner’s Representative)
+cc:                  Mr. Rahul Nimkar — Thelbridge Project Management Services (Geotechnical Reviewer)
+cc:                  Mr. Gregory Nash, PE — Calloway Braddock Structural Engineers, LLC (EOR)
+
+
+ 1. Purpose and Scope
+ This field observation report documents excavation observations, groundwater monitoring readings and seepage
+ observations recorded by Kelbrook Geotechnical field personnel across the Package A footprint over the
+ construction period 07/2025 through 05/2026. The observations reported herein are drawn from the writer’s
+ daily field notes, from the shallow standpipe and deep piezometer monitoring log maintained under the ongoing
+ Package A groundwater monitoring program, and from photographs and sketches taken at the time of
+ observation. The report is furnished in support of the Owner’s Representative construction verification file and
+ as supplemental record to the Geotechnical Investigation Report Rev.2 (KGI-2024-0417).
+ Two distinct field episodes are documented: (a) the Block A basement excavation, opened in the summer of
+ 2025 to a working subgrade at approximately El. 730.0; and (b) the placement of engineered fill across the
+ Block B footprint from 10/06/2025 through 11/02/2025 and the subsequent months of pile installation and
+ lift-up to design grade. Groundwater monitoring is continuous across both episodes and is reported in full.
+
+ 2. Excavation Observations — Block A Basement
+ 2.1 Excavation Opening and Progression
+
+
+
+
+Field Observation Report — Excavation and Groundwater — Package A                                             Page 1
+Kelbrook Geotechnical, Inc.                                                                                     Report No. KGI-FO-2026-0528
+
+
+
+
+ The Block A basement excavation was opened in the northeast quadrant of the Package A footprint on
+ 07/14/2025 and progressed from existing grade El. 750.0 down to a working subgrade at approximately El.
+ 730.0 (approximately one foot below the design underside of the basement mat at El. 731.5, to accommodate a
+ lean-concrete working mat). The excavation was carried out by the Contractor using a mid-size hydraulic
+ excavator with side dumping to trucks; sequence proceeded from the east perimeter westward across the Block
+ A footprint over the course of approximately three weeks.
+ Perimeter shoring — a combination of soldier pile and timber lagging along the northern and eastern faces, and
+ open-cut battered slopes along the interior (Block A / Block B transition) — was installed ahead of the cut face.
+ Well-point dewatering, executed per the Contractor’s Dewatering and Groundwater Control Plan Rev.1
+ dated 06/04/2025, was activated on 07/12/2025, two days before the first cut, and remained in operation
+ continuously through mat placement on 01/12/2026 and thereafter to protect the wall pour sequence.
+
+ 2.2 Side Conditions Observed in the Cut Face
+ Exposed cut faces along the Block A perimeter revealed the following, consistent with the strata described in
+ Section 6 of the reference report:
+   •    From existing grade El. 750.0 down to approximately El. 746.0: approximately 4 ft of loose topsoil,
+        root-mat and reworked surface fill of engineering significance limited to the upper 0.5 to 1 ft, transitioning
+        downward into weathered upper sand. This layer was over-excavated and hauled off-site as unsuitable for
+        structural fill re-use.
+   •    From approximately El. 746.0 down to El. 738.0: the SP-SM upper sand — medium-dense, moist above
+        the water table and saturated below it, with a modest silt content and no interbedded fine-grained seams.
+        Cut face stability in the sand above the water table was satisfactory at 1H:1V; below the water table (once
+        dewatered) the face was cut vertically against the shoring without slumping.
+   •    From El. 738.0 down to the working subgrade at El. 730.0: the top of the CL clay aquitard, exposed as
+        a stiff, medium-plasticity lean clay of grey-brown colour. The top of the clay at El. 738.0 was consistent
+        within ± 0.5 ft across the Block A footprint. The clay retained a vertical or near-vertical face for the
+        excavation duration without noticeable creep or heave; subgrade compaction footprint (proof-rolling)
+        produced no rutting or pumping under the loaded haul truck used for the check.
+ The transition from Stratum 1 (upper sand) to Stratum 2 (clay) at El. 738.0 was sharp and well-defined in the cut
+ face and matched the elevation logged in Borings B-01, B-02, B-07 and B-09 within a few tenths of a foot.
+
+ 2.3 Working Subgrade Condition
+ Subgrade at El. 730.0 was inspected on 08/06/2025 in the presence of the Contractor’s Superintendent (Mr.
+ Marcus Whitfield) and the Owner’s Representative (Mr. Adrian Vance      ). Subgrade was found to be firm,
+ uniform, free of standing water within the dewatered footprint, and suitable to receive the lean-concrete
+ working mat and subsequently the reinforced mat foundation. No soft spots, disturbed zones or unsuitable
+ inclusions were logged. The subgrade approval memorandum was issued separately by Kelbrook on
+ 08/07/2025.
+
+ 3. Groundwater Monitoring — Continuous Record
+ Groundwater monitoring under the Package A program continues from the piezometer array installed
+ 11/22/2024 and reported in the Geotechnical Investigation Report Rev.2. Over the observation period 07/2025
+ through 05/2026 an additional eleven monitoring rounds were completed, bringing the total record to eighteen
+
+ rounds since installation. Readings are taken monthly (weekly during active excavation and dewatering).
+
+
+
+Field Observation Report — Excavation and Groundwater — Package A                                                                    Page 2
+Kelbrook Geotechnical, Inc.                                                               Report No. KGI-FO-2026-0528
+
+
+
+
+ 3.1 Design Water Table — Upper Sand (Shallow Standpipe Piezometers)
+ The design water table in the upper SP-SM sand, established at El. 742.0 in the reference report, is confirmed
+ by the extended monitoring record. Readings from the three shallow standpipe piezometers (B-01, B-03, B-09),
+ taken across the 07/2025 through 05/2026 observation period at locations outside the Block A dewatered
+ footprint, remain in the range El. 741.6 to El. 742.4, with individual monthly means clustered within a few
+ tenths of a foot of El. 742.0. No systematic trend, no seasonal excursion beyond that range and no departure
+ from the design elevation was recorded.
+
+ 3.2 Confined Piezometric Head — Deep Aquifer (Deep Piezometers)
+ The confined piezometric head in the deep SW-GW sand-and-gravel aquifer below El. 720.0, established at El.
+ 738.0 in the reference report, is likewise confirmed. Readings from the two deep piezometers (B-04 and B-08),
+ both screened below El. 720.0 within the Block B footprint, remain in the range El. 737.7 to El. 738.3 across
+ the full extended record. The head is stable, without trend, and consistent with the value carried forward from
+ the Rev.2 investigation.
+
+ 3.3 Summary of Extended Monitoring Range
+                                                                      Extended range            Representative
+        Piezometer                       Screen zone
+                                                                    (07/2025 – 05/2026)            reading
+
+ B-01 (shallow standpipe)     Upper sand                             El. 741.7 – 742.3              El. 742.0
+
+ B-03 (shallow standpipe)     Upper sand                             El. 741.6 – 742.4              El. 742.0
+
+ B-09 (shallow standpipe)     Upper sand                             El. 741.8 – 742.2              El. 742.0
+
+ B-04 (deep piezometer)       Deep aquifer (below El. 720.0)         El. 737.7 – 738.3              El. 738.0
+
+ B-08 (deep piezometer)       Deep aquifer (below El. 720.0)         El. 737.8 – 738.2              El. 738.0
+
+ Both regimes — the shallow phreatic surface at El. 742.0 in the upper sands and the confined piezometric head
+ at El. 738.0 in the deep aquifer below El. 720.0 — remain consistent with KGI-2024-0417 Rev.2. The
+ eighteen-foot separation between the top of the clay aquitard and the top of the deep aquifer continues to isolate
+ the two regimes.
+
+ 4. Seepage Observations — Block A Excavation and Dewatering Response
+ 4.1 Seepage into the Cut Face
+ During the Block A basement excavation, groundwater seepage was observed entering the excavation at the
+ exposed cut face where the upper SP-SM sand was cut below the design water table. Seepage was concentrated
+ at elevations El. 741.8 to El. 742.2, corresponding to the top of the phreatic surface in the upper sand. The
+ seepage was clear (non-turbid after brief initial flushing), sustained rather than intermittent, and distributed
+ along the cut face rather than emerging from a discrete conduit or seam. No seepage was observed emerging
+ from the top of the CL clay at El. 738.0; the clay presented no visible cracks or fissures and no seepage exit
+ points at or below its exposed face.
+ The observed seepage elevations (El. 741.8 to El. 742.2) reproduce the range recorded in exploratory
+ test-pitting during the original 2024 investigation and are consistent with the shallow standpipe piezometer
+ readings from stations outside the dewatered footprint (Section 3.1). The two independent measurements —
+ piezometer standpipe readings and cut-face seepage entry — corroborate each other and confirm the design
+ water table elevation.
+
+
+
+Field Observation Report — Excavation and Groundwater — Package A                                               Page 3
+Kelbrook Geotechnical, Inc.                                                               Report No. KGI-FO-2026-0528
+
+
+
+
+ 4.2 Well-Point Dewatering Response — Upper Sand
+ Well-point dewatering, executed per the Contractor’s Dewatering and Groundwater Control Plan Rev.1
+ was operated continuously across the Block A footprint from 07/12/2025 through the mat placement
+ date and beyond. Piezometer readings taken from a spare standpipe drop set inside the dewatered perimeter, in
+ combination with well-point riser inspections, showed the upper sand water level drawn down to approximately
+ El. 728 within the dewatered perimeter — approximately 14 feet below the ambient design water table and
+ approximately 2 feet below the working subgrade at El. 730.0. Drawdown within the perimeter was achieved
+ within approximately 48 hours of well-point activation and was maintained at that level throughout the
+ excavation and mat construction window.
+ The dewatering system performed as designed for the shallow phreatic surface in the upper sand across the
+ Block A footprint. Cut faces below the ambient water table, once well-point drawdown was established,
+ presented no free seepage during the balance of the mat construction sequence.
+
+ 4.3 Deep Piezometer Response — Confirms Confined Aquifer Independence
+ Deep piezometer readings from B-04 and B-08 (both screened in the deep SW-GW aquifer below El. 720.0 and
+ located within the Block A / Block B footprint) were taken throughout the Block A dewatering campaign.
+ Across the full period of well-point operation, both deep piezometers continued to read within the range El.
+ 737.7 to El. 738.3, with individual monthly means at or within a few tenths of El. 738.0.
+ Deep piezometer readings within the Block A footprint were unaffected by upper-sand well-point dewatering.
+ The upper sand and the deep aquifer are separated by the 18-ft-thick CL clay aquitard from El. 738.0 down to
+ El. 720.0, and the well-point system draws only from the upper sand. The observed independence of the two
+ regimes during active dewatering directly confirms the confined character of the deep aquifer and the aquitard
+ behaviour of the clay, as characterized in the reference report.
+
+ 5. Notes on Block B — Engineered Fill Placement and Subsequent Monitoring
+ 5.1 Engineered Fill Placement, 10/06/2025 through 11/02/2025
+ Engineered fill was placed across the Block B footprint over the period 10/06/2025 through 11/02/2025 to bring
+ the site from natural ground at approximately El. 738.0 up to design grade at El. 750.0 — a nominal 12 ft of fill
+ in 14 controlled lifts. Fill was placed directly on the stripped clay surface after removal of the surface topsoil
+ mantle, in accordance with the recommendations of Section 9.5 of the reference report. Compaction and
+ moisture control were performed under the independent Laboratory’s field density testing program (Vantree
+ Materials Testing, LLC); the writer’s observations here are limited to the geotechnical monitoring associated
+ with the underlying strata.
+
+ 5.2 Deep Piezometer Readings Through Fill Placement, Pile Driving and Subsequent Months
+ The two deep piezometers B-04 and B-08 are located within the Block B footprint (B-04 within the plant-room
+ excavation footprint, B-08 adjacent to the basement mat perimeter beneath Blocks A and B, both screened in
+ the deep aquifer below El. 720.0). Both remained instrumented and readable through fill placement, through
+ pile installation from 11/06/2025 through 11/21/2025, and through the subsequent months of the observation
+ period.
+ Across the entire sequence — before, during and after fill placement; before, during and after pile driving; and
+ through the months following pile driving — deep piezometer readings continued to fall within the range El.
+ 737.7 to El. 738.3. Individual monthly means remained clustered at or within a few tenths of El. 738.0. No
+ pumping, no departure from the ambient range, and no sustained response either to fill loading or to pile
+
+
+
+Field Observation Report — Excavation and Groundwater — Package A                                              Page 4
+Kelbrook Geotechnical, Inc.                                                               Report No. KGI-FO-2026-0528
+
+
+
+
+ installation was recorded in the deep-aquifer piezometers.
+ The aquifer head re-establishes at El. 738.0 through the engineered fill placed above the clay; the fill does not
+ alter the confined head, and the confined head does not respond to the fill load. This is expected behaviour for a
+ laterally continuous confined aquifer isolated from the surface loading regime by an intact clay aquitard, and is
+ reported here so that the record is complete.
+
+ 5.3 Shallow Standpipe Readings
+ Shallow standpipe piezometer B-01 (Block A, outside the Block B fill footprint) and B-09 (Block C, outside the
+ Block B fill footprint) continued to read within the El. 741.6 to El. 742.4 range through the fill-placement and
+ pile-driving windows. Shallow standpipe B-03 (Block A / Block B transition) likewise continued in that range.
+ The upper-sand phreatic surface at El. 742.0 outside the Block A dewatered footprint was not measurably
+ affected by activity within the Block B fill footprint.
+
+ 6. Field Observation Summary
+ The following observations are recorded for the observation period 07/2025 through 05/2026:
+   1. The Block A basement excavation was opened in summer 2025 and carried to a working subgrade at
+       approximately El. 730.0 (one foot below the design underside of the basement mat at El. 731.5). Cut faces
+       exposed the upper SP-SM sand from grade to El. 738.0 and the top of the CL clay aquitard below.
+       Subgrade condition on the clay was firm and suitable to receive the lean-concrete working mat.
+   2. Seepage into the Block A cut face was observed at El. 741.8 to El. 742.2, coincident with the design water
+       table El. 742.0 in the upper sand. No seepage was observed emerging from the top of the CL clay at El.
+       738.0.
+   3. Well-point dewatering per Submittal 31-DW-A drew the upper-sand water level in the Block A perimeter down
+       to approximately El. 728, and maintained that level throughout the mat construction window.
+   4. Shallow standpipe piezometer readings outside the dewatered footprint remained in the range El. 741.6 to
+       El. 742.4, confirming the design water table El. 742.0 per KGI-2024-0417 Rev.2.
+   5. Deep piezometer readings within the Block A footprint were unaffected by upper-sand well-point
+       dewatering and continued to read El. 737.7 to El. 738.3, confirming the confined character of the deep
+       SW-GW aquifer below El. 720.0 and the aquitard behaviour of the intervening CL clay from El. 738.0 to
+       El. 720.0.
+   6. Engineered fill was placed across the Block B footprint from 10/06/2025 through 11/02/2025 (12 ft in 14
+       lifts). Piles were driven from the raised working grade at El. 750.0 between 11/06/2025 and 11/21/2025.
+       Deep piezometer readings within the Block B footprint continued to read El. 737.7 to El. 738.3 across the
+       fill-placement, pile-driving and subsequent-month intervals, and the aquifer head re-establishes at El.
+       738.0 through the engineered fill.
+
+ The observed groundwater regime and the observed geologic profile are consistent with the design values
+ reported in KGI-2024-0417 Rev.2, dated 02/14/2025, and remain valid for the balance
+ of Package A construction. Monitoring continues.
+
+
+
+
+Field Observation Report — Excavation and Groundwater — Package A                                              Page 5
+Kelbrook Geotechnical, Inc.                                                                  Report No. KGI-FO-2026-0528
+
+
+
+
+ Signed:
+
+
+
+                              _______________________________________________
+ Thomas Kilbray
+ Geotechnical Field Technician
+ Kelbrook Geotechnical, Inc.
+ Date: 05/28/2026
+
+ Report No. KGI-FO-2026-0528 — Kelbrook Geotechnical, Inc. — 1120 Kinnear Road, Columbus, Ohio 43212 — (614) 555-0204 —
+                                                     kelbrookgeo.com
+
+
+
+
+Field Observation Report — Excavation and Groundwater — Package A                                                  Page 6
+

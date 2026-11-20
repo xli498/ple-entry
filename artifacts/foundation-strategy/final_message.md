@@ -1,0 +1,3 @@
+Completed deliverable: [submission.zip](/filesystem/dc_structural__foundation_strategy__blind/output/submission.zip)
+
+The archive contains exactly the six required root files. The final design uses improved spread footings on all six pads, three mobilised rigs serving two pads each, 556 °F-days AFI, 42-inch minimum frost depth, and a reported campus total cost of `$539,660.89`. Local checks confirmed 36 foundations, schedule/geometry completeness, dimensional-grid compliance, pier replacement ratios, top-of-pier stresses, settlement limits, bearing demand consistency, and archive structure.

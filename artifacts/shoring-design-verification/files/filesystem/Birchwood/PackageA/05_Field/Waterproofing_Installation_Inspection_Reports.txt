@@ -1,0 +1,339 @@
+ ROWAN BAY CONSTRUCTORS, INC.                                                                                Form WIR-WP
+ 4400 Alum Creek Drive, Columbus, OH 43207                                                         Waterproofing Installation
+ Phone: (614) 555-0192 · rowanbay.com                                                                     Inspection Report
+
+
+               WATERPROOFING INSTALLATION INSPECTION REPORTS
+                  Basement Wall-to-Mat Construction Joints — RFI 104 Permitted Joints
+
+  Project                                  Birchwood Village Expansion — Package A
+  Owner                                    Thornbury State University
+  Site                                     1802 Larchwood Avenue, Columbus, OH 43210
+  Contractor Project No.                   RBC-2025-041
+  Applicator                               Vernden Waterproofing Services (Ordvale-certified)
+  Governing Documents                      Sheet A-501 Rev.3 (01/16/2026); Sheet S-102 Rev.2 (12/12/2025); Submittal
+                                           07-WP-A; RFI 104 response of 11/04/2025; Specification Sections 07 13 26 and 07
+                                           16 16.
+  Form                                     WIR-WP (Waterproofing Installation Inspection Report)
+  Report Series                            WIR-WP-001 through WIR-WP-003
+
+
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                               Page 1
+REPORT WIR-WP-001 — JOINT B-2
+  Report No.                                    WIR-WP-001
+  Inspection Date                               02/19/2026
+  Joint ID                                      B-2
+  Grid Location                                 Grid line B at column line 2
+  Drainage Zone                                 Zone 1
+  Elevation of Joint (Top of Mat)               El. 734.5 ft
+  Governing Detail (Sheet A-501 Rev.3)          Detail 1 — Wall-to-Mat Construction Joint (Positive-Side Hydrostatic Membrane)
+  Substrate Concrete Placement Date             01/12/2026 (basement mat)
+  Substrate Cure at Inspection                  38 days (>5 day minimum per General Note 4)
+  Applicator Crew Chief                         R. Vernden
+  QC Engineer (Rowan Bay                        Colin Marisak
+  Constructors)
+  Ordvale Field Representative (Witness) Preston Kilgar
+
+
+1. Ambient Conditions at Installation
+  Parameter                                                          Value
+  Date                                                               02/19/2026
+  Dry-bulb temperature (start, 07:40)                                34°F
+  Dry-bulb temperature (midday, 12:15)                               41°F
+  Dry-bulb temperature (end, 15:50)                                  39°F
+  Relative humidity                                                  54%
+  Wind                                                               SW 6–9 mph
+  Precipitation during installation                                  None
+  Substrate surface temperature                                      38°F to 43°F
+  Substrate condition                                                Dry, no laitance, no standing water
+
+
+2. Materials Installed
+  Line       Item                                                      Manufacturer / Product                 Lot / Batch
+  2.1        Positive-side bentonite composite membrane                Ordvale Aquastop HD                    Lot AHD-25-1148
+  2.2        Hydrophilic waterstop, bentonite-based swell profile      Ordvale Aquastop HydroBar              Lot HB-25-0872
+  2.3        Reinforcing fabric, corner strip                          Ordvale Aquastop CB                    Lot CB-25-0510
+  2.4        Compatible mastic (penetration sealer)                    Ordvale Aquastop Mastic                Lot AM-25-0223
+  2.5        Protection course, 1/8 in HDPE sheet                      Ordvale-approved                       Roll HD-P-25-441
+
+Product data reference: Submittal 07-WP-A, Ordvale Aquastop HD Product Data Sheet Rev.08 (09/01/2025). Hydrostatic head rating (ASTM
+D5385 modified): rated to 20 ft head.
+
+
+3. Installation Verification Checklist
+  #       Item                                  Requirement (Sheet A-501 Rev.3)       Observed                         Result
+  3.1     Substrate cure                        ≥ 5 days                              38 days                          Complies
+  3.2     Substrate surface (laitance /         Free of all three                     Free                             Complies
+          debris / standing water)
+  3.3     Chamfer fillet at re-entrant angle    3/4 in nom.                           3/4 in verified with template    Complies
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                                         Page 2
+  #       Item                                 Requirement (Sheet A-501 Rev.3)        Observed                         Result
+  3.4     Hydrophilic waterstop —              Swell profile toward positive (soil)   Verified visually                Complies
+          orientation                          side
+  3.5     Hydrophilic waterstop — fastener     ≤ 12 in o.c.                           10 in o.c. average, 12 in max    Complies
+          spacing
+  3.6     Hydrophilic waterstop —              Continuous, factory-spliced            Continuous, one factory splice   Complies
+          continuity                                                                  logged
+  3.7     Membrane laps                        3 in min., roller-consolidated         3.5 in verified, roller          Complies
+                                                                                      consolidated
+  3.8     Membrane turn-up onto wall           ≥ 6 in onto positive-side wall face    8 in                             Complies
+  3.9     Penetration sealing (compatible      Per Detail 6/A-501                     2 penetrations sealed            Complies
+          mastic)
+  3.10    Protection course                    1/8 in HDPE over completed             Installed prior to backfill      Complies
+                                               membrane
+  3.11    Waterstop protected from ponded      Yes                                    No ponding observed              Complies
+          water
+
+
+4. Photographic Record
+  Photo                Description
+  [PHOTO 001-01]       Overall view of joint B-2 prior to membrane application, looking north
+  [PHOTO 001-02]       Chamfer fillet at re-entrant angle
+  [PHOTO 001-03]       Hydrophilic waterstop mechanically fastened to joint face, swell profile toward soil
+  [PHOTO 001-04]       First membrane sheet laid, showing 3 in lap and roller consolidation
+  [PHOTO 001-05]       Completed membrane with turn-up onto wall face
+  [PHOTO 001-06]       Protection course (1/8 in HDPE) installed over membrane
+
+
+5. Findings and Determination
+Joint B-2 was installed as Detail 1 per Sheet A-501 Rev.3: positive-side bentonite composite membrane with hydrophilic
+waterstop (Ordvale Aquastop HD), rated to 20 ft head. All checklist items complied with the sheet notes and the product data
+sheet requirements. Installation complies with the specified detail.
+
+Determination: Installation accepted.
+
+
+6. Signatures
+  Party                                     Name                    Title                          Signature            Date
+  QC Engineer, Rowan Bay                    Colin Marisak           QC Engineer                    /s/ Colin Marisak    02/19/202
+  Constructors, Inc.                                                                                                    6
+  Field Representative, Ordvale             Preston Kilgar          Field Technical                /s/ P. Kilgar        02/19/202
+  Building Products, Inc.                                           Representative                                      6
+
+
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                                         Page 3
+REPORT WIR-WP-002 — JOINT F-2
+   Report No.                                     WIR-WP-002
+   Inspection Date                                03/04/2026
+   Joint ID                                       F-2
+   Grid Location                                  Grid line F at column line 2
+   Drainage Zone                                  Zone 1
+   Elevation of Joint (Top of Mat)                El. 734.5 ft
+   Governing Detail (Sheet A-501 Rev.3)           Detail 3 — Wall-to-Mat Construction Joint (Damp-Proofed); annotated "per Phase 1
+                                                  standard detail WP-06"
+   Substrate Concrete Placement Date              01/12/2026 (basement mat)
+   Substrate Cure at Inspection                   51 days (>5 day minimum per General Note 4)
+   Applicator Crew Chief                          R. Vernden
+   QC Engineer (Rowan Bay                         Colin Marisak
+   Constructors)
+   Ordvale Field Representative (Witness) Preston Kilgar
+
+
+1. Ambient Conditions at Installation
+   Parameter                                                           Value
+   Date                                                                03/04/2026
+   Dry-bulb temperature (start, 08:05)                                 43°F
+   Dry-bulb temperature (midday, 12:30)                                51°F
+   Dry-bulb temperature (end, 16:20)                                   48°F
+   Relative humidity                                                   58%
+   Wind                                                                W 4–7 mph
+   Precipitation during installation                                   None; no rain forecast in 12-hr window
+   Substrate surface temperature                                       45°F to 52°F
+   Substrate condition                                                 Dry to the touch, no frost, no loose material, free of
+                                                                       form-release residue
+
+
+2. Materials Installed
+   Line       Item                                                       Manufacturer / Product                  Lot / Batch
+   2.1        Bituminous damp-proofing, cold-applied asphalt             Ordvale Bitumex 200                     Lot BX-26-0044
+              emulsion (1st coat)
+   2.2        Bituminous damp-proofing, cold-applied asphalt             Ordvale Bitumex 200                     Lot BX-26-0044
+              emulsion (2nd coat)
+   2.3        Non-swelling PVC waterstop, center-bulb type, 6 in         Ordvale-approved center-bulb PVC        Lot PVC-26-0116
+              wide, factory-spliced
+   2.4        Backfill (granular, hand-placed within 24 in of wall)      Per Spec 31 20 00                       —
+
+Product data reference: Submittal 07-WP-A, Ordvale Bitumex 200 Product Data Sheet Rev.05 (07/15/2025).
+
+
+Detail carried forward per Sheet A-501 Rev.3, Detail 3 note (a): "Damp-proofing per Phase 1 standard detail WP-06." Joint Schedule (Sheet
+A-501 Rev.3), Schedule Note 1: "F-2 shall use Detail 3 per Phase 1 standard detail WP-06."
+
+
+3. Installation Verification Checklist
+
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                                           Page 4
+  #       Item                                  Requirement (Sheet A-501 Rev.3,          Observed                        Result
+                                                Detail 3)
+  3.1     Substrate cure                        ≥ 5 days                                 51 days                         Complies
+  3.2     Substrate surface (dry, free of       All                                      Verified                        Complies
+          frost, loose material, form-release
+          residue)
+  3.3     Application temperature               ≥ 40°F, no rain forecast in 12 hr        43°F–51°F, no rain              Complies
+  3.4     PVC waterstop — type                  Non-swelling, center-bulb, 6 in wide     Verified                        Complies
+  3.5     PVC waterstop — splices               Thermally welded per mfr.                2 welds logged, no overlaps     Complies
+                                                procedure; no overlap splices
+  3.6     PVC waterstop — mechanical            Prior to first pour                      Verified from placement         Complies
+          support at joint centerline                                                    record
+  3.7     Damp-proofing — first coat, dry       30 mil min.                              Wet-film gauge,                 Complies
+          film thickness                                                                 back-calculated 30–34 mil
+                                                                                         DFT
+  3.8     Damp-proofing — cure to recoat        Tack-free (typ. 24 hr @ 70°F)            24 hr elapsed; tack-free        Complies
+                                                                                         confirmed
+  3.9     Damp-proofing — second coat,          30 mil min. per coat (60 mil total)      31–35 mil DFT; 62–68 mil        Complies
+          dry film thickness                                                             total
+  3.10    Damp-proofing — vertical extent       4 in below mat top surface to 6 in       Verified                        Complies
+                                                above finished exterior grade
+  3.11    Cure to backfill                      72 hr @ 70°F                             Backfill withheld > 72 hr       Complies
+
+
+4. Photographic Record
+  Photo                 Description
+  [PHOTO 002-01]        Overall view of joint F-2 prior to coating application, looking east
+  [PHOTO 002-02]        Non-swelling PVC center-bulb waterstop, factory-spliced, mechanically supported at joint centerline
+  [PHOTO 002-03]        First coat bituminous damp-proofing after roller application
+  [PHOTO 002-04]        Wet-film thickness gauge reading after first coat
+  [PHOTO 002-05]        Second coat completed, showing continuous coverage from 4 in below mat top to above grade
+  [PHOTO 002-06]        Cured second coat prior to backfill
+
+
+5. Findings and Determination
+Joint F-2 was installed as Detail 3 per Sheet A-501 Rev.3, applied per Phase 1 standard detail WP-06: two coats bituminous
+damp-proofing with non-swelling PVC waterstop. All checklist items complied with the sheet notes and the product data sheet
+requirements for application of the coating. Installation complies with the specified detail.
+
+Determination: Installation accepted as complying with the specified Detail 3.
+
+
+6. Signatures
+  Party                                     Name                      Title                          Signature            Date
+  QC Engineer, Rowan Bay                    Colin Marisak             QC Engineer                    /s/ Colin Marisak    03/04/202
+  Constructors, Inc.                                                                                                      6
+  Field Representative, Ordvale             Preston Kilgar            Field Technical                /s/ P. Kilgar        03/04/202
+  Building Products, Inc.                                             Representative                                      6
+
+
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                                           Page 5
+REPORT WIR-WP-003 — JOINT K-5
+  Report No.                                    WIR-WP-003
+  Inspection Date                               04/09/2026
+  Joint ID                                      K-5
+  Grid Location                                 Grid line K at column line 5
+  Drainage Zone                                 Zone 2
+  Elevation of Joint (Top of Mat)               El. 734.5 ft
+  Governing Detail (Sheet A-501 Rev.3)          Detail 1 — Wall-to-Mat Construction Joint (Positive-Side Hydrostatic Membrane)
+  Substrate Concrete Placement Date             01/12/2026 (basement mat)
+  Substrate Cure at Inspection                  87 days (>5 day minimum per General Note 4)
+  Applicator Crew Chief                         R. Vernden
+  QC Engineer (Rowan Bay                        Colin Marisak
+  Constructors)
+  Ordvale Field Representative (Witness) Preston Kilgar
+
+
+1. Ambient Conditions at Installation
+  Parameter                                                          Value
+  Date                                                               04/09/2026
+  Dry-bulb temperature (start, 07:20)                                52°F
+  Dry-bulb temperature (midday, 12:00)                               63°F
+  Dry-bulb temperature (end, 15:30)                                  61°F
+  Relative humidity                                                  61%
+  Wind                                                               SSW 5–8 mph
+  Precipitation during installation                                  None
+  Substrate surface temperature                                      55°F to 64°F
+  Substrate condition                                                Dry, no laitance, no standing water
+
+
+2. Materials Installed
+  Line       Item                                                      Manufacturer / Product                 Lot / Batch
+  2.1        Positive-side bentonite composite membrane                Ordvale Aquastop HD                    Lot AHD-26-0207
+  2.2        Hydrophilic waterstop, bentonite-based swell profile      Ordvale Aquastop HydroBar              Lot HB-26-0121
+  2.3        Reinforcing fabric, corner strip                          Ordvale Aquastop CB                    Lot CB-26-0088
+  2.4        Compatible mastic (penetration sealer)                    Ordvale Aquastop Mastic                Lot AM-26-0037
+  2.5        Protection course, 1/8 in HDPE sheet                      Ordvale-approved                       Roll HD-P-26-072
+
+Product data reference: Submittal 07-WP-A, Ordvale Aquastop HD Product Data Sheet Rev.08 (09/01/2025). Hydrostatic head rating (ASTM
+D5385 modified): rated to 20 ft head.
+
+
+3. Installation Verification Checklist
+  #       Item                                  Requirement (Sheet A-501 Rev.3)       Observed                         Result
+  3.1     Substrate cure                        ≥ 5 days                              87 days                          Complies
+  3.2     Substrate surface (laitance /         Free of all three                     Free                             Complies
+          debris / standing water)
+  3.3     Chamfer fillet at re-entrant angle    3/4 in nom.                           3/4 in verified with template    Complies
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                                         Page 6
+  #       Item                                 Requirement (Sheet A-501 Rev.3)        Observed                         Result
+  3.4     Hydrophilic waterstop —              Swell profile toward positive (soil)   Verified visually                Complies
+          orientation                          side
+  3.5     Hydrophilic waterstop — fastener     ≤ 12 in o.c.                           10 in o.c. average, 12 in max    Complies
+          spacing
+  3.6     Hydrophilic waterstop —              Continuous, factory-spliced            Continuous, one factory splice   Complies
+          continuity                                                                  logged
+  3.7     Membrane laps                        3 in min., roller-consolidated         3.5 in verified, roller          Complies
+                                                                                      consolidated
+  3.8     Membrane turn-up onto wall           ≥ 6 in onto positive-side wall face    8 in                             Complies
+  3.9     Penetration sealing (compatible      Per Detail 6/A-501                     1 penetration sealed             Complies
+          mastic)
+  3.10    Protection course                    1/8 in HDPE over completed             Installed prior to backfill      Complies
+                                               membrane
+  3.11    Waterstop protected from ponded      Yes                                    No ponding observed              Complies
+          water
+
+
+4. Photographic Record
+  Photo                Description
+  [PHOTO 003-01]       Overall view of joint K-5 prior to membrane application, looking south
+  [PHOTO 003-02]       Chamfer fillet at re-entrant angle
+  [PHOTO 003-03]       Hydrophilic waterstop mechanically fastened to joint face, swell profile toward soil
+  [PHOTO 003-04]       First membrane sheet laid, showing 3 in lap and roller consolidation
+  [PHOTO 003-05]       Completed membrane with turn-up onto wall face
+  [PHOTO 003-06]       Protection course (1/8 in HDPE) installed over membrane
+
+
+5. Findings and Determination
+Joint K-5 was installed as Detail 1 per Sheet A-501 Rev.3: positive-side bentonite composite membrane with hydrophilic
+waterstop (Ordvale Aquastop HD), rated to 20 ft head. All checklist items complied with the sheet notes and the product data
+sheet requirements. Installation complies with the specified detail.
+
+Determination: Installation accepted.
+
+
+6. Signatures
+  Party                                     Name                    Title                          Signature            Date
+  QC Engineer, Rowan Bay                    Colin Marisak           QC Engineer                    /s/ Colin Marisak    04/09/202
+  Constructors, Inc.                                                                                                    6
+  Field Representative, Ordvale             Preston Kilgar          Field Technical                /s/ P. Kilgar        04/09/202
+  Building Products, Inc.                                           Representative                                      6
+
+
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                                         Page 7
+DISTRIBUTION
+• Keil & Draycott Architects, LLC — Attn: M. Draycott, AIA (Architect of Record)
+• Calloway Braddock Structural Engineers, LLC — Attn: G. Nash, PE (Structural Engineer of Record)
+• Thelbridge Project Management Services — Attn: D. Moore (Owner’s Representative — Envelope Reviewer)
+• Ordvale Building Products, Inc. — Field Services File
+• Rowan Bay Constructors, Inc. — Project File RBC-2025-041
+
+
+
+End of Waterproofing Installation Inspection Reports WIR-WP-001, WIR-WP-002, WIR-WP-003.
+
+
+
+
+Rowan Bay Constructors, Inc. | RBC-2025-041 | Form WIR-WP                                                Page 8
+

@@ -1,0 +1,394 @@
+ SHEET A-501 — BELOW-GRADE WATERPROOFING DETAILS
+ Birchwood Village Expansion — Package A | Thornbury State University | 1802 Larchwood Avenue, Columbus, OH 43210                                                                                                                                                                     Issue: 01/16/2026   Rev. 3
+
+
+
+DETAIL 1 — WALL-TO-MAT CONSTRUCTION JOINT (POSITIVE-SIDE MEMBRANE)                                                                                             GENERAL NOTES — THIS SHEET                                                                                                                                     KEIL & DRAYCOTT
+Scale: 3/4" = 1'-0"   Applies at joints: B-2, K-5                                                                                                                                                                                                                                                                                  ARCHITECTS, LLC
+                                                                                                                                                               1. Details shown apply to below-grade wall-to-mat construction joints and typical corner conditions for the basement level beneath
+                                                                             BASEMENT WALL
+                                                                                                                                                                   Blocks A and B.                                                                                                                                                    Architect of Record
+                                                                                                                             PROTECTION COURSE — 1/8" HDPE     2. Joint locations B-2, F-2 and K-5 are coordinated with Sheet S-102 (Basement Levels — Drainage and Joint Layout, Rev.2, dated                                      225 North Fourth Street
+                                                                                                                                                                    12/12/2025) and with the RFI 104 response of 11/04/2025.                                                                                                  Columbus, OH 43215 (614) 555-0178
+
+                                                                                                                                                               3. Materials shall be as specified in Section 07 13 26 (Self-Adhering Sheet Waterproofing) and Section 07 16 16 (Crystalline                        STRUCTURAL ENGINEER:
+                                                                                                                                                                   Waterproofing / Damp-Proofing). Approved manufacturer: Ordvale Building Products, Inc.                                                          Calloway Braddock
+                                                                                                                                                                                                                                                                                                                   Structural Engineers, LLC
+                                                                                                                                                               4. Substrate concrete shall have attained a min. of 5 days cure and shall be free of laitance, form-release residue and standing
+                                                                                                                                                                                                                                                                                                                   Coordinated w/ Structural
+                                                                                                                                                                   water prior to membrane application. Corners and re-entrant angles shall receive a chamfer fillet as shown in Detail 2.
+                                                                                                                                                               5. All membrane laps: 3 in minimum, roller-consolidated. Waterstops shall be continuously factory-spliced or heat-welded per                        PROJECT
+                                                                                                                         POSITIVE-SIDE BENTONITE MEMBRANE
+                                                                                                                                                                   manufacturer's procedure; field butt-joints are not permitted.                                                                                  BIRCHWOOD VILLAGE
+                                                                                                                            3" MIN LAP, ROLLER CONSOLIDATED
+                                                                                                                                                               6. Protection course of 1/8 in HDPE sheet shall be installed over completed membrane prior to backfill. Backfill within 24 in of the                EXPANSION
+                                                                                                                                                                    wall shall be granular, hand-placed and compacted per Spec 31 20 00.                                                                           Package A
+  HYDROPHILIC WATERSTOP (CONT.)                                                                                                                                7. Product data, MSDS and manufacturer's certification of installer training shall be included with the Contractor's submittal                      Owner: Thornbury State University
+                                                                                                                                                                   (Submittal 07-WP-A, Rowan Bay Constructors, appended to this sheet package).                                                                    1802 Larchwood Avenue
+  CONSTRUCTION JOINT
+                                                                                                                                                               8. Field verification of installation shall be witnessed by the Ordvale field representative and documented on the Waterproofing                    Columbus, OH 43210
+                                                                                                                                                                    Installation Inspection Report form.                                                                                                           DISCIPLINE
+                                                                                                                                                                                                                                                                                                                   Architectural — Below-Grade Envelope
+
+                                                                                                                                                                                                                                                                                                                   REVISIONS
+                                                                 BASEMENT MAT (3'-0" THK) TOP EL. 734.5 FT
+                                                                                                                                                                                                                                                                                                                   REV DATE          DESCRIPTION
+  BLINDING CONC / MUD MAT                                                                                                                                                                                                                                                                                          0     06/28/2025 Initial Issue for Coordination
+                                                                                                                                                                                                                                                                                                                   1     09/10/2025 Coord. w/ EOR fdn. pkg;
+                                                                                                                                                                                                                                                                                                                                     joints per EOR coord.
+DETAIL 2 — TYPICAL EXTERIOR CORNER CONDITION                                                                                                                                                                                                                                                                       2     11/18/2025 Detail 1 membrane rating
+Scale: 3/4" = 1'-0"   Applies at exterior below-grade corners (no joint)                                                                                                                                                                                                                                                            updated; joint sched. expanded
+                                                                                        EXTERIOR BASEMENT WALL                                                                                                                                                                                                     3     01/16/2026 Detail 3 added (F-2) per WP-06;
+                                                                                                                                                                                                                                                                                                                                     Detail 2 corner added; coord.
+                                                                                                                 MEMBRANE, LAPPED OVER CANT — 6" MIN EA. LEG
+                                                                                                                                                                                                                                                                                                                                     w/ Submittal 07-WP-A
+
+
+
+
+                                                                                                                           12" WIDE REINFORCING FABRIC STRIP
+
+                                                                                                                           (Aquastop CB), CENTERED ON CORNER
+ 3/4" CHAMFER FILLET
+
+
+
+
+ BASEMENT MAT / FOUNDATION
+
+                                                                                                                                                               JOINT SCHEDULE — WALL-TO-MAT CONSTRUCTION JOINTS
+                                                                                                                                                               Coordinated with Sheet S-102 Rev.2 and RFI 104 response, 11/04/2025.
+                                                                                                                                                                Joint                                                       El. Top
+                                                                                                                                                                                 Grid Location                     Zone                Detail     Product Reference
+                                                                                                                                                                  ID                                                        of Mat
+DETAIL 3 — WALL-TO-MAT CONSTRUCTION JOINT (DAMP-PROOFED)
+                                                                                                                                                                                                                                                  Ordvale Aquastop HD positive-side
+Scale: 3/4" = 1'-0"   Applies at joint: F-2                                                                                                                      B-2             Grid B @ col. 2                   Zone 1   734.5 ft   Detail 1
+                                                                             BASEMENT WALL                                                                                                                                                        bentonite membrane; hydrophilic waterstop
+                                                                                                                                       BACKFILL (GRANULAR)
+                                                                                                                                                                                                                                                  Bituminous damp-proofing (two coats);
+                                                                                                                                                                 F-2             Grid F @ col. 2                   Zone 1   734.5 ft   Detail 3
+                                                                                                                                                                                                                                                  non-swelling PVC waterstop
+
+                                                                                                                                                                                                                                                  Ordvale Aquastop HD positive-side
+                                                                                                                                                                 K-5             Grid K @ col. 5                   Zone 2   734.5 ft   Detail 1
+                                                                                                                                                                                                                                                  bentonite membrane; hydrophilic waterstop
+
+                                                                                                                                                               SCHEDULE NOTES:
+                                                                                                                      TWO COATS BITUMINOUS DAMP-PROOFING
+                                                                                                                                   30 MIL DFT MIN EACH COAT    1. F-2 shall use Detail 3 per Phase 1 standard detail WP-06.
+                                                                                                                                                               2. B-2 and K-5 shall use Detail 1 as shown on this sheet.
+                                                                                                                                                                                                                                                                                                                   SHEET TITLE
+  PVC WATERSTOP (CENTER-BULB, 6" WIDE)                                                                                                                         3. Joints not listed above are not permitted at the wall-to-mat interface without written direction from the AOR and the SEOR.
+                                                                                                                                                               4. Contractor shall notify the Ordvale field representative not less than 48 hours prior to installation of any joint listed above.
+                                                                                                                                                                                                                                                                                                                   BELOW-GRADE
+                                                                                                                                                                                                                                                                                                                   WATERPROOFING
+  CONSTRUCTION JOINT
+                                                                                                                                                                                                                                                                                                                   DETAILS                                   ISSUE DATE:
+                                                                                                                                                                                                                                                                                                                   PROJECT NO.: KD-2024-118                  01/16/2026
+                                                                                                                                                                                                                                                                                                                   FILE: A-501_R3.dwg                        REVISION:
+                                                                                                                                                                S-101 Foundation Plan (Calloway Braddock, Rev.3)
+                                                                                                                                                                                                                            2, 12/12/2025)
+                                                                                                                                                                                                                                                                                                                   DRAWN: J.R. Halterman                                  3
+                                                                                                                                                                                                                                                                                                                   CHECKED: M. Draycott, AIA
+
+
+  BLINDING CONC / MUD MAT
+                                                                 BASEMENT MAT (3'-0" THK) TOP EL. 734.5 FT                                                      Spec 07 13 26 Self-Adhering Sheet Waterproofing; Spec 07 16 16 Damp-Proofing
+                                                                                                                                                                RFI 104 (answered 11/04/2025); Submittal 07-WP-A (appended)
+                                                                                                                                                                                                                                                                                                                   SCALE: As Noted
+                                                                                                                                                                                                                                                                                                                   SIZE: 30 x 42                                A-501
+SHEET A-501 (SHEET 2 OF 2) — BELOW-GRADE WATERPROOFING DETAILS
+Birchwood Village Expansion — Package A | Thornbury State University | 1802 Larchwood Avenue, Columbus, OH 43210                                                                                                                               KEIL & DRAYCOTT
+                                                                                                                                                                                                                                               ARCHITECTS, LLC
+Issue: 01/16/2026 Rev. 3
+                                                                                                                                                                                                                                               Architect of Record
+
+
+  DETAIL 4 — ZONE 1 / ZONE 2 FINISHED-FLOOR BOUNDARY STEP                                                                DETAIL 5 — DRAIN POCKET AT C-4 AND K-6                                                                                PROJECT
+
+  Scale: 3/4" = 1'-0"     Applies at grid 8, boundary of drainage Zone 1 and Zone 2                                      Scale: 3/4" = 1'-0"   Applies at floor drains C-4 (invert El. 734.5) and K-6 (invert El. 734.7)                       BIRCHWOOD VILLAGE EXPANSION
+                                                                                                                                                                                                                                               Package A
+
+
+                                                                                                                                                                                                                                               SHEET TITLE
+                                                                                                                                                                                                                                               BELOW-GRADE WATERPROOFING
+                                                                                                                                                                                                                                               DETAILS — SHEET 2 OF 2
+
+
+                                                                                                                                                                                                                                               PROJECT NO.
+                                                                                                                                                                                                                                               KD-2024-118
+                                                                                                                                                                                                                                               FILE
+                                                                                                                                                                                                                                               A-501_R3.dwg
+                                                                                                                                                                                                                                               DRAWN
+      ZONE 1 SLAB — FIN. FL. EL. 735.1 FT                    ZONE 2 SLAB — FIN. FL. EL. 735.2 FT                             DEPRESSED SLAB AT DRAIN POCKET
+                                                                                                                             FIN. FL. — ZONE 1 EL. 735.1 / ZONE 2 EL. 735.2                                                                    J.R. Halterman
+                                                                                       1" STEP AT ZONE BOUNDARY                                                                                                     CAST-IRON GRATE, 12" SQ.
+                                                                                                                                                                                                                                               CHECKED
+                                                                                                                                                                                                                                               M. Draycott, AIA
+                                                                                                                                                                                                                                               SCALE
+                                                                                                                                                                                                                                               As Noted
+                                                                                                                                                                                                                                               SIZE
+                                                                                                                                                                                                                                               30 x 42
+
+
+
+
+       BASEMENT MAT TOP EL. 734.5 FT                                                                                        DRAIN INVERT — C-4: EL. 734.5 FT; K-6: EL. 734.7 FT
+
+                                                                 MEMBRANE CONTINUOUS BENEATH BOTH SLABS —                                                                               MEMBRANE CARRIED CONTINUOUS UNDER THE
+                                                                 NO INTERRUPTION AT THE ZONE BOUNDARY                                                                                   POCKET AND CLAMPED INTO THE DRAIN FLANGE
+
+
+
+     NOTE: The step is a finished-floor set-out only. It establishes the surface-drainage                                   NOTE: Drain body set on the mat with an integral clamping ring. Where the pocket occurs within
+     divide between Zone 1 (grids B–G, to drain C-4) and Zone 2 (grids H–L, to drain K-6).                                  a Detail 1 area the bentonite composite is dressed into the clamping ring; where it occurs within a
+     It is not a construction joint and does not interrupt the waterproofing system.                                        Detail 3 area the damp-proofing is carried to the ring and terminated with mastic.
+
+
+
+
+  DETAIL 6 — PENETRATION SEAL THROUGH BELOW-GRADE MEMBRANE
+  Scale: 1-1/2" = 1'-0"    Applies at all pipe and conduit penetrations of the below-grade envelope
+
+
+
+
+                                     POSITIVE-SIDE MEMBRANE OR DAMP-PROOFING
+
+                                                                                                                  PIPE OR CONDUIT PENETRATION
+      BASEMENT WALL / MAT
+
+                                                                                                                              NOTE 1: Seal with the membrane manufacturer's compatible mastic — Aquastop
+                                                                                                                              Mastic where Detail 1 applies; the damp-proofing manufacturer's compatible
+                                                                                                                              mastic where Detail 3 applies. Dissimilar sealants shall not be used.
+
+                                                                                                                              NOTE 2: Where a reinforcing fabric strip is required by the manufacturer it shall
+                                                                                                                              be centred on the penetration and lapped 6 in minimum onto the field membrane.
+
+                                                                                                                              NOTE 3: Each sealed penetration shall be recorded on the Waterproofing
+                                                                                                                              Installation Inspection Report form.
+                                     COMPATIBLE MASTIC FILLET, 1/2" MIN., TOOLED                                                                                                                                                               ISSUE DATE:           01/16/2026
+
+
+                                                                                                                                                                                                                                               REVISION:             3
+
+
+
+
+                                                                                                                                                                                                                                               A-501
+Coordinated with Sheet A-501 Rev.2                                                                                                                       Page 1
+
+
+
+  ROWAN BAY CONSTRUCTORS, INC.                                                                                                     SUBMITTAL 07-WP-A
+  4400 Alum Creek Drive, Columbus, OH 43207                                                                                    Below-Grade Waterproofing
+  Phone: (614) 555-0192                                                                                                                    Product Data
+
+
+
+       SUBMITTAL TRANSMITTAL
+ Submittal No.                       07-WP-A
+
+ Project                             Birchwood Village Expansion — Package A
+
+ Project No.                         RBC-2025-041
+
+ Spec Section                        07 13 26 / 07 16 16
+
+ Submittal Type                      Product Data — Manufacturer's Certified Product Literature
+
+ Manufacturer                        Ordvale Building Products, Inc. — 1500 Corporate Woods Parkway, Uniontown, OH 44685
+
+ Approved Applicator                 Vernden Waterproofing Services (Ordvale-certified)
+
+ Prepared By                         J. Halbrook, Project Engineer — Rowan Bay Constructors
+
+ Date Submitted                      01/12/2026
+
+ To (AOR)                            Keil & Draycott Architects, LLC — Attn: M. Draycott
+
+ Copy (EOR)                          Calloway Braddock Structural Engineers, LLC — Attn: G. Nash, PE
+
+ Copy (Owner's Rep)                  Thelbridge Project Management Services — Attn: D. Moore
+
+ Coordination                        Sheet A-501 Rev.2; Sheet S-102 Rev.2; RFI 104
+
+
+
+       Contractor's Statement: The undersigned Contractor certifies that the products submitted herewith have been reviewed for conformance
+       with the Contract Documents and are recommended for use on the Project. Field application shall be performed by an applicator certified in
+       writing by Ordvale Building Products, Inc.
+
+       Signed: J. Halbrook, Rowan Bay Constructors — 01/12/2026
+
+
+
+       ORDVALE BUILDING PRODUCTS, INC. — PRODUCT DATA SHEET
+       AQUASTOP HD
+       Positive-Side Bentonite Composite Waterproofing Membrane
+       Product Data Sheet — Revision 08, Effective 09/01/2025
+
+       Description: Aquastop HD is a factory-laminated composite waterproofing membrane consisting of a granular sodium bentonite core
+       encapsulated between a high-strength woven polypropylene geotextile carrier and a non-woven polypropylene protection layer. On contact
+       with water, the bentonite core swells within the confined space between the geotextiles to form a low-permeability seal that arrests moisture
+       and pressurized groundwater. Aquastop HD is intended for positive-side (soil-side) application to concrete substrates below grade, including
+       horizontal blindside, vertical wall and wall-to-mat construction joint conditions where hydrostatic pressure is present.
+
+       Composition:
+ Component                                      Specification
+
+ Core                                           Sodium bentonite, 1.0 lb/ft² min. dry weight
+
+ Upper carrier                                  Woven polypropylene geotextile, 200 g/m²
+
+ Lower protection                               Non-woven polypropylene geotextile, 200 g/m²
+
+ Nominal thickness                              0.24 in (6.1 mm)
+
+ Roll size                                      4 ft x 15 ft, 60 ft²
+
+ Weight                                         1.2 lb/ft²
+
+       Performance Data:
+ Property                                            Test Method                         Value
+
+ Hydrostatic head rating                             ASTM D5385 modified                 Rated to 20 ft head (60 ft head at failure)
+
+
+
+
+Submittal 07-WP-A — Below-Grade Waterproofing Product Data                                            Rowan Bay Constructors — Birchwood Village Expansion, Pkg A
+Coordinated with Sheet A-501 Rev.2                                                                                                                              Page 2
+
+
+
+ Permeance                                          ASTM E96                                  < 0.10 perms
+
+ Tensile strength (grab)                            ASTM D4632                                175 lbf min.
+
+ Puncture resistance                                ASTM D4833                                90 lbf min.
+
+ Self-healing (2 mm puncture)                       Mfr. procedure                            Complete seal at 24 hr
+
+ Freeze/thaw stability                              ASTM C666                                 No effect after 20 cycles
+
+ Service temperature                                —                                         −40°F to +180°F
+
+       Application Limits and Conditions of Use:
+       • Intended for use under continuous or intermittent hydrostatic pressure up to the rated head. Suitable for wall-to-mat construction joints,
+           blindside walls against soldier-pile lagging, elevator pits, and slabs cast on prepared subgrade.
+       • Substrate concrete shall be cured a minimum of 5 days prior to application.
+       • Compatible hydrophilic waterstop (Aquastop CB profile) shall be installed continuously across all construction joints in conjunction with the
+           sheet membrane.
+       • Membrane shall be protected from ponded standing water prior to backfill or slab pour. Once encapsulated by the second concrete lift or
+           protection course, the membrane is activated by ground moisture and its performance is not impaired by prior wetting.
+
+       Approved Compatible Accessories: Aquastop CB reinforcing fabric (12 in x 100 ft rolls); Aquastop HydroBar hydrophilic waterstop;
+       Aquastop Mastic sealant for penetrations.
+
+       Ordvale Field Support: A certified Ordvale field representative will witness the initial installation and shall witness one out of every three
+       subsequent installations, at Contractor's request, at no charge. Ordvale Technical Services (330) 555-0274 x4.
+
+       Ordvale Building Products, Inc. — 1500 Corporate Woods Parkway, Uniontown, OH 44685
+       This data sheet supersedes all prior versions. Current revision from Ordvale Technical Services.
+
+
+
+
+Submittal 07-WP-A — Below-Grade Waterproofing Product Data                                                   Rowan Bay Constructors — Birchwood Village Expansion, Pkg A
+Coordinated with Sheet A-501 Rev.2                                                                                                                           Page 3
+
+
+
+       ORDVALE BUILDING PRODUCTS, INC. — PRODUCT DATA SHEET
+       BITUMEX 200
+       Cold-Applied Bituminous Damp-Proofing Coating
+       Product Data Sheet — Revision 05, Effective 07/15/2025
+
+       Description: Bitumex 200 is a cold-applied, single-component asphalt-emulsion damp-proofing coating for below-grade concrete and
+       masonry surfaces. It provides a continuous moisture-resistant barrier for above-water-table below-grade conditions where the wall or slab is
+       exposed only to soil moisture, capillary rise or intermittent surface percolation. Bitumex 200 is spray, brush or roller applied and is normally
+       installed in two coats.
+
+       Composition:
+ Component                                           Specification
+
+ Type                                                Cold-applied asphalt emulsion, water-based
+
+ Solids by weight                                    55 ± 3%
+
+ Coverage                                            40 ft²/gal per coat
+
+ Nominal dry film thickness                          30 mil per coat (60 mil total, two coats)
+
+ Package                                             5 gal pail; 55 gal drum
+
+       Performance Data:
+ Property                                                Test Method                             Value
+
+ Compliance                                              ASTM D1227 Type II Class 1              Conforms
+
+ Water absorption, 24 hr                                 ASTM D1228                              < 1.0%
+
+ Flexibility (1/4 in mandrel, 32°F)                      ASTM D522                               No cracking
+
+ Surface burning characteristics (cured film)            ASTM E84                                Flame spread index 15, smoke developed index 90 (Class A)
+
+ Cure to recoat                                          Mfr. procedure                          24 hr @ 70°F, 50% RH
+
+ Cure to backfill                                        Mfr. procedure                          72 hr @ 70°F, 50% RH
+
+ Service temperature                                     —                                       −20°F to +160°F
+
+       Rating and Conditions of Use:
+       BITUMEX 200 IS RATED FOR NON-HYDROSTATIC CONDITIONS ONLY.
+
+       This product is a damp-proofing coating within the meaning of IBC Section 1805.2. It is intended for use on the exterior of
+       foundation walls and slabs where the finished exterior grade sits above the seasonal high groundwater elevation and where the
+       wall or slab is not subject to standing water or hydrostatic pressure. Bitumex 200 shall not be substituted for a positive-side
+       hydrostatic waterproofing membrane in locations where the design groundwater elevation is at or above the elevation of the coated
+       surface.
+
+       • Compatible with non-swelling PVC waterstops of center-bulb or split-flange type at construction joints.
+       • Substrate concrete shall be cured a minimum of 5 days prior to application; surface shall be dry to the touch and free of frost, loose material
+          and form-release residue.
+       • Second coat shall be applied after first coat has cured to a tack-free state (typ. 24 hr @ 70°F). Do not apply below 40°F or if rain is forecast
+          within 12 hr of application.
+
+       Approved Compatible Accessories: Standard-profile non-swelling PVC waterstops (6 in or 9 in center-bulb, thermally welded);
+       polyethylene protection board for backfill contact areas.
+
+       Ordvale Building Products, Inc. — 1500 Corporate Woods Parkway, Uniontown, OH 44685
+       This data sheet supersedes all prior versions.
+
+
+
+
+       AOR REVIEW STAMP
+ Reviewed By                         Keil & Draycott Architects, LLC
+
+ Signature                           M. Draycott, AIA
+
+ Date                                01/15/2026
+
+
+
+Submittal 07-WP-A — Below-Grade Waterproofing Product Data                                                Rowan Bay Constructors — Birchwood Village Expansion, Pkg A
+Coordinated with Sheet A-501 Rev.2                                                                                                                        Page 4
+
+
+
+ Action                              Reviewed — No Exceptions Taken
+
+ Notes                               Product data received and incorporated in Sheet A-501 Rev.3. Applicator certifications and installer training records are
+                                     complete. Reviewed for general conformance with the design intent only; the Contractor remains responsible for means,
+                                     methods, sequencing and coordination with the Structural Engineer of Record.
+
+                                                                      End of Submittal 07-WP-A
+
+
+
+
+Submittal 07-WP-A — Below-Grade Waterproofing Product Data                                             Rowan Bay Constructors — Birchwood Village Expansion, Pkg A
+

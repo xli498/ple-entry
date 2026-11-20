@@ -1,0 +1,914 @@
+          KELBROOK GEOTECHNICAL, INC.
+                         Consulting Geotechnical Engineers
+
+                      1120 Kinnear Road • Columbus, Ohio 43212
+                    Telephone (614) 555-0204 • kelbrookgeo.com
+
+
+
+
+GEOTECHNICAL INVESTIGATION REPORT
+    Birchwood Village Expansion Program — Package A
+       Student Housing Blocks A, B and C over Shared Podium
+
+
+
+         Site:               1802 Larchwood Avenue, Columbus, Ohio 43210
+        Owner:                          Thornbury State University
+      Report No.:                             KGI-2024-0417
+       Revision:                                  Rev.2
+     Date of Issue:                             02/14/2025
+
+
+
+
+                                  Prepared for:
+                            Thornbury State University
+                            Office of Capital Programs
+                 1750 Larchwood Avenue, Columbus, Ohio 43210
+           Attn: Ms. Rachel Marlbeck, University Program Director
+
+
+                                   Prepared by:
+                            Kelbrook Geotechnical, Inc.
+                    1120 Kinnear Road, Columbus, Ohio 43212
+  ALDEN ROSCOMBE
+      E-54118
+                   Signed and sealed by the Principal-in-Charge, Kelbrook Geotechnical,
+                   Inc. This report has been prepared under the direct supervision of a
+PROFESSIONAL       licensed Professional Engineer in the State of Ohio for the exclusive use
+  ENGINEER         of Thornbury State University and its authorized representatives on the
+STATE OF OHIO      Birchwood Village Package A project.
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+ LETTER OF TRANSMITTAL
+
+ 02/14/2025
+
+
+ Ms. Rachel Marlbeck
+ University Program Director
+ Thornbury State University
+ Office of Capital Programs
+ 1750 Larchwood Avenue
+ Columbus, Ohio 43210
+
+
+ Subject: Geotechnical Investigation Report — Rev.2
+ Birchwood Village Expansion Program, Package A
+ 1802 Larchwood Avenue, Columbus, Ohio
+ Kelbrook Project No. KGI-2024-0417
+
+
+ Dear Ms. Marlbeck:
+ Kelbrook Geotechnical, Inc. is pleased to submit two (2) hard copies and one (1) electronic (PDF) copy of the
+ Geotechnical Investigation Report, Revision 2, for the referenced project. This Rev.2 issue supersedes our
+ Rev.1 issue of December 12, 2024, and incorporates: (a) the final round of laboratory consolidation testing
+ performed by Vantree Materials Testing, LLC under contract to the Owner, on undisturbed Shelby-tube
+ samples B-06 U3 and B-08 U2 (per ASTM D2435); (b) three additional monitoring rounds from the shallow
+ standpipe and deep piezometer array installed 11/22/2024; and (c) refined foundation recommendations for the
+ three student-housing blocks and the Block B plant-room excavation.
+ Field exploration comprised nine soil borings (B-01 through B-09), five of which were completed as
+ groundwater monitoring installations (three shallow standpipe piezometers in the upper sand and two deep
+ piezometers screened in the dense sand-and-gravel aquifer below El. 720.0). Laboratory testing included
+ classification, index and consolidation testing on selected samples.
+ The site is underlain by a normally-consolidated, medium-plasticity, compressible clay aquitard between
+ El. 738.0 and El. 720.0 that separates a shallow phreatic surface in the upper sand (design water table El. 742.0)
+ from a confined aquifer in the deep sand and gravel with a piezometric head measured at El. 738.0. This
+ subsurface configuration is the principal geotechnical control on foundation selection, on any excavation to
+ significant depth beneath the site, and on the timing and staging of engineered fill placement over the clay.
+ We appreciate the opportunity to serve Thornbury State University on the Birchwood Village Expansion
+ Program. Please contact the undersigned should you have any questions concerning this report or wish to
+ discuss its recommendations with the Engineer of Record or the Owner’s Representative.
+
+
+ Very truly yours,
+
+ Kelbrook Geotechnical, Inc.
+
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 2
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+
+ [signed]
+
+ Alden Roscombe, PE
+ Principal-in-Charge, Ohio P.E.
+ Kelbrook Geotechnical, Inc.
+
+ cc: Mr. Adrian Vance — Thelbridge Project Management Services (Owner’s Rep)
+     Mr. Gregory Nash, PE — Calloway Braddock Structural Engineers, LLC (EOR)
+     Keil & Draycott Architects, LLC (AOR)
+
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 3
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+ TABLE OF CONTENTS
+
+ 1. EXECUTIVE SUMMARY
+ 2. INTRODUCTION AND SCOPE
+    2.1 Authorization
+    2.2 Project Description
+    2.3 Purpose and Scope of Investigation
+    2.4 Governing Codes and Standards
+ 3. SITE DESCRIPTION AND GEOLOGIC SETTING
+    3.1 Site Location and Topography
+    3.2 Regional and Local Geology
+    3.3 Site History and Prior Use
+ 4. FIELD EXPLORATION
+    4.1 Borings B-01 through B-09
+    4.2 Sampling Methods
+    4.3 Groundwater Instrumentation
+ 5. LABORATORY TESTING
+    5.1 Classification and Index Testing
+    5.2 One-Dimensional Consolidation Testing (ASTM D2435)
+ 6. SUBSURFACE CONDITIONS
+    6.1 Generalized Soil Profile
+    6.2 Stratum 1 — Upper Sand (SP-SM)
+    6.3 Stratum 2 — Compressible Clay Aquitard (CL)
+    6.4 Stratum 3 — Dense Sand and Gravel Aquifer (SW-GW)
+ 7. GROUNDWATER CONDITIONS
+    7.1 Design Water Table — Upper Sand
+    7.2 Confined Piezometric Head — Deep Aquifer
+    7.3 Monitoring Record and Interpretation
+ 8. ENGINEERING ANALYSIS
+    8.1 Consolidation of the Clay Aquitard
+    8.2 Confined Aquifer Uplift and Base Stability
+    8.3 Downdrag on Deep Foundations
+ 9. RECOMMENDATIONS
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 4
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+    9.1 Block C — Spread Footings
+    9.2 Blocks A and B Basement Mat
+    9.3 Block B — Driven Pipe Piles
+    9.4 Block B Plant-Room Excavation
+    9.5 Engineered Fill Placement over the Clay
+    9.6 Dewatering, Excavation and Construction Considerations
+ 10. LIMITATIONS
+ 11. APPENDICES
+
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 5
+Kelbrook Project No. KGI-2024-0417                            Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+ 1. EXECUTIVE SUMMARY
+
+ Kelbrook Geotechnical, Inc. has completed a subsurface investigation and geotechnical engineering analysis for
+ Package A of the Birchwood Village Expansion Program at 1802 Larchwood Avenue, Columbus, Ohio.
+ Package A comprises three student-housing blocks (Blocks A, B and C) constructed over a shared podium, with
+ a single basement level beneath Blocks A and B, and a separate deep plant-room excavation planned beneath
+ Block B.
+ The finished design grade across Package A is established at El. 750.0 ft. Existing ground surface stands at
+ approximately El. 750.0 across the footprints of Blocks A and C but falls to about El. 738.0 across the Block B
+ footprint (a former surface drainage swale). Placement of engineered fill of variable thickness — up to
+ approximately 12 ft beneath Block B — will therefore be required to bring the site to design grade.
+ The subsurface profile consists of three principal strata:
+      • Stratum 1 — Upper sand, classified SP-SM (poorly-graded sand with silt), medium-dense, from
+      existing grade down to El. 738.0, total unit weight 118 pcf.
+      • Stratum 2 — Compressible clay aquitard, classified CL (lean clay of medium plasticity),
+      normally-consolidated, from El. 738.0 down to El. 720.0 (18 ft thick), total unit weight 120 pcf, low
+      permeability. This is the strata governing settlement of shallow foundations and provides the aquitard
+      between the shallow and deep groundwater regimes.
+      • Stratum 3 — Dense sand and gravel aquifer, classified SW-GW, below El. 720.0, total unit weight 130
+      pcf, confined by the overlying clay.
+ Groundwater is present as two distinct regimes:
+      • The design water table in the upper sand is set at El. 742.0 ft. Piezometer readings taken from three
+      shallow standpipes over the 11/2024–02/2025 monitoring period range from El. 741.6 to El. 742.4;
+      groundwater seepage was observed at El. 741.8 to El. 742.2 in the Block A test-pit excavation.
+      • A confined piezometric head of El. 738.0 ft has been measured in the deep sand-and-gravel aquifer
+      through two deep piezometers screened below El. 720.0, with readings ranging El. 737.7 to El. 738.3. The
+      confined head is at essentially the same elevation as the top of the clay aquitard.
+ Consolidation testing on two undisturbed Shelby-tube samples of the compressible clay (samples B-06 U3 and
+ B-08 U2, tested per ASTM D2435) yielded a compression index Cc = 0.28, a recompression index Cr = 0.045,
+ an initial void ratio e0 = 0.92, an in-situ vertical effective stress σ'0 = 1,850 psf, and a preconsolidation pressure
+ σ'p = 1,900 psf. The margin (σ'p − σ'0 ≈ 50 psf) confirms the clay is essentially normally-consolidated: any net
+ stress increase applied at the top of the clay will produce virgin (Cc) compression rather than recompression
+ (Cr) compression.
+ Principal geotechnical recommendations are as follows:
+       1. Block C — Spread footings may be founded within the upper sand. Consolidation of the underlying
+       compressible clay under column-load stress increases at mid-depth of the clay must be explicitly computed
+       by the Structural Engineer of Record, using the parameters provided herein, and reconciled against the
+       settlement tolerances specified in the project structural criteria.
+       2. Blocks A and B basement mat — A conventional reinforced-concrete mat foundation may be founded
+       within the upper sand at the design underside elevation. Hydrostatic uplift from the El. 742.0 water table
+       must be resolved by mat self-weight, superimposed permanent loads and, where necessary, tension
+       elements. The waterproofing system for the below-grade envelope must be selected for the applicable
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                            Page 6
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+       hydrostatic head.
+       3. Block B piles — Because of anticipated fill-induced consolidation of the underlying clay and the
+       resulting downdrag loads, and because column loads at Block B exceed the safe capacity of shallow
+       foundations bearing on the upper sand, closed-end driven pipe piles carried through the upper sand and the
+       clay to bearing in the dense sand and gravel aquifer below El. 720.0 are recommended. The pile design
+       must address soil-pile interaction from clay consolidation, as the engineered fill load induces downdrag on
+       piles driven through the consolidating clay (Section 8.3).
+       4. Block B plant-room excavation — The plant-room subgrade is planned near El. 726.0, i.e., inside the
+       clay aquitard, approximately 6 ft above the top of the confined aquifer at El. 720.0. Because the confined
+       piezometric head (El. 738.0) is approximately 12 ft above the planned subgrade elevation, this excavation
+       will develop a significant uplift pressure on the clay plug from the underlying aquifer.
+       The base-heave stability of the plug must be evaluated by the design team, and pressure-relief
+       or aquifer-drawdown measures may be required. This condition is called out as the controlling
+       constructability issue for the plant-room excavation and must be addressed by the Contractor’s dewatering
+       and shoring designs.
+       5. Engineered fill over the clay — The 12 ft of engineered fill required beneath Block B (from El. 738.0
+       up to El. 750.0) will constitute a net surcharge on the normally-consolidated compressible clay across the
+       Block B footprint. Because σ'p ≈ σ'0, the entire increment is virgin compression under Cc. The Owner is
+       advised that consolidation of the underlying clay under this fill surcharge will occur, that the associated
+       settlement will affect the behavior of any deep foundations driven from the raised working grade before
+       the consolidation is substantially complete, and that these effects must be considered in the pile design.
+
+
+ This Rev.2 supersedes Rev.1 dated 12/12/2024 in its entirety.
+
+
+ 2. INTRODUCTION AND SCOPE
+
+ 2.1 Authorization
+ Authorization for the geotechnical investigation was issued by Thornbury State University, Office of Capital
+ Programs, under Kelbrook Geotechnical Proposal P-2024-116 dated September 6, 2024, and Notice-to-Proceed
+ dated October 1, 2024. Field exploration commenced 10/28/2024 and was completed 11/22/2024. Laboratory
+ testing was performed between 11/2024 and 01/2025 by Vantree Materials Testing, LLC (Vantree) under
+ separate contract to the Owner. Groundwater monitoring readings taken through 02/03/2025 are incorporated in
+ this Rev.2 issue; monitoring is ongoing and will continue during construction.
+
+ 2.2 Project Description
+ Package A of the Birchwood Village Expansion Program consists of three student-housing blocks:
+      • Block A — six-story residential tower over a shared podium, seated on a basement mat foundation.
+      • Block B — six-story residential tower over a shared podium, seated on the same basement mat
+      foundation as Block A, with a separate deep plant-room excavation planned in the southwest quadrant of
+      the block footprint (elevator and mechanical/electrical service space, approximately 24 ft below design
+      grade).
+      • Block C — six-story residential tower over the shared podium, on spread footings; no basement is
+      planned beneath Block C.
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 7
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+ The shared podium is a one-story reinforced-concrete transfer structure below the residential towers. Finished
+ design grade at the podium top is established at El. 750.0 ft. Underside of the basement mat beneath Blocks A
+ and B is set at approximately El. 731.5 ft. The plant-room excavation beneath Block B is planned to reach
+ subgrade at approximately El. 726.0 ft.
+
+ 2.3 Purpose and Scope of Investigation
+ The purpose of the investigation was to:
+      • Characterize the subsurface soil profile, groundwater conditions and hydrogeologic regime across the
+      Package A footprint;
+      • Recover and test representative undisturbed samples of the compressible clay stratum in order to develop
+      consolidation parameters for foundation-settlement analysis;
+      • Provide geotechnical recommendations for the foundation of each block, for the design of the basement
+      mat and the plant-room excavation, and for the engineered fill required to bring the Block B footprint to
+      design grade; and
+      • Provide construction considerations for dewatering, temporary excavation support and site preparation.
+ The scope of work comprised:
+      • Nine (9) soil borings, B-01 through B-09, drilled to depths ranging 55 to 90 ft below existing ground
+      surface;
+      • Installation of five (5) monitoring installations (three shallow standpipe piezometers screened in the
+      upper sand and two deep piezometers screened in the dense sand and gravel below El. 720.0);
+      • Recovery of representative split-spoon (SPT) samples on 2.5 ft or 5 ft centers and thin-walled
+      (Shelby-tube) undisturbed samples of the CL clay at selected borings;
+      • Laboratory classification, index and consolidation testing (ASTM D2435, ASTM D698, ASTM D1557);
+      • Engineering analysis and preparation of this report.
+
+ 2.4 Governing Codes and Standards
+      • Ohio Building Code (adopting IBC 2021)
+      • ASCE 7-16 — Minimum Design Loads and Associated Criteria for Buildings and Other Structures
+      • ASTM D2435 — Standard Test Methods for One-Dimensional Consolidation Properties of Soils Using
+      Incremental Loading
+      • ASTM D698 — Standard Test Methods for Laboratory Compaction Characteristics of Soil Using
+      Standard Effort
+      • ASTM D1557 — Standard Test Methods for Laboratory Compaction Characteristics of Soil Using
+      Modified Effort
+      • ASTM D2487 — Standard Practice for Classification of Soils for Engineering Purposes (Unified Soil
+      Classification System)
+      • ASTM D1586 — Standard Practice for Standard Penetration Test (SPT) and Split-Barrel Sampling
+      • ASTM D1587 — Standard Practice for Thin-Walled Tube Sampling of Fine-Grained Soils
+      • ASTM D4318 — Standard Test Methods for Liquid Limit, Plastic Limit, and Plasticity Index of Soils
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 8
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+ 3. SITE DESCRIPTION AND GEOLOGIC SETTING
+
+ 3.1 Site Location and Topography
+ The Package A site is located at 1802 Larchwood Avenue, on the western portion of the Thornbury State
+ University main campus in Columbus, Ohio. The site is bounded to the north by Larchwood Avenue, to the east
+ by an existing campus surface parking lot, to the south by an unimproved landscaped strip and to the west by an
+ existing academic building. The overall Package A footprint is approximately 3.7 acres.
+ Existing topography varies substantially across            Ground surface stands at approximately El. 750.0 ft
+ across the footprints of Blocks A and C in the northern and eastern portions of           Toward the southwest,
+ across the footprint of Block B, ground surface falls to about El. 738.0 ft (a difference of about 12 ft) in what
+ appears from historical aerial photography to have been a surface drainage swale draining the pre-development
+ ground westward toward a former off-site low area. The transition between the two elevations is gradual across
+ a nominal 60 to 80 ft width. Existing ground within Block B is generally covered with a thin (~0.5 to 1 ft)
+ mantle of soft organic-rich silty topsoil overlying the SP-SM upper sand; no fill of engineering significance is
+ present beneath Block B in its current condition.
+
+ 3.2 Regional and Local Geology
+ Columbus, Ohio lies within the Till Plains section of the Central Lowland physiographic province. Regional
+ surficial geology is dominated by Wisconsinan-age glacial deposits — chiefly clay-rich till, glaciolacustrine silt
+ and clay, and outwash sand and gravel — overlying Devonian-age carbonate and shale bedrock. Local
+ hydrogeology is characterized by a shallow phreatic surface within the outwash and reworked outwash sands, a
+ laterally continuous fine-grained aquitard, and a lower confined aquifer within basal outwash sand and gravel
+ above bedrock.
+ The subsurface conditions encountered in the Package A borings are consistent with this regional framework: a
+ medium-dense reworked outwash sand at the surface, a low-permeability clay of glaciolacustrine origin at
+ intermediate depth, and a dense outwash sand and gravel aquifer at depth. Bedrock was not encountered within
+ the maximum boring depth of 90 ft (approximately El. 660.0). Blow counts in the SW-GW below El. 720.0
+ were consistently in the range N ≥ 50 blows per 6 inches, indicating a very dense sand-and-gravel deposit
+ suitable as a pile-bearing stratum.
+
+ 3.3 Site History and Prior Use
+ Site historical review — including review of Franklin County parcel records, USGS topographic maps (1955
+ and later editions), and Thornbury State University campus master planning archives — indicates that the
+ Package A parcel was in agricultural use through approximately 1958, was acquired by the University in 1962,
+ and has been used for surface parking and landscape maintenance since. No prior structures of consequence, no
+ known below-grade utilities (other than a single abandoned 6-inch clay drain traced along the historic swale in
+ Block B), and no known industrial fill are present within the footprint. Because there is essentially no prior fill
+ of engineering significance, the Block B footprint requires new engineered fill — placed on the natural
+ clay-upper-sand contact after removal of the topsoil mantle — to bring the site to design grade.
+
+
+ 4. FIELD EXPLORATION
+
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 9
+Kelbrook Project No. KGI-2024-0417                           Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+ 4.1 Borings B-01 through B-09
+ Nine borings, designated B-01 through B-09, were advanced across the Package A footprint under the direct
+ field supervision of Kelbrook Geotechnical. Drilling was performed 10/28/2024 through 11/22/2024 by a
+ licensed drilling subcontractor using a truck-mounted rotary drill rig, 4¼-inch-ID hollow-stem augers to the top
+ of the aquifer, and mud-rotary methods below. Boring locations were selected to provide coverage of each
+ block footprint, of the basement mat and of the Block B plant-room excavation area. The nine boring locations
+ are summarized in Table 4-1 below.
+ Table 4-1 — Boring Location Summary
+                                                 Ground          Depth   Total Depth
+    Boring   Block / Zone                                                                Instrumentation
+                                              Surface El. (ft)    (ft)     El. (ft)
+
+     B-01    Block A (northeast)                       750.1        60          690.1 Shallow standpipe piezometer
+
+     B-02    Block A (southwest)                       749.8        55          694.8 —
+
+     B-03    Block A / Block B transition (podium bay 3)
+                                                      745.4         60          685.4 Shallow standpipe piezometer
+
+     B-04    Block B (plant-room area)                 738.2        90          648.2 Deep piezometer (aquifer)
+
+     B-05    Block B (west edge)                       738.5        75          663.5 —
+
+     B-06    Block B (plant-room area)                 738.1        85          653.1 — (Shelby-tube sampling)
+
+     B-07    Block A / Block B basement mat perimeter
+                                                    750.0           65          685.0 —
+
+     B-08    Block B basement mat perimeter            738.6        80          658.6 Deep piezometer (aquifer)
+
+     B-09    Block C (center)                          749.9        55          694.9 Shallow standpipe piezometer
+
+
+ Borings B-04 and B-06 fall inside the Block B plant-room excavation footprint, as required to characterize
+ subgrade conditions and the confined aquifer beneath the plant-room. Borings B-07 and B-08 are adjacent to
+ the basement mat perimeter beneath the shared Blocks A/B foundation. Boring B-09 was placed at the
+ approximate center of the Block C footprint to characterize spread-footing bearing conditions there.
+
+ 4.2 Sampling Methods
+ Split-spoon (SPT) samples were taken continuously on 2.5 ft centers from the ground surface to a depth of 15 ft,
+ and thereafter on 5 ft centers, using an automatic 140-lb hammer per ASTM D1586. Blow counts (N-values)
+ were recorded and are shown in the boring logs (see cross-reference in Section 11).
+ Thin-walled (Shelby-tube) undisturbed samples of the CL clay aquitard (per ASTM D1587) were recovered at
+ selected depths from Borings B-04, B-06 and B-08 for laboratory consolidation and index testing. Samples
+ B-06 U3 and B-08 U2 — the two samples selected for one-dimensional consolidation testing — were recovered
+ at nominal El. 729.5 and El. 728.7, respectively (mid-depth of the clay).
+
+ 4.3 Groundwater Instrumentation
+ Five (5) groundwater monitoring installations were made in five of the nine borings:
+      • Shallow standpipe piezometers, 2-inch ID PVC, 10 ft slotted screen set in the upper SP-SM sand,
+      sand-pack filter, bentonite seal — installed in Borings B-01, B-03 and B-09 (three shallow installations,
+      distributed one per block footprint).
+      • Deep piezometers, 2-inch ID PVC, 10 ft slotted screen set in the dense SW-GW sand-and-gravel aquifer
+      below El. 720.0, bentonite seal isolating the screen from the overlying clay — installed in Borings B-04
+      and B-08 (two deep installations, both within the Block B footprint where the deep-aquifer condition is
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 10
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+      critical).
+ All piezometers are protected with steel flush-mount monument boxes at grade. The monitoring period covered
+ in this report is 11/22/2024 through 02/03/2025 (11 rounds); the monitoring program will continue through
+ construction and will be reported separately (see Section 11 — Appendix references).
+
+
+ 5. LABORATORY TESTING
+
+ 5.1 Classification and Index Testing
+ Laboratory classification and index testing was performed by Vantree Materials Testing, LLC (Vantree) on
+ representative split-spoon and Shelby-tube samples. Testing included:
+      • Natural water content on split-spoon and undisturbed samples;
+      • Grain-size distribution (sieve and hydrometer, ASTM D6913 / D7928) on selected sand and clay
+      samples;
+      • Atterberg limits (ASTM D4318) on the CL clay: liquid limit LL = 34 to 39, plastic limit PL = 17 to 20,
+      plasticity index PI = 15 to 19 (medium plasticity);
+      • Unified Soil Classification (ASTM D2487) of each stratum sampled.
+ The classifications reported in Section 6 are supported by this testing.
+
+ 5.2 One-Dimensional Consolidation Testing (ASTM D2435)
+ One-dimensional (oedometer) consolidation tests were performed by Vantree on two undisturbed Shelby-tube
+ samples of the CL clay aquitard:
+      • B-06 U3 — Boring B-06, undisturbed sample U3, recovered nominal El. 729.5, tested per ASTM D2435
+      with an initial seating load of 125 psf and 24-hour load increments doubling stress to a maximum of
+      approximately 16,000 psf.
+      • B-08 U2 — Boring B-08, undisturbed sample U2, recovered nominal El. 728.7, tested per ASTM D2435
+      with the same loading schedule as B-06 U3.
+ Preconsolidation pressure was interpreted from the e-log p' curve using the Casagrande construction.
+ Compression and recompression indices were computed from the virgin-compression and unload-reload slopes
+ on the semi-log e-log p' plot. Reported parameters are averaged across the two samples, which produced results
+ within experimental scatter:
+ Table 5-1 — Consolidation Parameters for the CL Clay Aquitard
+   Parameter                                   Symbol            Value        Notes
+   Compression index                              Cc             0.28         Virgin-compression slope, e-log p'
+   Recompression index                            Cr             0.045        Unload-reload slope, e-log p'
+   Initial void ratio                             e0             0.92         At in-situ effective stress
+   In-situ vertical effective stress             σ'0           1,850 psf      At mid-depth of clay (El. 729)
+   Preconsolidation pressure                     σ'p           1,900 psf      Casagrande construction
+   Total unit weight                               γ            120 pcf       CL, saturated
+   Overconsolidation ratio                       OCR             1.03         Essentially normally-consolidated
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                            Page 11
+Kelbrook Project No. KGI-2024-0417                               Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+ The interpretation is that the clay aquitard is normally-consolidated: σ'p exceeds σ'0 by only about 50 psf, well
+ within the experimental scatter of the Casagrande method. Any net stress increase applied at the top of the clay
+ of more than a few tens of psf will exceed σ'p at some depth within the layer and will produce virgin
+ compression along the Cc slope, not recompression along the Cr slope. This has direct consequences for both
+ the settlement of shallow foundations founded above the clay (see Section 8.1) and the downdrag imposed on
+ deep foundations passing through the clay after fill placement (see Section 8.3).
+ The full Vantree laboratory report — including individual e-log p' plots, compression- and recompression-index
+ construction, and time-consolidation curves for coefficient of consolidation estimation — is provided as a
+ separate deliverable (Consolidation Test Data D2435 spreadsheet), which is cross-referenced in the appendix
+ section of this report.
+
+
+ 6. SUBSURFACE CONDITIONS
+
+ 6.1 Generalized Soil Profile
+ The subsurface profile below the Package A site is generalized as three principal strata, described from ground
+ surface downward. Elevations are given in the site coordinate datum used on the design drawings.
+ Table 6-1 — Generalized Subsurface Profile
+                                                                                     Unit
+                                                                       Thickness
+        Stratum         USCS       Top El. (ft)     Bottom El. (ft)                 Weight γ              Description
+                                                                          (ft)
+                                                                                     (pcf)
+                                  ~750.0 (A, C) /                                              Medium-dense poorly-graded sand
+     1 — Upper Sand     SP-SM                                 738.0       0 to 12        118
+                                     ~738.0 (B)                                                with silt
+                                                                                             Normally-consolidated,
+    2 — Compressible
+                          CL               738.0              720.0           18         120 medium-plasticity, low-permeability
+      Clay Aquitard
+                                                                                             lean clay
+   3 — Dense Sand &                                 > El. 660.0 (not                           Very dense well-graded sand and
+                       SW-GW               720.0                            > 60         130
+     Gravel Aquifer                                   encountered)                             gravel; confined by Stratum 2
+
+
+ 6.2 Stratum 1 — Upper Sand (SP-SM)
+ Stratum 1 is a medium-dense poorly-graded sand with silt (SP-SM), extending from existing grade down to
+ El. 738.0. Because existing ground varies across the site, the thickness of this stratum ranges from essentially
+ 0 ft beneath the low-lying Block B footprint (where the natural top of the clay is at existing grade beneath a thin
+ topsoil mantle) to approximately 12 ft beneath Blocks A and C. Total unit weight of the SP-SM is taken as
+ 118 pcf. SPT N-values in the SP-SM range from N = 12 to N = 28, indicating medium-dense to dense material.
+ Fines content (passing No. 200 sieve) is on the order of 8 to 12 percent. Permeability is moderate; the stratum
+ hosts the shallow phreatic groundwater regime (see Section 7).
+
+ 6.3 Stratum 2 — Compressible Clay Aquitard (CL)
+ Stratum 2 is an 18-ft-thick lean clay of medium plasticity (CL), extending from El. 738.0 down to El. 720.0. It
+ is normally-consolidated (OCR ≈ 1) and is the compressible clay stratum that governs long-term settlement of
+ any shallow foundation founded above it and downdrag load on any deep foundation driven through it. Total
+ unit weight is 120 pcf. Consolidation parameters reported in Table 5-1 are used for all settlement and downdrag
+ analyses.
+ The stratum was continuous across all nine borings; no laterally interbedded sand seams of engineering
+ significance were logged. Permeability, from consolidation-test time-curves, is on the order of 10−8 cm/s — low
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                                      Page 12
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+ enough that the stratum is treated as an effective aquitard between the shallow (unconfined) and deep (confined)
+ groundwater regimes. Undrained shear strength Su interpreted from field vane and unconsolidated-undrained
+ (UU) triaxial testing on companion Shelby-tube samples is in the range Su = 900 to 1,100 psf, corresponding to
+ a stiff clay.
+
+ 6.4 Stratum 3 — Dense Sand and Gravel Aquifer (SW-GW)
+ Stratum 3 is a very dense well-graded sand and gravel (SW-GW) below El. 720.0. Borings advanced into
+ Stratum 3 to a maximum depth El. 648.2 (Boring B-04) confirmed at least 60 ft of continuous dense sand and
+ gravel, with SPT N-values consistently at refusal (N ≥ 50 blows per 6 inches). Total unit weight is 130 pcf. This
+ stratum is the recommended pile-bearing stratum for deep foundations at Block B (see Section 9). It is a
+ confined aquifer beneath the clay aquitard, with a piezometric head substantially above the top of the stratum
+ (see Section 7.2).
+
+
+ 7. GROUNDWATER CONDITIONS
+
+ 7.1 Design Water Table — Upper Sand
+ Groundwater within the upper SP-SM sand is unconfined, hosted between the top of the clay at El. 738.0 (as its
+ lower boundary) and a phreatic surface at approximately El. 742.0. Piezometer readings from the three shallow
+ standpipes (B-01, B-03, B-09) taken during the 11/2024 through 02/2025 monitoring period range from
+ El. 741.6 to El. 742.4, essentially stable across the record. Groundwater seepage was observed during
+ exploratory test-pit excavation in the Block A area at El. 741.8 to El. 742.2.
+ The design water table for the Package A project is set at El. 742.0. This elevation is to be used by the
+ Structural Engineer of Record and the Architect of Record for hydrostatic uplift on the basement mat, for
+ hydrostatic head on the below-grade waterproofing system and for design of the temporary sheeting and
+ dewatering system during construction. Because the design water table is stable across a full year of monitoring
+ and is consistent with regional experience, no seasonal adjustment or design margin is added above El. 742.0
+ for this project.
+
+ 7.2 Confined Piezometric Head — Deep Aquifer
+ Groundwater within the deep SW-GW sand and gravel aquifer is confined by the CL clay aquitard. Piezometric
+ head measured in the two deep piezometers (screened below El. 720.0 in Borings B-04 and B-08) is at El. 738.0
+ — essentially at the top of the clay, or about 18 ft above the top of the aquifer itself. Individual readings range
+ from El. 737.7 to El. 738.3 across the monitoring period, with no discernible trend and no seasonal variation
+ exceeding a few tenths of a foot.
+ The physical interpretation is that the deep aquifer is recharged upstream of the site at a higher elevation and
+ discharges downstream through the same continuous outwash body; the clay acts as an aquitard that prevents
+ equalization of the two heads. The confined piezometric head of El. 738.0 is the elevation to which water will
+ rise in any well, boring or excavation that penetrates the clay and exposes the underlying aquifer. Any
+ excavation that either (a) penetrates the clay and enters the aquifer, or (b) reduces the effective weight of the
+ clay plug between the excavation subgrade and the top of the aquifer, will be subject to upward hydrostatic
+ pressure equal to the confined head above the point in question.
+
+ 7.3 Monitoring Record and Interpretation
+ Table 7-1 — Summary of Groundwater Monitoring, 11/22/2024 through 02/03/2025 (11 rounds; monitoring
+ continues)
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                        Page 13
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+
+  Piezometer                     Screen zone                                   Range (ft)    Representative reading (ft)
+  B-01 (shallow standpipe)       Upper sand                                  741.7 – 742.3             742.0
+  B-03 (shallow standpipe)       Upper sand                                  741.6 – 742.4             742.0
+  B-09 (shallow standpipe)       Upper sand                                  741.8 – 742.2             742.0
+  B-04 (deep piezometer)         Deep aquifer (SW-GW below El. 720.0) 737.7 – 738.3                    738.0
+  B-08 (deep piezometer)         Deep aquifer (SW-GW below El. 720.0) 737.8 – 738.2                    738.0
+
+
+
+ to record readings monthly through construction; monitoring is expected to run through 06/2026 at minimum,
+ and to be delivered separately as the Package A groundwater monitoring log. On the basis of the 11-round
+ record delivered with Rev.2, the design water table El. 742.0 and the design confined piezometric head
+ El. 738.0 are considered representative and appropriate for design.
+ The 2.5-month, 11-round record in this Rev.2 issue is not yet a full seasonal cycle; monitoring will continue
+ through construction.
+
+ 8. ENGINEERING ANALYSIS
+ 8.1 Consolidation of the Clay Aquitard
+ The 18-ft-thick CL clay aquitard is normally-consolidated (Section 5.2). Any net stress increase q applied at
+ the top of the clay will produce virgin, one-dimensional consolidation settlement along the Cc slope. In terms of
+ the standard one-dimensional consolidation equation, in which Sc is the settlement and q the stress increase:
+         Sc   = Cc · H / (1 + e0) · log10[ (σ'0 + q) / σ'0 ]
+
+ with:
+      • Cc = 0.28
+      • e0 = 0.92
+      • H (thickness of clay) = 18 ft
+      • σ'0 = 1,850 psf at mid-depth of clay (El. 729)
+ For any q > (σ'p − σ'0) ≈ 50 psf, virgin compression governs and the above expression applies. Because σ'p is
+ only marginally above σ'0, this threshold is exceeded by essentially any structural or fill load of engineering
+ interest.
+ The engineering consequences discussed in Sections 8.3 and 9 flow directly from this. Two q scenarios are of
+ particular importance at Package A:
+      • Fill surcharge on Block B. Placement of engineered fill from El. 738.0 up to El. 750.0 (nominal 12 ft) at
+      Block B applies q ≈ 12 · (γfill − γw_avg) at depth (with an unfactored gross fill weight on the order of
+      1,300 psf at El. 738.0, or effectively so as pore pressures dissipate). The Structural Engineer of Record
+      must compute the resulting long-term one-dimensional consolidation settlement using the parameters
+      above and reconcile the settlement with the project schedule and with the downdrag analysis for the
+      Block B piles.
+      • Block C column-load stress increase. Any spread footing at Block C founded on the upper sand
+      imposes a stress increase within the underlying clay. That stress increase at mid-depth of the clay is a
+      function of the footing size and geometry and must be computed by the Structural Engineer of Record for
+      each footing (or the governing footing). The associated consolidation settlement, using Cc = 0.28 and the
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                          Page 14
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+      other parameters above, must be reconciled against the total-and-differential settlement tolerances
+      specified in the project structural criteria. For preliminary sizing, the values in Table 8-1 illustrate the
+      sensitivity of the calculation.
+ Table 8-1 — Sensitivity of Computed Consolidation Settlement to Stress Increase at Mid-Clay
+            q at mid-clay (psf)                Sc (in) — using Cc=0.28, H=18 ft, e0=0.92, σ'0=1,850 psf
+                    100                                                    0.7
+                    300                                                    2.1
+                    600                                                    3.8
+                   1,000                                                   5.9
+                   1,200                                                   6.8
+
+ (Illustrative values shown for design-team use; Sc scales with log10 of stress-ratio, so linear interpolation is not
+                                                  appropriate.)
+
+ Time-rate of consolidation is a function of the coefficient of consolidation cv (from the time-consolidation
+ curves in the Vantree D2435 report) and the drainage-path length. For the 18-ft-thick clay drained on both faces
+ (into the upper sand above and the deep aquifer below), primary consolidation is expected to require on the
+ order of several years to reach substantial completion — considerably longer than the Package A construction
+ schedule. Downdrag loads on deep foundations driven from the raised working grade before consolidation is
+ substantially complete must therefore include the still-developing consolidation as an added load on the pile.
+
+ 8.2 Confined Aquifer Uplift and Base Stability
+ Any excavation that reduces the effective weight of the clay plug between the excavation subgrade and the top
+ of the confined aquifer at El. 720.0 will be subject to upward pressure equal to the confined piezometric head
+ El. 738.0 acting at the base of the plug. For an excavation subgrade at elevation Es (with Es > 720.0, i.e., the
+ excavation is still within the clay), the residual
+       t_plug = Es − 720.0             (feet)
+ The confined uplift pressure acting upward on the base of that plug is a function of the piezometric head, the
+ unit weight of water, and the plug geometry, and shall be computed for the intended plug configuration.
+
+
+
+
+ The base-heave stability of the plug against confined uplift shall be evaluated by the design team.
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 15
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+ subgrade elevation without pressure-relief or aquifer-drawdown. The Structural Engineer of Record and the
+ Contractor’s dewatering designer are advised that:
+       1. A rigorous base-heave analysis for the plant-room excavation must be performed, comparing the total
+       uplift on the base of the clay plug against the total resisting weight of the plug (accounting for the plug’s
+       saturated unit weight, its shear strength around the perimeter, and any sheet-pile toe embedment
+       penetrating the clay), using an appropriate factor of safety;
+       2.    If the base-heave factor of safety is inadequate, pressure-relief wells or vacuum-well
+       pressure-drawdown of the confined aquifer are the standard remedies. The relief wells must be located,
+       screened and pumped so as to reduce the aquifer head at the excavation subgrade to a value that provides
+       an adequate factor of safety against base heave for the intended excavation duration; and
+       3. Any temporary sheeting extending into the clay must be designed for the differential head across the
+       sheet, which is not the same as the shallow-aquifer head across the shoring above the clay.
+ This is the controlling constructability issue for the Block B plant-room and is called out here in the Rev.2 issue
+ so that it is explicitly transmitted to the Structural Engineer of Record, the Contractor’s shoring designer and the
+ Contractor’s dewatering designer at the earliest possible stage of design.
+
+ 8.3 Downdrag on Deep Foundations
+
+
+
+ The Block B footprint is raised approximately 12 ft above its natural surface by engineered fill placed
+ over a normally-consolidated CLAY 18 ft thick and of low permeability. Primary consolidation of that
+ clay under the weight of the new fill was in progress at the date of this issue and, on the coefficients
+ measured in the laboratory series, is expected to continue for a period measured in years rather than
+ months.
+
+ Deep foundations driven from the raised working grade pass through that consolidating layer. Where the
+ surrounding soil settles more than the pile, the relative movement at the pile-soil interface reverses:
+ the soil moves down past the shaft instead of the shaft moving down past the soil.
+
+
+ Over the depth in which that condition applies the interface shear acts downward on the pile. It is an
+ additional axial load carried by the pile, not a component of its resistance, and it is superimposed on
+ the structural load for as long as consolidation continues.
+ The magnitude depends on the thickness of the still-consolidating layer, the interface shear available
+ within it and the depth of the neutral plane. Requirements for its treatment in design are set out in
+ Section 9.3.
+ 9. RECOMMENDATIONS
+
+ 9.1 Block C — Spread Footings
+ Block C is at existing grade El. 750.0 and requires no engineered fill of consequence. Spread footings founded
+ within the upper SP-SM sand may be used. However, the underlying compressible CL clay from El. 738.0 to
+ El. 720.0 governs long-term settlement:
+      • Design bearing pressures must be evaluated against both bearing capacity (of the upper sand) and against
+      consolidation settlement of the underlying clay. Because the clay is normally-consolidated, the Structural
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                         Page 16
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+      Engineer of Record must explicitly compute consolidation settlement of the clay under the stress increase
+      q at mid-depth of the clay caused by each governing footing, using the parameters in Table 5-1;
+      • The computed settlement must be reconciled against the total-and-differential settlement tolerances
+      specified in the project structural criteria;
+      • If computed settlement exceeds tolerance, footing sizes may be adjusted to reduce the stress increase,
+      footings may be combined into a mat, or a deep-foundation alternative may be considered.
+ Immediate (elastic) settlement in the upper sand is expected to be modest — on the order of a fraction of an inch
+ for typical Block C footing sizes.
+
+ 9.2 Blocks A and B Basement Mat
+ A conventional reinforced-concrete mat foundation may be founded within the upper SP-SM sand at the design
+ underside elevation beneath Blocks A and B. Bearing capacity of the SP-SM at typical mat footing width is not
+ the controlling limit state. Two design conditions require particular attention by the Structural Engineer of
+ Record and the Architect of Record:
+       1. Hydrostatic uplift. The design water table El. 742.0 is above the underside of the mat. The Structural
+       Engineer of Record must verify that the sum of mat self-weight, superimposed permanent floor and dead
+       loads and (where required) tension elements is adequate to resist the hydrostatic uplift pressure, with an
+       appropriate factor of safety against buoyancy. The uplift pressure at underside of mat, for design purposes,
+       is γw times the head above the underside of the mat.
+       2. Below-grade waterproofing. Because the underside of the mat and the exterior basement walls are
+       below the El. 742.0 design water table, the below-grade waterproofing must be selected for the applicable
+       hydrostatic head (approximately 7 to 8 ft at the mat wall-joint, greater elsewhere depending on the joint
+       elevation). Damp-proofing details and non-hydrostatic waterstops rated only for above-water-table
+       conditions are not appropriate for use below the El. 742.0 design water table on this project. The Architect
+       of Record’s waterproofing details must be selected accordingly.
+
+ 9.3 Block B — Driven Pipe Piles
+ Because (a) engineered fill of nominal 12 ft thickness will be placed on the normally-consolidated CL clay
+ across the Block B footprint, inducing consolidation of the clay and downdrag on any deep foundation
+ subsequently driven through it; (b) column loads at Block B exceed the safe capacity of spread footings on the
+ upper SP-SM sand; and (c) settlement of a shallow foundation on the upper sand would be governed by
+ consolidation of the underlying clay, deep foundations are recommended at Block B.
+ Recommended pile type: Closed-end driven steel pipe piles, driven through the engineered fill, the upper sand,
+ and the CL clay to bearing in the dense SW-GW sand and gravel aquifer below El. 720.0. The tip elevation is to
+ be selected by the Structural Engineer of Record to develop the required end-bearing resistance and to satisfy
+ the geotechnical capacity check at that tip, using conventional static analysis (Meyerhof, Nordlund or
+ equivalent method) with an appropriate factor of safety against ultimate axial resistance. Driving will be
+ verified with a wave-equation analysis, dynamic testing on the first production pile per block, and pile-driving
+ records for every pile.
+ Axial demand on the pile must include the anticipated
+ downdrag load computed by the neutral-plane method for the clay stratum (and for the engineered fill above it,
+ if consolidation of the fill and of the clay is not substantially complete at the time of pile installation). Because
+ the engineered fill will be placed shortly before pile driving in the anticipated schedule, and because the
+ coefficient of consolidation of the CL clay indicates a primary-consolidation time on the order of years,
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                          Page 17
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+ substantial soil-pile interaction is expected during service, and must be addressed in the pile design.
+
+
+ Working grade for driving: Piles are anticipated to be driven from the raised working grade at El. 750.0 (i.e.,
+ after placement of the Block B engineered fill). The pile installation contractor is to be provided with the
+ driving-length range consistent with the target tip elevation.
+
+ 9.4 Block B Plant-Room Excavation
+ The plant-room excavation is planned to reach subgrade at approximately El. 726.0, which lies within the CL
+ clay approximately 6 ft above the top of the confined SW-GW aquifer at El. 720.0. The confined piezometric
+ head in the aquifer is at El. 738.0 (Section 7.2), i.e., approximately 12 ft above the planned subgrade.
+ This excavation will develop confined-aquifer uplift on the clay plug that separates the subgrade from the
+ aquifer (Section 8.2). The clay-plug residual thickness of only 6 ft is not, on its own, sufficient to resist the
+ uplift pressure with an adequate factor of safety against base heave . Design mitigation is required. Options that
+ the design team should evaluate include, individually or in combination:
+      • Pressure-relief wells screened in the aquifer at or immediately outside the excavation footprint, pumped
+      to reduce the piezometric head at the excavation subgrade elevation to a value that provides an adequate
+      factor of safety against base heave for the intended excavation duration;
+      • Deeper temporary sheeting with toe embedment penetrating into or through the clay and into the
+      aquifer, so as to cut off inflow and confine the flow field around the sheeting toe;
+      • Staged excavation or temporary ballast to preserve resisting weight against uplift during periods of
+      exposure;
+      • Alternative subgrade elevation, if any is available in the plant-room programming.
+ The Contractor’s dewatering plan and the shoring design (both delegated designs) must together demonstrate an
+ adequate factor of safety against base heave at the planned subgrade elevation, throughout the planned
+ excavation duration, using the confined piezometric head El. 738.0 and the parameters in this report.
+
+
+
+
+ 9.5 Engineered Fill Placement over the Clay
+ Bringing the Block B footprint to design grade requires placement of engineered fill of nominal 12 ft thickness
+ (from natural ground at El. 738.0 up to design grade at El. 750.0). Because there is no substantial engineered fill
+ or naturally overconsolidated material above the clay at Block B, the engineered fill is placed directly on the
+ stripped clay surface after topsoil removal only.
+ The engineered fill loads the underlying normally-consolidated CL clay as an areal surcharge, and consolidation
+ of the clay under the fill surcharge will occur. Under the parameters of Table 5-1, the settlement caused by 12 ft
+ of fill placed as a wide, essentially areal surcharge is substantial and will accrue over a period on the order of
+ years. The engineering consequences must be reconciled by the design team:
+      • If the fill is placed and given time to allow the underlying clay to substantially complete primary
+      consolidation before piles are driven and the podium is erected, then the residual downdrag on the piles
+      (and the residual differential settlement of any structure bearing at grade) is minimized. This is the
+      preferred sequence.
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                        Page 18
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+      • If the schedule requires piles to be driven, and structural loads to be applied, before the underlying clay
+      has substantially consolidated, then the still-developing consolidation of the clay must be treated as
+      an added load.      Downdrag load contributions from the still-consolidating clay must be included
+      additively in the axial demand on the pile, in accordance with Section 8.3.
+ Requirements for the fill material itself — gradation, compaction, moisture window, layer thickness and testing
+ frequency — are to be specified in the project structural fill specification (Section 31 20 00) and controlled by
+ the independent Laboratory. Compaction is to be to 95 percent of the ASTM D1557 (modified Proctor)
+ maximum dry density with a moisture window from −1 percent to +2 percent of the modified Proctor optimum;
+ density and moisture must both be satisfied for acceptance.
+
+ 9.6 Dewatering, Excavation and Construction Considerations
+      • The basement excavation for Blocks A and B, with a subgrade at approximately El. 731.5, is above the
+      top of the clay (El. 738.0) and above the confined head (El. 738.0), but it is below the shallow water table
+      (El. 742.0). Dewatering to control the shallow water table will be required in the upper sand around the
+      basement excavation but will not reduce the confined head in the deep aquifer, and is not by itself a
+      mitigation for the plant-room base-heave problem.
+      • The confined-aquifer condition and the aquitard behavior of the CL clay must be preserved. Any activity
+      that penetrates the clay across the plant-room footprint — including piles, pressure-relief wells, or shoring
+      elements — must be sealed at the aquitard elevation so as not to short-circuit the aquitard.
+      • Temporary sheeting design is a delegated design and is not scoped in this report; however, the shoring
+      designer must be furnished with the confined head El. 738.0, the shallow water table El. 742.0, and the
+      strength parameters and unit weights of each stratum for use in the shoring calculations.
+      • Dewatering discharge is subject to Ohio EPA NPDES permitting requirements.
+      Discharge quality (turbidity, TSS) and discharge quantity (rate, volume) will need to be permitted by the
+      Contractor as part of the dewatering plan.
+
+
+ 10. LIMITATIONS
+ This report has been prepared exclusively for Thornbury State University and its authorized representatives for
+ the specific purpose of geotechnical design and construction of the Birchwood Village Package A project at
+ 1802 Larchwood Avenue, Columbus, Ohio. The interpretations, conclusions and recommendations presented
+ herein are based on the field exploration and laboratory testing described, on the current design intent of the
+ project as communicated by the Owner and by the Engineer of Record, and on the professional judgment of
+ Kelbrook Geotechnical.
+ Subsurface conditions between and beyond the borings may vary from those encountered, and conditions may
+ change with time. The recommendations of this report are based on the assumption that conditions between the
+ borings are similar to those observed in the borings; if conditions materially different from those described are
+ encountered during construction, Kelbrook must be notified promptly so that the recommendations may be
+ re-evaluated. Groundwater conditions are the readings observed during the monitoring period described;
+ long-term or extreme conditions may vary.
+ This report is not intended to serve as, and does not constitute, a construction specification. Recommendations
+ should be interpreted in the context of the full report; individual paragraphs, tables or values taken out of
+ context may be misleading.
+
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                        Page 19
+Kelbrook Project No. KGI-2024-0417                          Birchwood Village Package A — Geotechnical Report — Rev.2
+
+
+ The professional services described herein were performed in accordance with generally accepted geotechnical
+ engineering practice in the State of Ohio at the time this report was prepared. No other warranty, express or
+ implied, is made.
+
+
+ 11. APPENDICES
+
+ The following appendices are furnished as separate deliverables in support of this report:
+ Appendix A — Boring Logs and Groundwater Monitoring Record
+ Individual logs for Borings B-01 through B-09, including SPT records, sample recovery, soil classifications
+ and installation details of the shallow standpipe and deep piezometers, together with the tabulated groundwater
+ monitoring readings from 11/22/2024 through the current monitoring round, and a schematic boring-location
+ plan for the site. Reference: Boring_Logs_and_GW_Monitoring_B01-B09.pdf.
+ Appendix B — Laboratory Consolidation Test Data (ASTM D2435)
+ Vantree Materials Testing, LLC laboratory report on one-dimensional consolidation testing of Shelby-tube
+ samples B-06 U3 and B-08 U2, including e-log p' plots, Casagrande construction for σ'p, and
+ time-consolidation curves. Reference: Consolidation_Test_Data_D2435.xlsx.
+
+
+
+
+                 End of Report — Kelbrook Project No. KGI-2024-0417, Rev.2, dated 02/14/2025.
+
+   This Revision 2 issue of the Geotechnical Investigation Report for Birchwood Village Package A supersedes
+   Revision 1 dated December 12, 2024, in its entirety, and has been prepared by Kelbrook Geotechnical, Inc.,
+    1120 Kinnear Road, Columbus, Ohio 43212, for the use of Thornbury State University and its authorized
+                          representatives on the Birchwood Village Expansion Program.
+
+
+
+
+Kelbrook Geotechnical, Inc. | 1120 Kinnear Road, Columbus, Ohio 43212 | (614) 555-0204                        Page 20
+

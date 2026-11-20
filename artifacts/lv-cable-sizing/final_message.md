@@ -1,17 +1,11 @@
-# lv-cable-sizing
+Completed and verified `/filesystem/electrical__lv_cable_sizing__blind/output/submission.zip`.
 
-This handoff summary was reconstructed during Stage 1 packaging; it is not an original harness response.
+The package contains:
 
-Staged version: v3. Deliverables in the task container:
+- `wire_schedule.csv`: all 32 circuits, with conductor selections, EGCs, routes, ampacity, voltage-drop, and duct data.
+- `E-621_wire_schedule.dxf`: title-blocked schedule sheet with circuit and conductor annotations.
+- `calc_book.xlsx`: front-sheet parameters, duct assignments, and detailed cost ledger.
+- `design_basis.md`: JSON-fronted engineering narrative covering codes, environment, voltage drop, ducts, thermal effects, materials, and cost.
+- `constraint_register.xlsx`: 125 traced compliance requirements.
 
-- `/filesystem/electrical__lv_cable_sizing__blind/output/submission.zip`
-
-The submission archive contains:
-
-- `wire_schedule.csv`
-- `E-621_wire_schedule.dxf`
-- `calc_book.xlsx`
-- `design_basis.md`
-- `constraint_register.xlsx`
-
-No solve or grading was performed during packaging. See the repository-root final_message.md for study scope and confirmation limits.
+Key results: selected package cost is `$150,637.22`, conductor length is `40,888 ft`, the 6% conductor quantity discount applies, five large conductor sizes are used, and all three duct-bank assignments are documented. The archive passed ZIP integrity and cross-file checks.

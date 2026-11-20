@@ -1,0 +1,491 @@
+Calloway Braddock Structural Engineers, LLC                                                          CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+                CALLOWAY BRADDOCK STRUCTURAL ENGINEERS, LLC
+                                                812 East Broad Street · Columbus, OH 43205
+                                                  (614) 555-0163 · callowaybraddock.com
+
+
+
+
+                                 DESIGN BASIS MEMORANDUM
+                                   Codes, Loads and Load Combinations — Package A
+
+
+           Project:                           Birchwood Village Expansion — Package A
+           Owner:                             Thornbury State University
+           Site:                              1802 Larchwood Avenue, Columbus, OH 43210
+           Subject:                           Codes, Loads and Load Combinations — Package A
+           Document No.:                      CB-DBM-001
+           Revision:                          Rev.2
+           Date:                              11/14/2025
+
+           Prepared by:                       Calloway Braddock Structural Engineers, LLC
+           Engineer of Record:                Gregory Nash, PE — Ohio PE #E-63421
+
+
+
+
+                                Sealed and signed 11/14/2025 — Gregory Nash, PE — OH #E-63421
+
+
+
+
+      This document establishes the governing structural design basis for Package A. Distribution is limited to the Owner, the
+     Architect of Record, Kelbrook Geotechnical, Kesterline Engineering (delegated shoring), and the Package A design team.
+                                          Uncontrolled copies are for information only.
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                             Page 1
+Calloway Braddock Structural Engineers, LLC                                                         CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+   1. PURPOSE AND SCOPE
+   This memorandum establishes the governing codes, reference standards, site parameters, design loads, load
+   combinations, and serviceability criteria adopted for the structural design of Package A of the Birchwood Village
+   Expansion. Package A comprises three student-housing blocks (Blocks A, B and C) constructed over a shared
+   podium, one basement level beneath Blocks A and B, and a separate deep plant-room excavation planned beneath
+   Block B. The design basis stated herein governs all Package A calculations, drawings, and specifications issued
+   by the Engineer of Record and controls the interpretation of subordinate design documents where a conflict
+   arises.
+   This Rev.2 issue supersedes Rev.1 dated 07/18/2025. Substantive changes since Rev.1 are recorded in the
+   Revision Block on the final page.
+
+   2. GOVERNING CODES AND REFERENCE STANDARDS
+   The Project is designed in accordance with the following:
+        • Ohio Building Code (2024 edition, adopting IBC 2021 with Ohio amendments) — governing building
+        code as adopted by the State of Ohio; Chapter 16 (Structural Design) references ASCE 7-16 for loads.
+        • ACI 318-19, Building Code Requirements for Structural Concrete and Commentary — reinforced concrete
+        design, detailing, cover, and serviceability.
+        • ASCE 7-16, Minimum Design Loads and Associated Criteria for Buildings and Other Structures — dead,
+        live, snow, wind, seismic loads and load combinations.
+        • AISC 360-16, Specification for Structural Steel Buildings — structural steel members and connections at
+        podium framing and roof.
+        • ACI 301-20 for cast-in-place concrete construction requirements referenced through Spec 03 30 00.
+        • ASCE 32-01 for frost-protected shallow foundations where applicable at Block C perimeter.
+   Materials and test methods are governed by the specifications listed in Section 03 20 00, 03 30 00, and 31 20 00
+   (Rev.2, current at the date of this memorandum), and where cited by ASTM designation on the drawings.
+   Where an inconsistency arises between the Ohio Building Code (adopting IBC 2021) and a referenced consensus
+   standard, the more stringent provision governs unless the Ohio amendment expressly modifies the standard.
+
+   3. SITE CONDITIONS SUMMARY
+   The following elevations and stratigraphy are adopted for structural design and are taken from the Kelbrook
+   Geotechnical Investigation Report — Package A (Rev.2, 02/14/2025) and from the Boring Logs and
+   Groundwater Monitoring Records (B-01 through B-09):
+
+      Parameter                                               Value
+                                                              El. 750.0 ft (Blocks A and C; Block B footprint restored to
+      Design grade elevation
+                                                              El. 750.0 by engineered fill)
+      Design water table (unconfined)                         El. 742.0 ft
+      Confined piezometric head (deep aquifer)                El. 738.0 ft
+      Top of confined sand and gravel aquifer                 El. 720.0 ft
+      Clay aquitard                                           El. 738.0 down to El. 720.0 (18 ft thick, CL, γ = 120 pcf)
+      Upper sand (SP-SM)                                      Grade to El. 738.0, γ = 118 pcf
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                            Page 2
+Calloway Braddock Structural Engineers, LLC                                                        CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+      Parameter                                               Value
+      Confined aquifer (SW-GW)                                Below El. 720.0, γ = 130 pcf
+
+   The design water table El. 742.0 ft is based on 12 monitoring readings taken across three shallow standpipes and
+   two deep piezometers between 11/22/2024 and the date of Rev.2 issue, with shallow water levels in the range El.
+   741.6 to El. 742.4 and deep piezometer readings in the range El. 737.7 to El. 738.3 confirming the confined head
+   at El. 738.0.
+   The Block B footprint is a former surface-drainage low; engineered fill has been placed from El. 738.0 up to El.
+   750.0 to restore working grade. The full 12 ft of fill acts as a permanent surcharge on the underlying clay for
+   settlement and downdrag purposes.
+
+   4. GRAVITY LOADS
+   4.1 Dead Loads (self-weight of permanent construction)
+   Self-weight of concrete taken as 150 pcf (reinforced normal-weight); structural steel per AISC Manual weights;
+   masonry per architectural spec. Specific superimposed dead-load allowances at podium and typical floors:
+
+      Element                                                                          Dead Load
+      Reinforced concrete (normal weight)                                              150 pcf
+      Basement mat self-weight (3.0 ft thickness)                                      450 psf
+      Basement floor topping (finish and lightweight setting bed)                      50 psf
+      Basement superimposed permanent load (mechanical fits, partitions, ceiling) 200 psf
+      Podium slab superimposed dead (topping, MEP, ceilings)                           30 psf
+      Typical housing floor superimposed dead                                          20 psf
+      Roof superimposed dead (membrane, insulation, ballast)                           15 psf
+      Exterior cladding allowance (unit masonry veneer with rainscreen)                55 psf of wall area
+
+   4.2 Live Loads (ASCE 7-16 Table 4.3-1)
+      Occupancy / Element                                                       Uniform Live Load            Concentrated
+      Residential (dormitory, private rooms and corridors serving them)                40 psf                    —
+      Corridors above first floor (public)                                             80 psf                    —
+      First-floor lobbies and public corridors                                        100 psf                    —
+      Podium — assembly / commons and access corridors                                100 psf                    —
+      Basement mechanical rooms                                                       150 psf                    —
+      Basement general storage and back-of-house                                      125 psf                    —
+      Stairs and exit ways                                                            100 psf                   300 lb
+      Roof (ordinary flat, not accessible for assembly)                                20 psf                    —
+   Live load reduction has been applied per ASCE 7-16 §4.7 where permitted; live loads on assembly floors and
+   roof snow are not reduced.
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                            Page 3
+Calloway Braddock Structural Engineers, LLC                                                                           CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+   4.3 Snow (ASCE 7-16 Chapter 7)
+        • Ground snow load, Columbus OH: pg = 20 psf
+        • Exposure factor Ce = 1.0 (partially exposed)
+        • Thermal factor Ct = 1.0 (heated)
+        • Importance factor Is = 1.10 (Risk Category III — student housing serving as post-event congregate care per
+        Owner program brief)
+        • Flat-roof snow load pf = 0.7 · Ce · Ct · Is · pg = 15.4 psf, take pf = 20 psf minimum per §7.3.4 where pg ≤ 20.
+        • Drift and unbalanced loads per §7.6 through §7.8 applied at parapet, offset roofs, and mechanical screens.
+
+   4.4 Superimposed and Special Loads
+        • Elevator machine and pit reactions per elevator supplier data on record.
+        • Mechanical unit reactions per the mechanical equipment schedule, with a 20% dynamic factor at rotating
+        equipment.
+        • Hydrostatic uplift on the basement mat below the water table is treated per applicable code combinations.
+
+
+
+   5. LATERAL LOADS
+   5.1 Wind (ASCE 7-16 Chapters 26 through 30)
+   Directional Procedure (Chapter 27) is used for the Main Wind Force Resisting System (MWFRS); Envelope
+   Procedure (Chapter 28) is used for verification at low-rise blocks. Components and Cladding (C&C) pressures are
+   established per Chapter 30.
+
+      Parameter                                                                                Value
+      Basic wind speed V (Risk Category III, MRI 1,700 yr)                                     115 mph
+      Risk Category                                                                            III
+      Exposure Category                                                                        B (suburban campus setting)
+      Topographic factor Kzt                                                                   1.0
+      Wind directionality factor Kd                                                            0.85
+      Ground elevation factor Ke                                                               1.00
+      Enclosure classification                                                                 Enclosed
+      Internal pressure coefficient GCpi                                                       ±0.18
+      Gust-effect factor G                                                                     0.85 (rigid)
+   C&C pressures for parapet, wall corner (Zone 5), and roof zones (Zones 1-3) are per ASCE 7-16 Chapter 30.
+   Rooftop equipment is designed for uplift and lateral wind per §29.4.
+
+   5.2 Seismic (ASCE 7-16 Chapters 11 and 12)
+   Seismic ground motion parameters for the site were obtained from the USGS seismic design maps (2016 edition,
+   coincident with ASCE 7-16 Chapter 11 reference) for the Package A coordinates. Values below are the
+   design-basis MCE-scaled values used for Package A:
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                                             Page 4
+Calloway Braddock Structural Engineers, LLC                                                      CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+      Parameter                                                                  Value
+      Mapped short-period response acceleration Ss                               0.164 g
+      Mapped 1-s response acceleration S1                                        0.061 g
+      Site Class (from geotech report §5)                                        D — stiff soil (default)
+      Short-period site coefficient Fa                                           1.60
+      1-s site coefficient Fv                                                    2.40
+      MCER short-period spectral acceleration SMS = Fa·Ss                        0.262 g
+      MCER 1-s spectral acceleration SM1 = Fv·S1                                 0.146 g
+      Design short-period response acceleration SDS = 2/3·SMS                    0.175 g
+      Design 1-s response acceleration SD1 = 2/3·SM1                             0.098 g
+      Risk Category                                                              III
+      Seismic Importance Factor Ie                                               1.25
+      Seismic Design Category (governed by Table 11.6-1 and 11.6-2)              B
+   Because SDS = 0.175g and Risk Category III places the structure in SDC B, the Equivalent Lateral Force
+   procedure (§12.8) is used. Response modification and system parameters:
+        • Blocks A, B, C above podium: Ordinary Reinforced Concrete Shear Walls in bearing-wall system (Table
+        12.2-1 line B.4): R = 4, Ω0 = 2.5, Cd = 4, height limit satisfied.
+        • Podium and below-podium diaphragms: two-stage analysis (§12.2.3.2) is not used; the podium is designed
+        as a rigid transfer diaphragm with amplified in-plane demands per §12.10.
+   Redundancy factor ρ = 1.0 (§12.3.4.2 permits ρ = 1.0 for structures assigned to SDC B). Accidental torsion
+   (§12.8.4.2) applied. P-delta effects checked per §12.8.7.
+   Where wind governs over seismic on the MWFRS, wind controls; seismic detailing per Chapter 14 of ACI
+   318-19 (ordinary shear walls) is nonetheless applied at all concrete shear walls.
+
+   5.3 Lateral Earth and Groundwater Pressure
+        • At-rest lateral earth pressure coefficient K0 = 0.50 (drained, level backfill).
+        • Full hydrostatic pressure is applied to basement walls below El. 742.0 with unit weight of water = 62.4 pcf.
+        • Surcharge from vehicular traffic at grade taken as an equivalent 2 ft of soil per §3.2 of the geotechnical
+        report.
+        • The Block B plant-room excavation is bounded by temporary shoring designed by a delegated engineer
+        (Kesterline Engineering, PC).
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                        Page 5
+Calloway Braddock Structural Engineers, LLC                                                     CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+   6. LOAD COMBINATIONS
+   Strength design (LRFD) load combinations for gravity, wind, and seismic follow ASCE 7-16 §2.3.1. Allowable
+   stress combinations (ASD) per §2.4 are used only for soil-structure interaction checks at the geotechnical
+   interface (bearing pressure, settlement) and are stated in the geotechnical calculation package. Load combinations
+   relevant to Package A are set out in full below.
+
+   6.1 Basic Strength Load Combinations — ASCE 7-16 §2.3.1
+           (1) 1.4D
+           (2) 1.2D + 1.6L + 0.5(Lr or S or R)
+           (3) 1.2D + 1.6(Lr or S or R) + (L or 0.5W)
+           (4) 1.2D + 1.0W + L + 0.5(Lr or S or R)
+           (5) 1.2D + Ev + Eh + L + 0.2S
+           (6) 0.9D + 1.0W
+           (7) 0.9D − Ev + Eh
+   Where:
+         D = dead load; L = live load; Lr = roof live; S = snow; R = rain; W = wind; E = earthquake with vertical Ev =
+         0.2·SDS·D and horizontal Eh = ρ·QE component.
+
+   6.2 Counteracting Combinations — ASCE 7-16 §2.3.1(6)–(7)
+   Combinations (6) and (7) — 0.9D + W and 0.9D − E + E — apply where the dead load counteracts (rather than
+   compounds) the effect of the variable load. These combinations apply
+   to the applicable stability check.
+
+   This governs:
+         • Flotation and uplift. A permanent load that resists overturning, sliding, uplift or flotation
+         is taken at 0.9D, with an explicit factor of safety stated; minimum 1.5 for sliding and base heave.
+
+
+
+         • Overturning of shear walls. Wind and seismic overturning at Blocks A, B and C shear walls, and at
+         podium transfer walls, are checked with 0.9D on the resisting side.
+         • Uplift on Block B piles under wind and seismic. Piles are checked for reversal per §12.13 with 0.9D on
+         the gravity leg.
+   The design basis for each element applies the appropriate combination
+   on the corresponding sheet of the calculation package.
+
+
+
+   6.3 Serviceability Combinations — ASCE 7-16 Appendix C and ACI 318-19 §24.2
+   Deflections, drift and vibration are checked under service (unfactored) load combinations:
+         • D + L (immediate deflection, brittle             )
+         • D + 0.5L + 0.7W (drift check under wind)
+         • D + 0.7E (drift check under seismic)
+         • Sustained (D + long-term L) with the ACI 318-19 §24.2.4 long-term multiplier applied
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                       Page 6
+Calloway Braddock Structural Engineers, LLC                                                                                         CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+   Interstory drift limits per Table 12.12-1 (0.015hsx for Risk Category III) apply at each Block; wind drift limit
+   h/400 at cladding interfaces per project criterion.
+
+   6.4 Soil and Foundation Combinations
+   Bearing pressure at spread footings and pile-cap contact stresses are checked under ASCE 7-16 §2.4.1 ASD
+   combinations. Downward pile service load 180 kips per pile is checked against allowable geotechnical capacity
+   as established in CB-GEO-004; net uplift under 0.9D combinations is checked separately.
+
+   7. STRUCTURAL SYSTEMS SUMMARY
+   7.1 Basement Mat under Blocks A and B
+   A cast-in-place reinforced concrete mat foundation supports Blocks A and B and the shared basement level.
+         • Underside of mat: El. 731.5 ft
+         • Top of mat: El. 734.5 ft
+         • Thickness: 3.0 ft (nominal, uniform beneath both blocks)
+         • Concrete: f′c = 5,000 psi (Mix 03-CD-A)
+         • Reinforcement: ASTM A706/A706M Grade 60, top and bottom mats
+         • Self-weight 450 psf; superimposed permanent load 250 psf (floor topping 50 psf + basement fitout 200 psf)
+         • Design water table El. 742.0 → 10.5 ft head above mat underside
+         • The mat is checked for flexure, one-way and two-way shear at column locations, and for stability against
+         stability per the applicable code combinations. See CB-STR-011 for the
+
+         calculation.
+
+   7.2 Deep Foundations — Block B
+   Because Block B founds over engineered fill placed on normally-consolidated clay, Block B loads are transferred
+   through driven pipe piles to the dense sand-and-gravel bearing stratum below El. 720.0.
+
+      Parameter                                                  Value
+      Pile type                                                  Closed-end driven pipe pile, ASTM A252 Grade 3
+      Pile diameter                                              16 in
+      Nominal wall thickness                                     0.500 in (structural), with corrosion allowance
+      Pile length                                                62 ft (from cut-off El. ≈ 748 to tip)
+      Tip elevation range                                        El. 686 to El. 690
+      Bearing stratum                                            Dense SW-GW sand and gravel below El. 720.0
+      Design service load per pile                               180 kips
+      Number of piles (Block B group)                            48
+      Installation criteria                                      Driving resistance and PDA per the delegated pile-installation criteria
+   Pile design (CB-GEO-004) shall address end bearing, shaft resistance in the confined aquifer below the neutral
+   plane. Load effects associated with the recently placed engineered fill and
+   the underlying clay shall be evaluated per the delegated pile design. Load combinations for pile design use ASCE 7-16 §2.3 with the counteracting combination in
+
+   Section 6.2 applied to check net uplift under wind and seismic.
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                                                                      Page 7
+Calloway Braddock Structural Engineers, LLC                                                                                                                   CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+   7.3 Shallow Foundations — Block C
+   Block C is founded on isolated spread footings bearing on the upper sand (SP-SM) above the compressible CL
+   clay layer. Settlement of the clay layer is a serviceability consideration and is checked in CB-GEO-007. Bearing
+   capacity is checked under strength-level combinations; settlement is checked under service-level combinations
+   with tolerances established in Spec 31 20 00 Article 3.6 (total 1.0 in, differential 0.5 in).
+
+   7.4 Podium Slab
+   The podium is a one-way post-tensioned / conventionally-reinforced concrete slab band system transferring
+   dwelling-block loads to podium columns and shear walls.
+          • Governing clear span: 26 ft 0 in (312 in)
+          • Concrete: f′c = 5,000 psi
+          • Reinforcement arrangement: single layer of bottom flexural reinforcement (no compression reinforcement;
+          ρ′ = 0)
+          • Supported                       include partition assemblies per Spec 09 21 16
+          ? see Section 8 for applicable deflection limits.
+
+
+   7.5 Superstructure — Blocks A, B, C
+   Blocks A, B and C above the podium consist of ordinary reinforced concrete shear walls (ACI 318-19 §18.10.1
+   not invoked in SDC B) with cast-in-place flat plates and beam-supported slabs at typical residential floors. Steel
+   roof framing (AISC 360-16) supports the mechanical penthouse at Block A.
+
+   7.6 Lateral System
+   The lateral system consists of ordinary reinforced concrete shear walls in each of the three blocks, coupled to the
+   podium as a rigid transfer diaphragm. Overturning is resolved to the mat (Blocks A and B) or to spread footings
+   (Block C).
+
+   8. SERVICEABILITY
+   8.1 Concrete Member Deflection — ACI 318-19 §24.2
+   Deflections of one-way and two-way slabs, beams, and other flexural concrete members are computed and
+   limited per ACI 318-19 §24.2. Immediate deflection is computed using Ie per §24.2.3.5 (or per §24.2.3.6 for
+   two-way members). Long-term (sustained-load) deflection is computed by multiplying the immediate
+   sustained-load deflection by λ∆ per §24.2.4.1.1:
+                             λ∆ = ξ / (1 + 50·ρ′), with ρ′ = 0 for members without compression reinforcement.
+   The long-term multiplier ?? shall be computed per §24.2.4.1 for the reinforcement arrangement of each member.   The long-term multiplier ?? shall be computed per §24.2.4.1 for the reinforcement arrangement
+                                                                                                                   of each member.
+
+
+
+
+   8.2 Applicable Deflection Limits — ACI 318-19 Table 24.2.2
+   Deflection limits are taken from Table 24.2.2 of ACI 318-19. The limit that governs a given member depends on
+   whether the element supports or is attached to nonstructural elements likely to be damaged by large deflections:
+
+      Condition                                                                                                                                           Governing limit
+      Flat roofs not supporting or attached to nonstructural elements                                                                                                        L/180
+      Floors not supporting or attached to nonstructural elements                                                                                                            L/360
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                                                                                                            Page 8
+Calloway Braddock Structural Engineers, LLC                                                      CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+      Condition                                                                                Governing limit
+      Roof or floor construction supporting or attached to nonstructural elements likely to
+      be damaged by large deflections (brittle                                              L/480
+      )
+
+      Roof or floor construction supporting or attached to nonstructural elements not
+                                                                                                        L/240
+      likely to be damaged
+
+
+
+
+   8.3 Story Drift
+   Wind drift limit at cladding interface: h/400 under service wind (10-yr MRI equivalent).
+   Seismic drift limit per ASCE 7-16 Table 12.12-1, Risk Category III: 0.015·hsx.
+
+   8.4 Vibration
+   Floors of assembly occupancies at the podium and Level 2 lounges are checked against AISC Design Guide 11
+   acceleration criteria for walking excitation, with a target peak acceleration ap/g ≤ 0.5% for corridors and lounges.
+
+   8.5 Crack Control and Durability
+   Distribution of flexural reinforcement per ACI 318-19 §24.3, with maximum bar spacing s per §24.3.2. Cover
+   requirements per §20.5.1 and Table 20.5.1.3 govern durability and are stated on Spec 03 20 00.
+
+   9. GEOTECHNICAL DESIGN PARAMETERS SUMMARY
+   The following geotechnical values, extracted from the Kelbrook Geotechnical Investigation Report — Package A
+   (Rev.2), govern the structural design and appear here for coordination only. The geotechnical report remains the
+   controlling document for all soil parameters and any conflict shall be resolved in favor of the report.
+          • Allowable bearing pressure at Block C spread footings on upper sand: 4,000 psf (net, at El. 748 ± 2 ft)
+          • Modulus of subgrade reaction for basement mat (SP-SM, 3 ft plate-width correlation): k = 150 pci
+          • Compressible clay layer (CL): H = 18 ft; γtotal = 120 pcf; Cc = 0.28; e0 = 0.92; σ′0 = 1,850 psf; σ′p = 1,900
+          psf
+          • Design water table: El. 742.0 (unconfined)
+          • Confined piezometric head: El. 738.0 (deep aquifer, top El. 720.0)
+          • Pile capacity and downdrag: refer to CB-GEO-004 for design based on the geotechnical parameters,
+          applying the downdrag load transfer at the neutral plane established by the fill-plus-clay consolidation
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                        Page 9
+Calloway Braddock Structural Engineers, LLC                                                             CB-DBM-001 Rev.2 | 11/14/2025
+
+
+
+
+          pressure distribution.
+
+   10. REFERENCED DOCUMENTS AT DATE OF ISSUE
+          • Kelbrook Geotechnical Investigation Report — Package A, Rev.2, 02/14/2025.
+          • Kelbrook Boring Logs and Groundwater Monitoring Records B-01 through B-09.
+          • Vantree Materials Testing — Consolidation Test Data D2435 (samples B-06 U3, B-08 U2), 01/09/2025.
+          • Vantree Materials Testing — Modified Proctor D1557 Package A structural fill, 09/18/2025.
+          • Calloway Braddock Pile Design Calculations CB-GEO-004, sealed 08/22/2025.
+          • Calloway Braddock Foundation Settlement Calculations — Block C, CB-GEO-007, 09/30/2025.
+   Subordinate calculations (CB-STR-011 basement mat; CB-STR-018 podium slab; CB-STR-020 shear walls)
+   shall demonstrate compliance with this Design Basis Memorandum.
+
+   REVISION BLOCK
+       Rev.         Date         Description                                                        Prepared             Sealed
+          0     05/16/2025       Initial issue for coordination                                    G. Nash, PE       G. Nash, PE
+
+          1     07/18/2025       Wind parameters updated to ASCE 7-16 Directional                  G. Nash, PE       G. Nash, PE
+                                 Procedure; Risk Category confirmed III; snow importance
+                                 factor updated
+      2        11/14/2025        Confined piezometric head added (El. 738.0); site                 G. Nash, PE       G. Nash, PE
+                                 conditions summary expanded to include aquifer top El.
+                                 720.0; Block B pipe pile parameters (16-in dia., 62 ft, tips
+                                 El. 686–690, 180 kips service, 48 piles) added; ASCE 7-16
+                                 §2.3.1(6)?(7) counteracting language added to Section 6.2;
+                                 podium
+                                 slab deflection limit referenced per ACI
+                                 318-19 Table 24.2.2.
+
+
+
+
+   Sealed:
+
+
+
+
+                                                                                                            STATE OF OHIO
+     Gregory Nash, PE                                                                Date: 11/14/2025      GREGORY NASH
+                                                                                                               E-63421
+     Ohio Professional Engineer #E-63421
+     Calloway Braddock Structural Engineers, LLC                                                        PROFESSIONAL ENGINEER
+
+     812 East Broad Street, Columbus, OH 43205
+
+
+
+
+Design Basis Memorandum — Birchwood Village Expansion, Package A                                                                  Page 10
+

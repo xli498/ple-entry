@@ -1,0 +1,3 @@
+Drafted [Halbray_Backfeed_Reply.docx](/filesystem/Halbray_Backfeed_Reply.docx). The letter explains why Alleniom cannot confirm the July 29 backfeed on the July 14 record: Halbray must resolve the customer-side wiring and equipment findings and provide Kelloway Township’s written final electrical approval. It keeps the later permission-to-operate requirements separate. The letter was not sent.
+
+Opened **work package #47** in OpenProject’s **DER Program Backlog Review** project. It records the required corrections, who owns them, and what evidence Halbray must submit before the backfeed can be confirmed.

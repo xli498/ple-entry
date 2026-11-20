@@ -1,0 +1,5 @@
+Saved and checked the one-page [Word note](/filesystem/CFDME-2025-041_resolution_note_revA.docx). No new simulation was run.
+
+The archived plume resolution index is **7.52** using **D* = 3.76 m** and **0.50 m** cells, within the firm’s **5–10** band. The **84% resolved-energy** figure was measured inside the plume, but on the separate fluid-only study, not the production mesh. The note also explains why the reference atmosphere is not site-specific and how lower site pressure would affect the index.
+
+**Item 4 remains open as written.** To close it without a new run, confirm that 0.50 m represents the plume region, put the evidence in the report’s Verification section, and have Marguerite decide whether the index alone is sufficient. If both criteria are required for production, the archived production results must substantiate the resolved-energy fraction.

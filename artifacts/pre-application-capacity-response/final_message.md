@@ -1,0 +1,3 @@
+The DER Program Office sent Northline Renewables a written response declining to confirm **3.0 MW** on Feeder ALN-108. The July 14 records support **0.8 MW as a queue-adjusted planning estimate only**, not confirmed capacity or an interconnection approval.
+
+The [Word response and decision record](/filesystem/ALN-108_PreApplication_Response.docx) is filed in `/DER_Program/Correspondence`. OpenProject case **#44** is closed. The priority feeder re-study and map refresh (**#47**) and the applicant meeting coordination (**#48**) remain open.

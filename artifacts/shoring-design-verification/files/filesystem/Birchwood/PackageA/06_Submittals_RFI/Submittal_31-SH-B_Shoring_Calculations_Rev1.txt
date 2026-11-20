@@ -1,0 +1,849 @@
+                       SUPPORT OF EXCAVATION
+                          DESIGN CALCULATIONS
+                                Block B Plant-Room Excavation
+
+Project:               Birchwood Village Expansion Program — Package A
+Site:                  1802 Larchwood Avenue, Columbus, Ohio 43210
+Owner:                 Thornbury State University
+General Contractor:    Rowan Bay Constructors, Inc.
+Subject:               Block B Plant-Room Excavation — Support of Excavation
+Delegated Designer:    Kesterline Engineering, PC — 215 South Third Street, Suite 402, Columbus, Ohio
+                       43215 — (614) 555-0231
+Submittal No.:         31-SH-B
+Revision:              Rev.1
+Rev.0 Sealed:          07/29/2025
+Rev.1 Sealed:          06/11/2026
+Prepared by:           R. T. Karcher, EIT
+Checked by:            S. M. Ovrud, PE
+Sealed by:             Byron A. Halvard, PE — Ohio P.E. #E-58730
+
+
+
+
+                                                                                  STATE OF OHIO
+                                        Byron A. Halvard, P.E.
+                                                                                BYRON A. HALVARD
+                                    State of Ohio — P.E. #E-58730                    E-58730
+
+
+                                                                              PROFESSIONAL ENGINEER
+                                          Expires: 12/31/2027
+
+                                  Signed and sealed: 06/11/2026 Rev.1
+                              Original signed and sealed: 07/29/2025 Rev.0
+
+
+ Signature:      /s/ Byron A. Halvard, PE — 06/11/2026 — Ohio P.E. #E-58730
+ Date:           06/11/2026
+
+
+
+
+                                                                                                        Page 1
+Kesterline Engineering, PC                                  Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   REVISION HISTORY
+  Rev.          Date       Description                                    Preparer          Checker          Seal
+    0         07/29/2025   Original issue for review.                     R. T. Karcher, EIT S. M. Ovrud, PE Byron A. Halvard,
+                                                                                                             PE
+    1         06/11/2026   Resubmittal — updated sheet-pile section       R. T. Karcher, EIT S. M. Ovrud, PE Byron A. Halvard,
+                           (PZ-27 to PZ-35 upgrade), refined active                                          PE
+                           pressure per updated site work surcharge,
+                           incorporated review comments from Owner's
+                           Rep (Thelbridge, ltr. 08/22/2025) and EOR
+                           (Calloway Braddock, ltr. 09/04/2025). Design
+                           geometry unchanged.
+
+
+
+
+   TRANSMITTAL
+   Submitted for review under Specification Section 31 50 00 — Excavation Support and Protection, on behalf of
+   Rowan Bay Constructors, Inc. (General Contractor). This document constitutes the delegated design of the
+   temporary support of excavation for the Block B plant-room excavation on Package A. It has been prepared
+   under the direct supervision of the undersigned professional engineer, licensed in the State of Ohio.
+   Reference: Contract Section 01 33 00 — Submittal Procedures; Section 31 50 00 — Excavation Support and
+   Protection.
+
+
+
+   TABLE OF CONTENTS
+        Section        Title                                                                                     Page
+          1            Design Basis                                                                                 4
+          2            Reference Documents                                                                          5
+          3            Subsurface Conditions and Soil Parameters                                                    6
+          4            Design Loads and Surcharge                                                                   8
+          5            Lateral Earth Pressure — Active Side                                                         9
+          6            Lateral Earth Pressure — Passive Side                                                        11
+          7            Sheet-Pile Wall — Global Stability                                                           12
+          8            Sliding and Overturning Check                                                                14
+          9            Toe Embedment Check                                                                          15
+          10           Tieback Anchor Design                                                                        16
+          11           Sheet-Pile Structural Section Check                                                          17
+          12           Wall Deflection Estimate                                                                     18
+          13           Construction Sequence and Monitoring                                                         19
+          14           Conclusion and Seal                                                                          20
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                           Page 2
+Kesterline Engineering, PC                                   Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 1 — DESIGN BASIS
+   1.1 General
+   These calculations establish the design of the temporary support of excavation for the deep plant-room excavation
+   planned beneath Block B of Package A of the Birchwood Village Expansion Program. The excavation is a
+   rectangular pit approximately 68 ft × 44 ft in plan, cut into the podium footprint east of the shared Block A/B
+   basement. Excavation commences from a working grade at El. 750.0 and terminates at a plant-room subgrade at
+   El. 726.0, a total excavated depth of 24 ft.
+   The temporary works described herein are the Contractor's means and methods and are supplied by delegated
+   design under Article 3.1.B of Specification Section 31 50 00.
+
+   1.2 Selected System
+   A driven steel sheet-pile wall, restrained by a single row of pre-stressed tieback anchors installed near the top of
+   the excavation, has been selected as the support system. The rationale is:
+      • (a) The excavation is deeper than would be economically supported by a cantilever wall;
+      • (b) A single-level tied wall provides adequate stiffness for the 24 ft depth without a soldier-pile / lagging
+      system, and drives to competent stratigraphy without an oversized toe;
+      • (c) A continuous sheet-pile section provides a substantially closed perimeter and does not rely on open-face
+      lagging.
+   Timber lagging with soldier piles was evaluated and rejected for this reason.
+
+   1.3 Geometry — Adopted Design Values
+    Parameter                                       Symbol           Value                   Reference
+    Working grade (behind wall)                     Elev_wg          El. 750.0 ft            S-101 (Foundation Plan, Rev.4)
+
+    Plant-room subgrade (inside wall)               Elev_sg          El. 726.0 ft            S-101 (Foundation Plan, Rev.4)
+
+    Total excavated depth                           H                24 ft                   Elev_wg − Elev_sg
+    Sheet-pile tip (toe) elevation                  Elev_toe         El. 722.0 ft            Design adopted herein
+    Sheet-pile total length (cutoff El. 750.0 to toe) L_sp           28 ft                   (750.0 − 722.0)
+    Embedment below subgrade                        D                4 ft                    (726.0 − 722.0)
+    Tieback anchor row elevation                    Elev_tb          El. 745.5 ft            Design adopted herein
+    Excavation plan dimensions                      —                68 ft × 44 ft           S-101 (Foundation Plan, Rev.4)
+
+
+   The sheet-pile toe at El. 722.0 lies within the CL clay aquitard described in Section 3, and above the top of the
+   underlying dense sand and gravel stratum. The wall is therefore driven and toed entirely within cohesive
+   stratigraphy.
+
+   1.4 Design Codes and References
+        • IBC 2021 (Ohio Building Code adoption) — general design requirements;
+        • AISC 360-16 — structural steel design of sheet-pile section;
+        • U.S. Steel Sheet Piling Design Manual (1984 ed.) and USACE EM 1110-2-2504 — sheet-pile wall design
+        methodology;
+        • FHWA Ground Anchors and Anchored Systems Manual (FHWA-IF-99-015) — tieback design;
+        • ASCE 7-16 — construction loads and surcharge.
+
+   1.5 Delegated Design Statement
+
+Birchwood Village Expansion Program — Package A                                                                               Page 3
+Kesterline Engineering, PC                            Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   This design is the sole responsibility of the Delegated Designer of record identified on the cover sheet. It has been
+   prepared to support the temporary excavation described in Article 1.1 for the duration of the below-grade Block B
+   plant-room construction only. It does not extend to any permanent below-grade structure, waterproofing, or
+   permanent groundwater control.
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                      Page 4
+Kesterline Engineering, PC                               Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 2 — REFERENCE DOCUMENTS
+   The design incorporates the following reference documents. Where a value is drawn from a reference, the
+   reference is cited at first use.
+
+   Ref.     Document                                                  Author / Source                   Date / Rev.
+            Geotechnical Investigation Report, Birchwood Village                                        02/14/2025,
+   R-1                                                                Kelbrook Geotechnical, Inc.
+            Package A, Report No. KGI-2024-0417                                                         Rev.2
+                                                                      Calloway Braddock Structural      Rev.2,
+   R-2
+            Mat Elevations                                            Engineers, LLC                    12/12/2025
+            Dewatering and Groundwater Control Plan, Package A,       Rowan Bay Constructors, Inc.
+   R-3                                                                                                  06/04/2025
+            Submittal No. 31-DW-A, Rev.1                              (sub to Rowan Bay)
+                                                                      Keil & Draycott / Calloway        Rev.2,
+   R-4      Specification Section 31 50 00 — Excavation Support and
+            Protection                                                Braddock                          03/06/2026
+                                                                      Keil & Draycott / Calloway        Rev.2,
+   R-5      Dewatering — see Reference R-3
+                                                                      Braddock                          03/06/2026
+                                                                      Calloway Braddock Structural      Rev.2,
+   R-6      R-6 — Design Basis Memorandum Package A
+                                                                      Engineers, LLC                    11/14/2025
+
+   Groundwater condition assumption. Excavation groundwater within the Block B plant-room footprint is to be
+   drawn down per Contractor's dewatering plan (Reference R-3, Submittal 31-DW-A). The design as computed
+   herein assumes a dry excavation at and above subgrade El. 726.0 for the duration of the temporary works, per that
+   plan. Water tightness of the sheet-pile section and any residual perimeter seepage from the upper sand is to be
+   handled by the Contractor's dewatering subcontractor in coordination with the sheet-pile installer.
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                       Page 5
+Kesterline Engineering, PC                                    Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 3 — SUBSURFACE CONDITIONS AND SOIL PARAMETERS
+   3.1 Stratigraphy
+   The subsurface profile in the Block B plant-room excavation footprint is taken from the Geotechnical Report
+   (R-1), specifically borings B-04 and B-06, which fall within the footprint, and borings B-07 and B-08 adjacent to
+   the basement mat. The profile adopted for design is summarized as follows:
+
+   Stratum                                Elevation Range                      USCS          Description
+   Engineered structural fill                                                                Compacted granular fill placed
+                                          El. 750.0 to El. 738.0               —
+   (Block B footprint)                                                                       over stripped clay, 10–11/2025
+   Upper Sand                             Absent beneath Block B               SP-SM         Present over Blocks A and C only
+                                                                                             Normally-consolidated, medium
+   Compressible Clay Aquitard             El. 738.0 to El. 720.0               CL
+                                                                                             plasticity clay, 18 ft thick
+   Deep Sand and Gravel                   Below El. 720.0                      SW-GW         Dense sand and gravel
+
+   The full 24 ft of excavation from El. 750.0 to El. 726.0 removes the engineered fill and the upper 12 ft of the CL
+   clay aquitard. The sheet-pile toe at El. 722.0 sits within the CL clay stratum, 2 ft above its base.
+
+   3.2 Soil Design Properties
+   The design values below are adopted from the Geotechnical Report (R-1), Section 6 and Table 6.2, together with
+   the total unit weights carried forward on the Design Basis Memorandum (R-6) as governing profile values.
+
+                     Stratum                       γ_total (pcf)    φ' (deg)         c' (psf)      s_u (psf)          Ka        Kp
+   Engineered Fill (SP-SM)                              118            32               0              —             0.307      3.25
+   Clay Aquitard (CL) — long-term drained               120            26              100             —             0.390      2.56
+   Clay Aquitard (CL) — short-term undrained            120            —               —             1,400            —         —
+   Blended profile above subgrade (12 ft fill /
+                                                     119 (avg)      30 (avg)        0 (design)         —             0.333      3.00
+   12 ft clay)
+
+   3.3 Design Approach — Blended Profile
+   For the calculation of the active pressure diagram behind the wall from working grade El. 750.0 down to
+   subgrade El. 726.0, a blended profile is adopted using a weighted average total unit weight of 119 pcf and an
+   equivalent effective friction angle of 30° (giving Ka = 0.333, Kp = 3.00). The blended profile provides a
+   conservative envelope that:
+       • (a) does not credit any cohesion contribution from the clay,
+       • (b) treats both strata as frictional with a single unified Ka, and
+       • (c) reproduces the vertical stress at subgrade within 1% of the layered calculation.
+   This is a standard simplification for the design of temporary sheet-pile walls of this proportion. The
+   blended-profile assumption is checked against a layered calculation in Section 5.3.
+
+   3.4 Groundwater Assumption for the Design Case
+   Per Section 2 above, and consistent with Reference R-3 (Contractor's dewatering plan, Submittal 31-DW-A), the
+   excavation is to be drawn down per Contractor's dewatering plan. Accordingly, the design case treated in
+   these calculations assumes dry conditions from working grade El. 750.0 down to subgrade El. 726.0 for the
+   duration of the temporary works. No pore water pressure is carried in the active or passive earth-pressure
+   diagrams below.
+
+
+
+Birchwood Village Expansion Program — Package A                                                                                      Page 6
+Kesterline Engineering, PC                              Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 4 — DESIGN LOADS AND SURCHARGE
+   4.1 Surcharge
+   The following surcharges are applied at the ground surface at El. 750.0 behind the wall:
+
+  Source                                               Magnitude              Type          Extent
+  Construction traffic, laydown, and light equipment   q_c = 250 psf          Uniform       Continuous behind wall
+  Adopted nominal live load allowance                  q_L = 100 psf          Uniform       Continuous behind wall
+  Total design surcharge                               q = 250 psf            Uniform       Governing
+
+   The 250 psf construction surcharge governs and is carried as a uniform load applied at the ground surface
+   throughout the calculation. Point loads from heavy equipment (haul trucks, mobile cranes) are excluded from the
+   perimeter zone within 10 ft of the wall by operational restriction; this restriction is to be reflected in the site
+   logistics plan and enforced by the Superintendent.
+
+   4.2 Lateral Pressure from Surcharge
+   Under Rankine theory with a uniform surface surcharge, the additional horizontal pressure applied to the wall is:
+         p_q = Ka · q = 0.333 · 250 = 83 psf
+   This 83 psf is constant with depth over the retained height (rectangular distribution, top to subgrade).
+
+   4.3 Water-Bearing Load
+   No water-bearing lateral pressure is included in the active pressure diagram, because groundwater within the
+   excavation footprint is to be drawn down per the Contractor's dewatering plan (Reference R-3, Submittal
+   31-DW-A) prior to and throughout excavation. The design case is dry above subgrade El. 726.0.
+
+   4.4 Other Loads
+   No adjacent building loads are within the zone of influence of the excavation; the nearest permanent structure is
+   the Blocks A/B basement mat, whose exterior face is beyond the 1H:1V influence line from the wall. No seismic
+   case is required for a temporary support of excavation of this duration (< 6 months planned).
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                      Page 7
+Kesterline Engineering, PC                                Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 5 — LATERAL EARTH PRESSURE — ACTIVE SIDE
+   5.1 Method
+   Rankine active earth pressure theory is applied, with the blended profile per Section 3.3. The wall is assumed
+   vertical, the ground surface horizontal, no wall friction, and no water-bearing pressure (per Section 4.3).
+
+   5.2 Active Earth Pressure Distribution
+   Adopted parameters:
+       • γ_blended = 119 pcf
+       • φ' = 30°, Ka = 0.333
+       • Retained height H = 24 ft (El. 750.0 to El. 726.0)
+       • Surcharge q = 250 psf
+   At any depth z below the ground surface (measured downward from El. 750.0):
+         p_a(z) = Ka · γ · z + Ka · q
+                    = 0.333 · 119 · z + 0.333 · 250
+                    = 39.6 · z + 83          [psf, z in ft]
+   At the subgrade (z = 24 ft, El. 726.0):
+        • Component from soil weight: 0.333 · 119 · 24 = 951 psf ≈ 950 psf
+        • Component from surcharge: 0.333 · 250 = 83 psf
+        • Total active pressure at subgrade: 950 + 83 = 1,033 psf
+   The 950 psf effective lateral pressure at subgrade is the earth-pressure component and is the value carried forward
+   as the governing lateral pressure at the excavated bottom under the drawn-down condition established in Section
+   2 and Section 4.3.
+   Design active pressure diagram (behind wall, El. 750.0 down to El. 726.0):
+         El. 750.0      ____________
+                        |     83 psf (surcharge rectangle)
+                        |___________
+                        |          \
+                        |            \ earth pressure triangle
+                        |             \ (0 psf at top -> 950 psf at bottom)
+                        |              \
+                        |               \
+                        |                 \
+         El. 726.0      |________________\_____
+                                           1,033 psf total
+
+   5.3 Layered Check
+   For verification of the blended-profile simplification, a layered calculation is carried out below (engineered fill
+   El. 750–738 with Ka_fill = 0.307, γ_fill = 118 pcf; clay El. 738–726 with Ka_clay = 0.390, γ_clay = 120 pcf,
+   cohesion neglected).
+
+        Depth                Elev.                      σ_v (psf)              Ka               p_a (psf, earth)
+         0 ft                750.0                         0                   —                       0
+         4 ft                746.0                472                         0.307                   145
+         12 ft               738.0                       1,416                0.307                   435
+        12+ ft        738.0 (top of clay)                1,416                0.390                   552
+
+
+Birchwood Village Expansion Program — Package A                                                                        Page 8
+Kesterline Engineering, PC                            Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+        Depth                Elev.                  σ_v (psf)               Ka               p_a (psf, earth)
+         24 ft               726.0                    2,856                0.390                  1,114
+
+   The layered check yields 1,114 psf earth-pressure component at subgrade. The blended-profile calculation at 950
+   psf is within 15% and is retained as the design value; the layered result is carried into Section 7 as a sensitivity
+   envelope. The blended envelope is confirmed to be a reasonable simplification for wall design, with the layered
+   case treated in the toe-embedment sizing.
+
+   5.4 Governing Design Value
+   Design lateral earth pressure at subgrade El. 726.0: 950 psf
+   This is the value at which the sheet-pile section, tieback design, and toe-embedment check are governed in the
+   sections that follow.
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                     Page 9
+Kesterline Engineering, PC                             Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 6 — LATERAL EARTH PRESSURE — PASSIVE SIDE
+   6.1 Passive Resistance Below Subgrade
+   Below the subgrade at El. 726.0 and down to the sheet-pile toe at El. 722.0, passive earth pressure is mobilized on
+   the inside face of the wall. The stratum is CL clay throughout this 4-ft interval. The design passive pressure is
+   computed using the long-term drained parameters (φ' = 26°, Kp = 2.56, c' = 100 psf), which is conservative
+   relative to the short-term undrained case for the anticipated 4- to 5-month duration of the temporary works.
+   At depth d below subgrade (d in ft):
+         p_p(d) = Kp · γ · d + 2 · c' · √Kp
+                   = 2.56 · 120 · d + 2 · 100 · √2.56
+                   = 307 · d + 320          [psf, d in ft]
+   At the toe (d = 4 ft, El. 722.0):
+         p_p(toe) = 307 · 4 + 320 = 1,228 + 320 = 1,548 psf
+   Design passive pressure diagram (in front of wall, El. 726.0 down to El. 722.0):
+         El. 726.0           _______
+                             |        320 psf (cohesion rectangle)
+                             |___________
+                                       \
+                                         \ frictional triangle
+                                          \ (320 -> 1,548 psf)
+                                           \
+         El. 722.0           ______________\
+                                            1,548 psf
+
+   6.2 Design Passive Force per Foot of Wall
+   Passive force per lineal foot of wall over the 4 ft embedment:
+       • Rectangular (cohesion) contribution: 320 · 4 = 1,280 lb/ft
+       • Triangular (frictional) contribution: 0.5 · (1,548 − 320) · 4 = 2,456 lb/ft
+       • Total mobilizable passive resistance: P_p = 3,736 lb/ft ≈ 3,740 lb/ft
+
+   6.3 Reduction Factor
+   A factor of safety of 1.5 is applied to the mobilizable passive resistance for the design case (temporary works,
+   the delegated designer’s adopted criteria):
+         P_p,design = P_p / 1.5 = 3,740 / 1.5 = 2,493 lb/ft ≈ 2,490 lb/ft
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                    Page 10
+Kesterline Engineering, PC                                   Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 7 — SHEET-PILE WALL — GLOBAL STABILITY
+   7.1 Wall Configuration
+   A single-level tied-back sheet-pile wall is analyzed, per Section 1.2. Configuration:
+       • Top of wall: El. 750.0 (working grade)
+       • Tieback row: El. 745.5 (4.5 ft below top)
+       • Subgrade: El. 726.0
+       • Toe: El. 722.0
+       • Sheet-pile section: PZ-35 (specified below in Section 11)
+
+   7.2 Force Summary — Governing Case
+   Per lineal foot of wall, forces on the analysis strip from El. 750.0 to El. 722.0:
+   Active side (driving):
+ Component                       Distribution                         Resultant (lb/ft)                    Elev. of resultant Arm above toe (ft)
+ Earth pressure triangle above
+                                 0 at 750.0 → 950 at 726.0            0.5 · 950 · 24 = 11,400                  El. 734.0             12.0
+ subgrade
+ Surcharge rectangle above
+                                 83 psf, 24 ft tall                   83 · 24 = 1,992                          El. 738.0             16.0
+ subgrade
+ Earth pressure below            950 at 726.0 → 1,110 at 722.0
+                                                                      0.5 · (950 + 1,110) · 4 = 4,120          El. 724.0                2.0
+ subgrade to toe                 (extrapolated per §5.3)
+ Surcharge rectangle below
+                                 83 psf, 4 ft tall                    83 · 4 = 332                             El. 724.0                2.0
+ subgrade to toe
+ Total driving force P_A                                              17,844 lb/ft
+
+   Passive side (resisting):
+
+                        Component                                Resultant (lb/ft)              Elev. of resultant         Arm above toe (ft)
+      Passive resistance below subgrade (design)                      2,490                     El. 724.0 (approx.)               2.0
+
+   Tieback anchor (resisting):
+   The tieback anchor at El. 745.5, above the top of the excavation, provides the balancing horizontal reaction. The
+   anchor force per lineal foot of wall (T) is determined by horizontal equilibrium of the wall strip in Section 7.3.
+
+   7.3 Horizontal Equilibrium
+   Sum of horizontal forces = 0:
+         P_A − T − P_p,design = 0
+
+         T = P_A − P_p,design
+            = 17,844 − 2,490
+            = 15,354 lb/ft ≈ 15.4 kips/ft
+
+   7.4 Moment Equilibrium (Free-Earth Support Method)
+   Taking moments about the tieback (El. 745.5), positive moment overturning about the toe (checked in Section 8):
+   Sum ΣM_tieback:
+   Driving side (moments taken about El. 745.5):
+
+
+
+Birchwood Village Expansion Program — Package A                                                                                           Page 11
+Kesterline Engineering, PC                           Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+         Earth pressure triangle (11,400 lb/ft at El. 734.0):
+             arm = 745.5 − 734.0 = 11.5 ft (below tieback)
+             Moment = 11,400 · 11.5 = 131,100 ft-lb/ft
+
+         Surcharge rectangle (1,992 lb/ft at El. 738.0):                  arm = 7.5 ft
+             Moment = 1,992 · 7.5 = 14,940 ft-lb/ft
+
+         Earth pressure below subgrade (4,120 lb/ft at El. 724.0):                      arm = 21.5 ft
+             Moment = 4,120 · 21.5 = 88,580 ft-lb/ft
+
+         Surcharge below subgrade (332 lb/ft at El. 724.0):                    arm = 21.5 ft
+             Moment = 332 · 21.5 = 7,138 ft-lb/ft
+
+         Total driving moment about tieback:              M_driv = 241,758 ft-lb/ft
+   Resisting side (moments taken about El. 745.5):
+         Passive resistance (2,490 lb/ft at El. 724.0):                  arm = 21.5 ft
+             Moment = 2,490 · 21.5 = 53,535 ft-lb/ft
+   Net moment about tieback (must be balanced by wall bending; anchor force in Section 7.3 is confirmed):
+         M_net = M_driv − M_pass_about_tb = 241,758 − 53,535 = 188,223 ft-lb/ft
+   The wall section (Section 11) is sized to develop this moment as a simply-supported beam between the tieback
+   and the passive block, with the tieback reaction as computed in Section 7.3.
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                  Page 12
+Kesterline Engineering, PC                             Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 8 — SLIDING AND OVERTURNING CHECK
+   8.1 Sliding
+   The wall does not translate horizontally as a rigid body because it is restrained by the tieback anchor at El. 745.5
+   (see Section 10) and by the passive block below subgrade. The tieback horizontal reaction (15.4 kips/ft, per
+   Section 7.3) is the direct restraint against horizontal translation of the upper wall; the passive block restrains
+   translation of the toe. Sliding is therefore not a rigid-body failure mode for this wall configuration; the applicable
+   checks are the anchor pull-out (Section 10) and the toe embedment (Section 9).
+   For completeness, and treating the sheet-pile section conservatively as a floating rigid strip with only the passive
+   block available for restraint (i.e., without any tieback contribution), the sliding factor of safety is:
+         FS_sliding = P_p / P_A = 3,740 / (17,844 − 4,120 − 332)
+                        = 3,740 / 13,392 = 0.28
+   This is the "wall-free" sliding number and confirms that the tieback is essential to global stability. With the
+   tieback engaged (Section 10), sliding is fully restrained.
+   8.2 Overturning About the Toe
+   The wall as a rigid strip pivots about the toe at El. 722.0. Taking moments about the toe:
+   Total driving moment M_o about toe:
+         Earth pressure triangle:                  11,400 · 12.0 = 136,800 ft-lb/ft
+         Surcharge rectangle above:                 1,992 · 16.0 =         31,872 ft-lb/ft
+         Earth pressure below subgrade: 4,120 · 2.0                   =     8,240 ft-lb/ft
+         Surcharge below subgrade:                     332 · 2.0      =        664 ft-lb/ft
+                                                       M_o            = 177,576 ft-lb/ft
+   Total resisting moment M_r about toe:
+         Tieback reaction (15,354 lb/ft at El. 745.5):                     arm = 23.5 ft
+             Moment = 15,354 · 23.5 = 360,819 ft-lb/ft
+         Passive block (2,490 lb/ft at El. 724.0):                   arm = 2.0 ft
+             Moment = 2,490 · 2.0             =     4,980 ft-lb/ft
+                                                   M_r = 365,799 ft-lb/ft
+   FS_overturning = M_r / M_o = 365,799 / 177,576 = 2.06 > 1.5 required — OK
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                      Page 13
+Kesterline Engineering, PC                             Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 9 — TOE EMBEDMENT CHECK
+   9.1 Free-Earth Support Method
+   The wall is analyzed by the free-earth support method (USACE EM 1110-2-2504, Section 4-6) with the anchor as
+   the upper reaction and the passive block below subgrade as the lower reaction.
+
+   9.2 Required Embedment
+   Taking moments about the tieback anchor and equating driving and resisting moments (with the required factor of
+   safety applied to the passive resistance):
+         Required moment from passive = 1.5 · M_driv_below_subgrade
+             + full driving moment above subgrade / anchor arm ratio
+   Working the free-earth equation for required embedment d below subgrade:
+   The controlling closed-form for d (per USS Sheet Piling Design Manual §7.2, single-anchor case, cohesive soil
+   below dredge line with Kp = 2.56, c' = 100 psf, γ = 120 pcf) reduces to:
+         (1/6) · Kp · γ · d³ + c' · √Kp · d² − M_A / z_A = 0
+   Solving iteratively with M_A = 188,223 ft-lb/ft and z_A = 23.5 ft (arm from toe to tieback):
+         Trial d = 4.0 ft:         (1/6)(2.56)(120)(64) + (100)(1.6)(16) − (188,223/23.5)
+                                   = 3,277 + 2,560 − 8,010 = −2,173               (deficit)
+         Trial d = 4.5 ft:         (1/6)(2.56)(120)(91.1) + (100)(1.6)(20.25) − 8,010
+                                   = 4,664 + 3,240 − 8,010 = −106                 (essentially balanced)
+         Trial d = 4.6 ft:         (1/6)(2.56)(120)(97.3) + (100)(1.6)(21.16) − 8,010
+                                   = 4,982 + 3,386 − 8,010 = +358                 (satisfied)
+   Required d_min ≈ 4.5 ft. Provided d = 4.0 ft (from El. 726.0 to El. 722.0) is within 12% of the closed-form
+   requirement.
+
+   9.3 Adopted Embedment and Adjustment
+   The provided embedment of 4.0 ft below subgrade is adopted with the tieback capacity increased to compensate
+   for the 12% shortfall in the passive contribution, per USACE EM 1110-2-2504 §5-3. The revised tieback force
+   with the passive design contribution reduced to the mobilizable-at-4 ft value:
+         T_adjusted = P_A − P_p,available_at_4ft
+                        = 17,844 − 0.88 · 2,490
+                        = 17,844 − 2,191
+                        = 15,653 lb/ft
+                        ≈ 15.7 kips/ft            (governs anchor design in Section 10)
+   The 4.0 ft embedment is retained, tieback capacity governed by 15.7 kips/ft, and the resulting wall bending
+   demand is carried into Section 11. Toe embedment OK with adjusted anchor demand.
+   Note: the toe elevation of El. 722.0 is maintained to keep the sheet-pile tips within the CL clay stratum, providing
+   a continuous cutoff along the full excavation perimeter. Additional embedment (deeper drive) is not adopted
+   because it would carry the tips beyond the base of the clay at El. 720.0.
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                    Page 14
+Kesterline Engineering, PC                            Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 10 — TIEBACK ANCHOR DESIGN
+   10.1 Anchor Layout
+       • Row elevation: El. 745.5 (single row)
+       • Horizontal spacing: 6 ft o.c.
+       • Anchor inclination: 20° below horizontal
+       • Bond zone: seated in the deep sand and gravel stratum below El. 720.0 (through-clay penetration)
+       • Free (unbonded) length: 25 ft
+       • Bond (grouted) length: 20 ft
+       • Grout: neat cement grout, 4,000 psi min., pressure-grouted at 150 psi min.
+
+   10.2 Design Load per Anchor
+         Horizontal design load per lineal foot of wall (Section 9.3):                         T = 15,700 lb/ft
+         Load per anchor at 6 ft spacing:               15,700 · 6 = 94,200 lb ≈ 94.2 kips (horizontal)
+         Anchor load along axis (at 20°):               94,200 / cos(20°) = 100,300 lb ≈ 100 kips (design)
+
+   10.3 Anchor Strand
+   Adopt (4) 0.6-in dia. Grade 270 seven-wire prestressing strand per anchor:
+       • Ultimate strength per strand: 58.6 kips
+       • Ultimate strength per anchor: 4 · 58.6 = 234 kips
+       • Design strength (0.6 · GUTS per PTI DC35.1): 0.6 · 234 = 140 kips > 100 kips required — OK
+       • Lock-off load: 0.75 · 100 = 75 kips per anchor (nominal)
+       • Proof test load: 1.33 · 100 = 133 kips per anchor
+
+   10.4 Bond Zone Capacity
+   Grout-to-ground bond stress in dense sand and gravel (per FHWA-IF-99-015 Table 4, pressure-grouted, dense
+   sand and gravel): τ_bond = 20 psi (design)
+   For a 6-in nominal drilled bond diameter and 20 ft bond length:
+         Q_bond = π · 0.5 ft · 20 ft · 20 psi · 144 = 90,478 lb ≈ 90 kips
+   The as-drawn 20 ft bond length develops just under 100 kips. Bond length is increased to 24 ft on final anchor
+   drawings to produce:
+         Q_bond = π · 0.5 · 24 · 20 · 144 = 108,573 lb ≈ 109 kips > 100 kips — OK
+
+   10.5 Overall Anchor Check
+                       Check                      Demand              Capacity               Ratio       Status
+                   Strand tension                 100 kips             140 kips              0.71          OK
+            Grout-to-ground bond (24 ft)          100 kips             109 kips              0.92          OK
+                Grout-to-strand bond              100 kips       140 kips (with 24 ft)       0.71          OK
+               Lock-off load / GUTS               75 kips              234 kips              0.32          OK
+              Proof test (1.33 × design)          133 kips             140 kips              0.95          OK
+
+   All anchors shall be proof-tested per PTI DC35.1 to 133% of design load, with allowable creep of 0.04 in over the
+   6- to 60-minute log-cycle. Any anchor failing proof shall be replaced or supplemented per FHWA-IF-99-015
+   §7.3.
+
+
+Birchwood Village Expansion Program — Package A                                                                   Page 15
+Kesterline Engineering, PC                             Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 11 — SHEET-PILE STRUCTURAL SECTION CHECK
+   11.1 Governing Moment
+   From Section 7.4, the net moment demand at the tieback-anchor arm is 188,223 ft-lb/ft. The maximum bending
+   moment in the sheet-pile section (span between tieback and passive block) is developed at the point of zero shear
+   on the elastic line, computed as follows.
+   Locating the point of zero shear (measured downward from tieback at El. 745.5), where the accumulated
+   horizontal load equals the tieback reaction (15,354 lb/ft):
+   At depth y below tieback (y measured from El. 745.5):
+       • Surcharge contribution: 83 · y
+       • Earth pressure triangle contribution: (0.5) · (39.6 · (y + 4.5)²) − (0.5) · (39.6 · 4.5²)
+   Solving numerically for the depth at which cumulative active pressure integrates to 15,354 lb/ft:
+       • y = 14.6 ft below tieback (at approximately El. 730.9)
+   At this location, the moment in the sheet-pile section (computed as the tieback reaction times its arm minus the
+   load times its centroid arm above the section) is:
+   M_max ≈ 71.2 kip-ft/ft of wall
+
+   11.2 Sheet-Pile Section Selected
+   Rev.1 adopts PZ-35 hot-rolled steel sheet piling (upgraded from PZ-27 in Rev.0), Grade 50 (Fy = 50 ksi):
+
+               Property                                                   PZ-35
+               Section modulus per foot of wall, S                        48.5 in³/ft
+               Moment of inertia per foot of wall, I                      681 in4/ft
+               Weight                                                     35.0 lb/ft² of wall face
+               Web thickness                                              0.500 in
+               Nominal flange width                                       22.6 in
+
+   Allowable bending stress (AISC 360-16 Ch. F, Fy = 50 ksi, Ω = 1.67):
+         F_b,allow = 0.6 · Fy = 30 ksi
+
+         M_allow = F_b,allow · S = 30 · 48.5 = 1,455 kip-in/ft = 121 kip-ft/ft
+   FS_bending = M_allow / M_max = 121 / 71.2 = 1.70 > 1.5 required — OK
+
+   11.3 Driveability
+       • Minimum tip El. required: 722.0
+       • Maximum blow count anticipated in CL clay: 30 blows/ft
+       • Driving equipment: ICE 44B vibratory hammer (drive) with Delmag D19 diesel (finish)
+       • The 28-ft PZ-35 sheet is a single mill length (no splices required)
+
+   11.4 Wale (if used)
+   At the tieback row (El. 745.5), the anchors bear on a horizontal wale of doubled MC 12×50 channels
+   (back-to-back), continuous behind the sheet piling. The wale acts as a horizontal beam spanning between anchors
+   at 6 ft o.c.:
+       • Load per foot on wale: 15,700 lb/ft
+
+
+Birchwood Village Expansion Program — Package A                                                                    Page 16
+Kesterline Engineering, PC                          Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+       • Wale span: 6 ft between anchors
+       • Wale demand moment (simple-beam eqv.): w · L² / 8 = 15,700 · 36 / 8 = 70,650 ft-lb = 70.7 kip-ft
+       • Provided by (2) MC 12×50: 2S = 2 · 44.7 = 89.4 in³
+       • Wale allowable moment: 30 ksi · 89.4 / 12 = 223 kip-ft > 70.7 kip-ft — OK
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                 Page 17
+Kesterline Engineering, PC                           Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 12 — WALL DEFLECTION ESTIMATE
+   12.1 Method
+   The lateral deflection of the sheet-pile wall is estimated by beam-on-elastic-foundation analog (Broms simplified
+   method), for a single-tieback wall with the anchor at El. 745.5.
+
+   12.2 Result
+       • Maximum deflection at the top of the wall (El. 750.0): δ ≈ 0.8 in
+       • Maximum deflection at mid-height (El. 738.0): δ ≈ 1.2 in
+       • Deflection at subgrade (El. 726.0): δ ≈ 0.4 in
+       • Deflection at toe (El. 722.0): δ ≈ 0.1 in
+
+   12.3 Tolerance and Comparison
+   Adopted design criterion — allowable maximum wall deflection H/200 = 24·12/200 = 1.44 in. Predicted
+   maximum of 1.2 in at mid-height is within this tolerance. Behind-wall settlement (empirical from
+   FHWA-IF-99-015 §9) is estimated at ≤ 0.5 in at the wall face, decreasing to zero at approximately 1.5H = 36 ft
+   behind the wall — no adjacent structures fall within this zone.
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                  Page 18
+Kesterline Engineering, PC                                Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 13 — CONSTRUCTION SEQUENCE AND MONITORING
+   13.1 Sequence
+   1. Site preparation, layout of sheet-pile line, and pre-drilling for tip clearance where required.
+   2. Contractor's dewatering system (Submittal 31-DW-A) started and confirmed operating at least 14 days prior to
+   excavation, per that submittal's Article 3.3.
+   3. Sheet piles driven from working grade El. 750.0 to tip El. 722.0 in continuous perimeter sequence.
+   4. Excavate first lift to El. 745.0 (5 ft below working grade); expose tieback horizon at El. 745.5.
+   5. Drill, install, grout, and proof-test tieback anchors on a 6-ft-o.c. horizontal pattern. Lock off each anchor at
+   75% of design (75 kips per anchor).
+   6. Continue excavation in maximum 4-ft vertical lifts to subgrade El. 726.0.
+   7. Continuous monitoring of wall deflection (Section 13.2) during excavation.
+   8. Construct plant-room mat and walls per structural documents (by others).
+   9. Remove tieback anchors and detension per specification prior to backfill; sheet piling to be extracted or cut off
+   at the elevation of the completed plant-room slab, per Contractor's option and coordination with the Owner's
+   Representative.
+
+   13.2 Monitoring
+   During all active excavation and until the plant-room floor and walls are complete:
+
+    Instrument                                   Location                                       Frequency
+    Optical survey targets on wall               Every 25 ft along wall, at top                 Twice daily
+    Inclinometer casings behind wall             3 locations, extending 10 ft below toe         Twice weekly
+    Piezometers (Contractor's dewatering system)Per Submittal 31-DW-A                           Per that submittal
+    Anchor load-cell (proof-test hold anchors)   4 selected anchors                             Daily
+    Visual inspection                            Full wall perimeter                            Continuous during excavation
+
+   Action levels:
+       • Wall deflection ≥ 0.75 in at any target → notify Engineer, review
+       • Wall deflection ≥ 1.20 in at any target → stop excavation, engineering review
+       • Wall deflection ≥ 1.44 in at any target → suspend and mitigate
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                       Page 19
+Kesterline Engineering, PC                                 Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+   SECTION 14 — CONCLUSION AND SEAL
+   14.1 Conclusion
+   The shoring system as designed is adequate for the loading conditions stated. The single-row tied-back sheet-pile
+   wall (PZ-35, tip El. 722.0, tieback at El. 745.5 on 6-ft centers) supports the Block B plant-room excavation from
+   working grade El. 750.0 to plant-room subgrade El. 726.0 (24 ft), under the design lateral pressure of 950 psf at
+   subgrade, with the factors of safety and structural capacity margins summarized below.
+
+   14.2 Summary of Governing Checks
+    Check                                Ref.    Demand                        Capacity / Limit         Result
+    Lateral earth pressure at subgrade   §5      —                             950 psf (design)         Adopted
+    Overturning about toe                §8.2    M_o = 177.6 kip-ft/ft         1.5 · M_o allowed        FS 2.06 OK
+                                                 d_req = 4.5 ft (with anchor                            OK w/ anchor T =
+    Toe embedment (free-earth)           §9                                    d_prov = 4.0 ft (adj.)
+                                                 adj.)                                                  15.7 k/ft
+    Tieback anchor tendon                §10.5   100 kips (design)             140 kips (0.6 GUTS)      FS 1.40 OK
+    Tieback anchor bond (24 ft)          §10.5   100 kips (design)             109 kips                 FS 1.09 OK
+    Sheet-pile bending (PZ-35, Gr. 50)   §11.2   71.2 kip-ft/ft                121 kip-ft/ft            FS 1.70 OK
+    Wall deflection                      §12.3   1.2 in max estimate           1.44 in (H/200)          OK
+
+   14.3 Design Assumptions Carried in the Result
+   The result is contingent on:
+      • (a) Excavation groundwater within the Block B plant-room footprint being drawn down per Contractor's
+      dewatering plan (Submittal 31-DW-A) for the duration of the temporary works, such that the design case of
+      a dry excavation from El. 750.0 to El. 726.0 is achieved;
+      • (b) Surface surcharge behind the wall not exceeding the 250 psf construction surcharge assumed, with
+      heavy equipment restricted from the 10-ft perimeter zone;
+      • (c) Sheet-pile driving to the design tip elevation of El. 722.0 continuously along the excavation perimeter,
+      without gaps, and without splice within the retained height;
+      • (d) Anchors proof-tested per Section 10 and locked off at the specified load;
+      • (e) Monitoring per Section 13, with the action levels observed by the Contractor.
+   Any change to (a)–(e) invalidates the result and requires re-analysis by the Delegated Designer of record.
+
+   14.4 Certification
+   I certify that these design calculations have been prepared under my direct supervision and that I am a
+   duly-licensed Professional Engineer in the State of Ohio. This seal applies to the temporary support of excavation
+   described herein for the Block B plant-room excavation on Package A of the Birchwood Village Expansion
+   Program, and to no other work.
+   Original signed and sealed: 07/29/2025 (Rev.0)
+   Resubmitted, signed and sealed: 06/11/2026 (Rev.1)
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                            Page 20
+Kesterline Engineering, PC                            Submittal 31-SH-B | Rev.1 | Block B Plant-Room Shoring Calculations
+
+
+
+
+                                                                                               STATE OF OHIO
+                                                  Byron A. Halvard, P.E.                    BYRON A. HALVARD
+                                              State of Ohio — P.E. #E-58730                       E-58730
+
+
+                                                                                           PROFESSIONAL ENGINEER
+                                                   Expires: 12/31/2027
+
+
+   Byron A. Halvard, PE
+   Principal Engineer, Kesterline Engineering, PC
+   Ohio P.E. #E-58730
+
+     Signature:          /s/ Byron A. Halvard, PE — 06/11/2026
+     Date:               06/11/2026
+
+        Prepared by:     R. T. Karcher, EIT        Signature:   /s/ S. M. Ovrud           Date:     06/11/2026
+        Checked by:      S. M. Ovrud, PE           Signature:   /s/ B. A. Halvard         Date:     06/11/2026
+
+
+                                   — END OF SUBMITTAL 31-SH-B, Rev.1 —
+
+
+
+
+Birchwood Village Expansion Program — Package A                                                                    Page 21
+
