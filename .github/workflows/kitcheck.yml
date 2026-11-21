@@ -12,6 +12,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ple-entry
+          fetch-depth: 0
 
       - name: Clone official PLE kit
         run: git clone --depth 1 https://github.com/google-research/ple ple-kit
